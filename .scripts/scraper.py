@@ -6,6 +6,7 @@ from typing import Optional, List, Dict
 from pathlib import Path
 from bs4 import BeautifulSoup
 from dataclasses import dataclass
+import html
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
@@ -43,6 +44,10 @@ def get_url() -> Optional[str]:
         logger.error(f"Failed to fetch URL: {e}")
         return None
 
+def sanitize_data(data: str) -> str:
+    """Sanitize data to be safe for HTML display."""
+    return html.escape(data)
+
 def process_csv(url: str) -> Optional[List[Dict]]:
     """Process the CSV file and convert to structured data."""
     try:
@@ -55,11 +60,11 @@ def process_csv(url: str) -> Optional[List[Dict]]:
         sponsors = []
         for row in csv_reader:
             sponsor = Sponsor(
-                organisation_name=row['Organisation Name'],
-                town_city=row['Town/City'],
-                county=row['County'],
-                type_rating=row['Type & Rating'],
-                route=row['Route']
+                organisation_name=sanitize_data(row['Organisation Name']),
+                town_city=sanitize_data(row['Town/City']),
+                county=sanitize_data(row['County']),
+                type_rating=sanitize_data(row['Type & Rating']),
+                route=sanitize_data(row['Route'])
             )
             sponsors.append(sponsor.__dict__)
         
