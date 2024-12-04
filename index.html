@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UK Sponsors Search</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .search-container {
+            margin-bottom: 20px;
+        }
+        input {
+            padding: 8px;
+            width: 300px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 8px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <h1>UK Sponsors Search</h1>
+        <input type="text" id="searchInput" placeholder="Search sponsors...">
+    </div>
+    <table id="sponsorsTable">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Town/City</th>
+                <th>Industry</th>
+                <th>Rating</th>
+            </tr>
+        </thead>
+        <tbody id="sponsorsBody"></tbody>
+    </table>
+
+    <script>
+        async function loadSponsors() {
+            try {
+                const response = await fetch('sponsors.json');
+                const data = await response.json();
+                return data;
+            } catch (error) {
+                console.error('Error loading sponsors:', error);
+                return [];
+            }
+        }
+
+        function displaySponsors(sponsors, searchTerm = '') {
+            const tbody = document.getElementById('sponsorsBody');
+            tbody.innerHTML = '';
+
+            const filteredSponsors = sponsors.filter(sponsor => 
+                Object.values(sponsor).some(value => 
+                    String(value).toLowerCase().includes(searchTerm.toLowerCase())
+                )
+            );
+
+            filteredSponsors.forEach(sponsor => {
+                const row = tbody.insertRow();
+                row.insertCell().textContent = sponsor.name || '';
+                row.insertCell().textContent = sponsor.town || '';
+                row.insertCell().textContent = sponsor.industry || '';
+                row.insertCell().textContent = sponsor.rating || '';
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            const sponsors = await loadSponsors();
+            displaySponsors(sponsors);
+
+            document.getElementById('searchInput').addEventListener('input', (e) => {
+                displaySponsors(sponsors, e.target.value);
+            });
+        });
+    </script>
+</body>
+</html>
