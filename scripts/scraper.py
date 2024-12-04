@@ -76,7 +76,7 @@ def process_csv(url: str) -> Optional[List[Dict]]:
             sponsors.append(sponsor.__dict__)
         
         # Split data into pages and save each page
-        page_size = 100  # Number of sponsors per page
+        page_size = 1000  # Number of sponsors per page
         for i in range(0, len(sponsors), page_size):
             page_data = sponsors[i:i + page_size]
             save_page(page_data, i // page_size + 1)
