@@ -91,9 +91,18 @@ async function searchSponsors(searchTerm) {
     state.currentPage = 1;
     state.currentSubPage = 1;
 
-    const uniqueFilteredSponsors = Array.from(new Set(allFilteredSponsors.map(sponsor => sponsor.organisation_name)))
+    // Filter sponsors based on the search term
+    const filteredSponsors = state.allSponsorsData.filter(sponsor =>
+        sponsor.organisation_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        sponsor.town_city.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        sponsor.county.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        sponsor.type_rating.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        sponsor.route.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+
+    const uniqueFilteredSponsors = Array.from(new Set(filteredSponsors.map(sponsor => sponsor.organisation_name)))
         .map(name => {
-            return allFilteredSponsors.find(sponsor => sponsor.organisation_name === name);
+            return filteredSponsors.find(sponsor => sponsor.organisation_name === name);
         });
 
     // Limit search results to 1000
@@ -305,9 +314,7 @@ document.addEventListener('click', function(event) {
             targetElement.remove();
 // Ensure Flowbite is initialized for dynamic alerts
         }
-    }
-});
-document.addEventListener('click', function(event) {
+    }});document.addEventListener('click', function(event) {
     if (event.target.closest('[data-dismiss-target]')) {
         const button = event.target.closest('button');
         const dismissTarget = button.getAttribute('data-dismiss-target');
