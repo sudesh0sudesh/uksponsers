@@ -3,7 +3,8 @@ const state = {
     currentPage: 1,
     currentSubPage: 1,
     pageSize: 100,
-    sponsorsData: [],
+    allSponsorsData: [], // Master list of all sponsors
+    sponsorsData: [],     // Currently displayed sponsors
     debounceTimeout: null,
 };
 
@@ -13,7 +14,8 @@ async function loadSponsors(page) {
     try {
         const response = await fetch(`sponsors_pages/sponsors_page_${page}.json`);
         const data = await response.json();
-        state.sponsorsData = data;
+        state.allSponsorsData = state.allSponsorsData.concat(data); // Populate master list
+        state.sponsorsData = state.allSponsorsData; // Initially display all sponsors
         return data;
     } catch (error) {
         if (error.name === 'TypeError' && error.message.includes('Failed to fetch')) {
@@ -372,8 +374,6 @@ function displayFilteredSponsors(filteredSponsors) {
             const cell = row.insertCell();
             cell.className = 'px-6 py-4';
             cell.textContent = text;
-        });
-    });
-
+        });    });
     document.getElementById('pageNumber').textContent = `Showing ${filteredSponsors.length} sponsors in the current map view`;
 }
