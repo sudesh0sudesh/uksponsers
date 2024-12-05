@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-papXdX..." crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-sA+e2ZQFAFRvKQWzxq+0KMTkKp6YD+X5C+V6/Amf+L0=" crossorigin="" />
     <script>
         tailwind.config = {
             darkMode: 'class',
@@ -61,6 +62,9 @@
             </div>
             <div id="alertContainer" class="max-w-xl mx-auto mt-4"></div>
         </div>
+
+        <!-- Map Container -->
+        <div id="mapContainer" aria-label="Sponsors Map"></div>
 
         <!-- Table -->
         <div class="relative overflow-x-auto shadow-md sm:rounded-lg animate__animated animate__fadeIn">
@@ -132,5 +136,6 @@
     <!-- Externalize JavaScript and defer non-critical scripts -->
     <script src="scripts.js" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.0/flowbite.min.js" defer></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-o9N1jBBXPOhrYUMQzB+bwqXvE6Z5J7Pu6pw/4ySI1j0=" crossorigin=""></script>
 </body>
 </html>

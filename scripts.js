@@ -151,6 +151,7 @@ const utils = {
 document.addEventListener('DOMContentLoaded', async () => {
     await loadSponsors(state.currentPage);
     displaySponsorsPage(state.currentSubPage);
+    initializeMap();
 
     searchInput.addEventListener('input', utils.debounce(async function(e) {
         if (e.target.value.trim() === '') {
@@ -283,3 +284,58 @@ document.addEventListener('click', function(event) {
         }
     }
 });
+
+// Initialize the map
+function initializeMap() {
+    const map = L.map('mapContainer').setView([54.2361, -4.5481], 6); // Centered over UK
+
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Add markers for each sponsor
+    state.sponsorsData.forEach(sponsor => {
+        if (sponsor.latitude && sponsor.longitude) {
+            const marker = L.marker([sponsor.latitude, sponsor.longitude]).addTo(map);
+            marker.bindPopup(`<strong>${sponsor.organisation_name}</strong><br>${sponsor.town_city}, ${sponsor.county}`);
+        }
+    });
+
+    // Add filtering by map bounds
+    map.on('moveend', () => {
+        const bounds = map.getBounds();
+        const filteredSponsors = state.sponsorsData.filter(sponsor => 
+            sponsor.latitude && sponsor.longitude &&
+            bounds.contains([sponsor.latitude, sponsor.longitude])
+        );
+        displayFilteredSponsors(filteredSponsors);
+    });
+}
+
+// Display filtered sponsors in the table
+function displayFilteredSponsors(filteredSponsors) {
+    const tbody = document.getElementById('sponsorsBody');
+    tbody.innerHTML = '';
+
+    filteredSponsors.forEach(sponsor => {
+        const row = tbody.insertRow();
+        row.className = 'bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600';
+        
+        const cells = [
+            sponsor.organisation_name || '',
+            sponsor.town_city || '',
+            sponsor.county || '',
+            sponsor.type_rating || '',
+            sponsor.route || ''
+        ];
+
+        cells.forEach(text => {
+            const cell = row.insertCell();
+            cell.className = 'px-6 py-4';
+            cell.textContent = text;
+        });
+    });
+
+    document.getElementById('pageNumber').textContent = `Showing ${filteredSponsors.length} sponsors in the current map view`;
+}
