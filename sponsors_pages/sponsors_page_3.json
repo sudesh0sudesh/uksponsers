@@ -1,5 +1,82 @@
 [
   {
+    "organisation_name": "Capacity Place Limited",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Capchase UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Capchase UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Capdrill UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cape Ann Asset Management Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cape Cornwall Club Ltd",
+    "town_city": "Penzance",
+    "county": "Cornwall",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cape Design and Build",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAPE HILL COSMETICS LTD",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cape Hill Medical Centre",
+    "town_city": "Birmingham",
+    "county": "Northamptonshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cape Medical Services Limited",
+    "town_city": "Worcester",
+    "county": "Worcestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAPE POINT SERVICES LTD",
+    "town_city": "Smethwick",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Capecom Ltd",
     "town_city": "London",
     "county": "",
@@ -551,6 +628,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "CAPITAL MEAT AND GROCERY LTD",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "CAPITAL NEWS ENTERPRISE LTD",
@@ -38129,9 +38213,9 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "COMPACT PERSONNEL LTD",
+    "organisation_name": "Compact Personnel Ltd",
     "town_city": "Stockport",
-    "county": "England",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -46606,6 +46690,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Cottage Spice Ltd",
+    "town_city": "Southsea",
+    "county": "Hampshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Cottagefield Stables Limited",
     "town_city": "Hereford",
     "county": "",
@@ -48757,13 +48848,6 @@
   {
     "organisation_name": "CR Trades Ltd, T/A Misano&#x27;s",
     "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "CRA Group Limited",
-    "town_city": "Dartford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -57904,6 +57988,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CYTOSPIRE THERAPEUTICS LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CytoSwim Ltd",
     "town_city": "Coventry",
     "county": "West Midlands",
@@ -65597,13 +65688,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "De Baga Ltd. T/A De Baga",
-    "town_city": "Leeds",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "DE BEERS UK LIMITED",
     "town_city": "London",
     "county": "",
@@ -68509,6 +68593,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Delta Energy Systems (UK) Ltd",
+    "town_city": "East Klibride",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Delta Executive Search Ltd",
     "town_city": "London",
     "county": "",
@@ -69720,6 +69811,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Dental Delight Smiles Limited",
+    "town_city": "Lincolnshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dental Excel Ltd",
     "town_city": "Ipswich",
     "county": "Suffolk",
@@ -69900,103 +69998,5 @@
     "county": "Lancashire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dentistry on Dashwood",
-    "town_city": "Newton Stewart",
-    "county": "Dumfries and Galloway",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DentistryatBD4",
-    "town_city": "Bradford",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DENTLIVA LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dentology Healthcare Limited",
-    "town_city": "Grimsby",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denton Corker Marshall llp",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denton Go Local",
-    "town_city": "Denton",
-    "county": "Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denton St Lawrence Cricket Club",
-    "town_city": "Denton",
-    "county": "Greater Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Denton turret Medical Centre",
-    "town_city": "Newcastle upon Tyne",
-    "county": "-- Please Select --",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denton West Cricket Club",
-    "town_city": "Manchester",
-    "county": "Greater Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Dentons Europe LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dentons Europe LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Dentons UK and Middle East Legal Services",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dentons UK and Middle East Legal Services",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Dentons UK and Middle East Legal Services",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
   }
 ]

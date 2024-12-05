@@ -9576,6 +9576,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AA CAKES LTD",
+    "town_city": "Lincoln",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AA Car Fleet Ltd",
     "town_city": "London",
     "county": "",
@@ -11795,6 +11802,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AB UK MANAGEMENT, LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AB VENTURES EDINBURGH LTD T/A DAY TODAY",
     "town_city": "Haddington",
     "county": "",
@@ -13742,8 +13756,8 @@
   },
   {
     "organisation_name": "ABF DIST LTD",
-    "town_city": "Bracknell",
-    "county": "Berkdhire",
+    "town_city": "LONDON",
+    "county": "London",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -28147,6 +28161,13 @@
     "route": "Seasonal Worker"
   },
   {
+    "organisation_name": "AgriSound Limited",
+    "town_city": "York",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Agri-Tec Ltd T/A Croft feed enterprises",
     "town_city": "Thirsk",
     "county": "North Yorkshire",
@@ -36743,6 +36764,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Alfa Energy Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
     "organisation_name": "Alfa Financial Software Ltd",
     "town_city": "London",
     "county": "",
@@ -44235,6 +44263,13 @@
   {
     "organisation_name": "AM Pizza UK Ltd. T/A Domino&#x27;s Pizza",
     "town_city": "Essex",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AM Plumbing and Heating Services Limited",
+    "town_city": "Luton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -61474,13 +61509,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ARK Consulting Private Limited",
-    "town_city": "Ashford",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Ark Drylining Ltd",
     "town_city": "Grays,",
     "county": "England",
@@ -69970,33 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASSET GUIDE LIMITED",
-    "town_city": "Harrow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asset Infotech Limited",
-    "town_city": "Slough",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asset Management One International Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asset Management One International Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
