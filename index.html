@@ -263,6 +263,11 @@
             });
         });
 
+        // Add the getTotalSubPages function
+        function getTotalSubPages() {
+            return Math.ceil(state.sponsorsData.length / state.pageSize);
+        }
+
         // Add dark mode toggle functionality
         const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
         const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
