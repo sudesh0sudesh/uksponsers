@@ -91,18 +91,20 @@ async function searchSponsors(searchTerm) {
     state.currentPage = 1;
     state.currentSubPage = 1;
 
-    // Filter sponsors based on the search term
-    const filteredSponsors = state.allSponsorsData.filter(sponsor =>
-        sponsor.organisation_name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        sponsor.town_city.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        sponsor.county.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        sponsor.type_rating.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        sponsor.route.toLowerCase().includes(searchTerm.toLowerCase())
+    // Load all sponsors
+    await loadAllSponsors();
+
+    // Filter from the master list without modifying it
+    const allFilteredSponsors = state.allSponsorsData.filter(sponsor => 
+        Object.values(sponsor).some(value => 
+            String(value).toLowerCase().includes(searchTerm.toLowerCase())
+        )
     );
 
-    const uniqueFilteredSponsors = Array.from(new Set(filteredSponsors.map(sponsor => sponsor.organisation_name)))
+    // Remove duplicate sponsors based on a unique identifier, e.g., organisation_name
+    const uniqueFilteredSponsors = Array.from(new Set(allFilteredSponsors.map(sponsor => sponsor.organisation_name)))
         .map(name => {
-            return filteredSponsors.find(sponsor => sponsor.organisation_name === name);
+            return allFilteredSponsors.find(sponsor => sponsor.organisation_name === name);
         });
 
     // Limit search results to 1000
@@ -175,7 +177,8 @@ const utils = {
 
 // Refactored event listeners using cached DOM elements
 document.addEventListener('DOMContentLoaded', async () => {
-    await loadSponsors(state.currentPage);
+    // Load all sponsors data on initialization
+    await loadAllSponsors();
     displaySponsorsPage(state.currentSubPage);
 
     // Modify search input event listener
