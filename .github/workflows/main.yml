@@ -2,7 +2,7 @@ name: Daily Pull
 
 on:
   schedule:
-    - cron: '0 6 */1 * *'  # Runs every 12 hours
+    - cron: '0 6,12,16,20 */1 * *'  # Runs every 12 hours
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
