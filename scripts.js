@@ -52,10 +52,21 @@ function displaySponsorsPage(subPage) {
             sponsor.route || ''
         ];
 
-        cells.forEach(text => {
+        cells.forEach((text, index) => {
             const cell = row.insertCell();
             cell.className = 'px-6 py-4';
-            cell.textContent = text;
+            if (index === 0 && text) { // If first cell and has text
+                const link = document.createElement('a');
+                link.href = `https://www.google.com/search?q=${encodeURIComponent(text)}`;
+                link.textContent = text;
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                link.classList.add('text-blue-600', 'hover:underline'); // Add styles for links
+                cell.appendChild(link);
+                console.log('Added Google search link for:', text); // Debugging
+            } else {
+                cell.textContent = text;
+            }
         });
     });
 
@@ -80,17 +91,6 @@ async function searchSponsors(searchTerm) {
     state.currentPage = 1;
     state.currentSubPage = 1;
 
-    // Load all sponsors
-    await loadAllSponsors();
-
-    // Filter from the master list without modifying it
-    const allFilteredSponsors = state.allSponsorsData.filter(sponsor => 
-        Object.values(sponsor).some(value => 
-            String(value).toLowerCase().includes(searchTerm.toLowerCase())
-        )
-    );
-
-    // Remove duplicate sponsors based on a unique identifier, e.g., organisation_name
     const uniqueFilteredSponsors = Array.from(new Set(allFilteredSponsors.map(sponsor => sponsor.organisation_name)))
         .map(name => {
             return allFilteredSponsors.find(sponsor => sponsor.organisation_name === name);
@@ -111,12 +111,14 @@ async function searchSponsors(searchTerm) {
                 </button>
             </div>
         `;
+        console.log('Search results limited to 1000'); // Debugging
     } else if (uniqueFilteredSponsors.length > 0) {
         state.sponsorsData = uniqueFilteredSponsors;
         displaySponsorsPage(1); // Display first page of search results
         utils.updatePageNumber();
         // Clear any existing alerts
         alertContainer.innerHTML = '';
+        console.log('Search results found:', uniqueFilteredSponsors.length); // Debugging
     } else {
         state.sponsorsData = [];
         displaySponsorsPage(1); // Clear the table
@@ -130,6 +132,7 @@ async function searchSponsors(searchTerm) {
                 </button>
             </div>
         `;
+        console.log('No matching sponsors found'); // Debugging
     }
 
     // Remove map update call since map functionality is removed
@@ -293,6 +296,17 @@ buttons.forEach(button => {
 });
 
 // Ensure Flowbite is initialized for dynamic alerts
+document.addEventListener('click', function(event) {
+    if (event.target.closest('[data-dismiss-target]')) {
+        const button = event.target.closest('button');
+        const dismissTarget = button.getAttribute('data-dismiss-target');
+        const targetElement = document.querySelector(dismissTarget);
+        if (targetElement) {
+            targetElement.remove();
+// Ensure Flowbite is initialized for dynamic alerts
+        }
+    }
+});
 document.addEventListener('click', function(event) {
     if (event.target.closest('[data-dismiss-target]')) {
         const button = event.target.closest('button');
