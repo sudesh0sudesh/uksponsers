@@ -132,18 +132,19 @@
         async function searchSponsors(searchTerm) {
             currentPage = 1;
             currentSubPage = 1;
-            let found = false;
+            let allFilteredSponsors = [];
+            let hasMorePages = true;
 
-            while (!found) {
+            while (hasMorePages) {
                 const sponsors = await loadSponsors(currentPage);
                 if (sponsors.length === 0) {
+                    hasMorePages = false;
                     break;
                 }
 
                 const totalSubPages = getTotalSubPages();
                 for (let sub = 1; sub <= totalSubPages; sub++) {
-                    currentSubPage = sub;
-                    const start = (currentSubPage - 1) * pageSize;
+                    const start = (sub - 1) * pageSize;
                     const end = start + pageSize;
                     const pageSponsors = sponsorsData.slice(start, end);
 
@@ -154,20 +155,21 @@
                     );
 
                     if (filtered.length > 0) {
-                        sponsorsData = pageSponsors;
-                        displaySponsorsPage(currentSubPage, searchTerm);
-                        found = true;
-                        break;
+                        allFilteredSponsors = allFilteredSponsors.concat(filtered);
                     }
                 }
 
-                if (!found) {
-                    currentPage++;
-                    currentSubPage = 1;
-                }
+                currentPage++;
+                currentSubPage = 1;
             }
 
-            if (!found) {
+            if (allFilteredSponsors.length > 0) {
+                sponsorsData = allFilteredSponsors;
+                displaySponsorsPage(1, searchTerm);
+                currentPage = 1;
+                currentSubPage = 1;
+                document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
+            } else {
                 displaySponsorsPage(1, searchTerm);
                 alert('No matching sponsors found.');
             }
@@ -180,7 +182,16 @@
             document.getElementById('searchInput').addEventListener('input', (e) => {
                 clearTimeout(debounceTimeout);
                 debounceTimeout = setTimeout(async () => {
-                    await searchSponsors(e.target.value);
+                    if (e.target.value.trim() === '') {
+                        // Reload the first page if search input is cleared
+                        currentPage = 1;
+                        currentSubPage = 1;
+                        await loadSponsors(currentPage);
+                        displaySponsorsPage(currentSubPage);
+                        document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
+                    } else {
+                        await searchSponsors(e.target.value);
+                    }
                 }, 300);
             });
 
