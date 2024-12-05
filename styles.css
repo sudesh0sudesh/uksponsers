@@ -2,13 +2,19 @@
     --font-family: 'Roboto', sans-serif;
     --hover-background-color: rgba(59, 130, 246, 0.1);
     --transition-duration: 0.3s;
+    --table-header-bg: #f3f4f6; /* Light gray for table headers */
+    --table-row-hover-bg: rgba(59, 130, 246, 0.2); /* Darker hover color */
 }
 
 body {
     font-family: var(--font-family);
 }
 /* Subtle hover effect for table rows */
+#sponsorsTable thead {
+    background-color: var(--table-header-bg);
+}
+
 #sponsorsTable tbody tr:hover {
-    background-color: var(--hover-background-color); /* Tailwind's blue-500 with opacity */
+    background-color: var(--table-row-hover-bg); /* Updated hover color */
     transition: background-color var(--transition-duration) ease;
 }

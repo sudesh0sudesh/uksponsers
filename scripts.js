@@ -122,25 +122,37 @@ async function searchSponsors(searchTerm) {
     }
 }
 
-// Modularize utility functions
+// Cache DOM elements
+const searchInput = document.getElementById('searchInput');
+const alertContainer = document.getElementById('alertContainer');
+const sponsorsBody = document.getElementById('sponsorsBody');
+const pageNumber = document.getElementById('pageNumber');
+const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
+const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
+const themeToggleButton = document.getElementById('theme-toggle');
+const backToTopButton = document.getElementById('backToTop');
+const sponsorsTable = document.getElementById('sponsorsTable');
+const buttons = document.querySelectorAll('button');
+
+// Refine debounce utility to handle 'this' context
 const utils = {
-    debounce: (func, delay) => {
-        return (...args) => {
+    debounce: function(func, delay) {
+        return function(...args) {
             clearTimeout(state.debounceTimeout);
             state.debounceTimeout = setTimeout(() => func.apply(this, args), delay);
         };
     },
     updatePageNumber: () => {
-        document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
+        pageNumber.textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
     }
 };
 
-// Refactored event listeners using utility functions
+// Refactored event listeners using cached DOM elements
 document.addEventListener('DOMContentLoaded', async () => {
     await loadSponsors(state.currentPage);
     displaySponsorsPage(state.currentSubPage);
 
-    document.getElementById('searchInput').addEventListener('input', utils.debounce(async (e) => {
+    searchInput.addEventListener('input', utils.debounce(async function(e) {
         if (e.target.value.trim() === '') {
             state.currentPage = 1;
             state.currentSubPage = 1;
@@ -148,7 +160,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             displaySponsorsPage(state.currentSubPage);
             utils.updatePageNumber();
             // Clear any existing alerts
-            document.getElementById('alertContainer').innerHTML = '';
+            alertContainer.innerHTML = '';
         } else {
             await searchSponsors(e.target.value);
         }
@@ -186,8 +198,8 @@ function getTotalSubPages() {
 }
 
 // Add dark mode toggle functionality
-const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
-const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
+// const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
+// const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
 
 // Change the icons inside the button based on previous settings
 if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -197,7 +209,7 @@ if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localS
     themeToggleDarkIcon.classList.remove('hidden');
 }
 
-document.getElementById('theme-toggle').addEventListener('click', function() {
+themeToggleButton.addEventListener('click', function() {
     themeToggleDarkIcon.classList.toggle('hidden');
     themeToggleLightIcon.classList.toggle('hidden');
 
@@ -231,7 +243,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 });
 
 // Back to Top Button functionality
-const backToTopButton = document.getElementById('backToTop');
+// const backToTopButton = document.getElementById('backToTop');
 
 window.addEventListener('scroll', () => {
     if (window.pageYOffset > 300) {
@@ -251,11 +263,11 @@ backToTopButton.addEventListener('click', () => {
 });
 
 // Enhance table responsiveness
-const sponsorsTable = document.getElementById('sponsorsTable');
+// const sponsorsTable = document.getElementById('sponsorsTable');
 sponsorsTable.classList.add('min-w-full', 'divide-y', 'divide-gray-200');
 
 // Add subtle fade-in animation to buttons
-const buttons = document.querySelectorAll('button');
+// const buttons = document.querySelectorAll('button');
 buttons.forEach(button => {
     button.classList.add('transform', 'transition-transform', 'duration-300', 'hover:scale-105');
 });
