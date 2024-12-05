@@ -1,9 +1,14 @@
+:root {
+    --font-family: 'Roboto', sans-serif;
+    --hover-background-color: rgba(59, 130, 246, 0.1);
+    --transition-duration: 0.3s;
+}
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: var(--font-family);
 }
 /* Subtle hover effect for table rows */
 #sponsorsTable tbody tr:hover {
-    background-color: rgba(59, 130, 246, 0.1); /* Tailwind's blue-500 with opacity */
-    transition: background-color 0.3s ease;
+    background-color: var(--hover-background-color); /* Tailwind's blue-500 with opacity */
+    transition: background-color var(--transition-duration) ease;
 }

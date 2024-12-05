@@ -1,4 +1,3 @@
-
 // Modularize state management
 const state = {
     currentPage: 1,
@@ -123,27 +122,37 @@ async function searchSponsors(searchTerm) {
     }
 }
 
-// Refactored event listeners
+// Modularize utility functions
+const utils = {
+    debounce: (func, delay) => {
+        return (...args) => {
+            clearTimeout(state.debounceTimeout);
+            state.debounceTimeout = setTimeout(() => func.apply(this, args), delay);
+        };
+    },
+    updatePageNumber: () => {
+        document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
+    }
+};
+
+// Refactored event listeners using utility functions
 document.addEventListener('DOMContentLoaded', async () => {
     await loadSponsors(state.currentPage);
     displaySponsorsPage(state.currentSubPage);
 
-    document.getElementById('searchInput').addEventListener('input', (e) => {
-        clearTimeout(state.debounceTimeout);
-        state.debounceTimeout = setTimeout(async () => {
-            if (e.target.value.trim() === '') {
-                state.currentPage = 1;
-                state.currentSubPage = 1;
-                await loadSponsors(state.currentPage);
-                displaySponsorsPage(state.currentSubPage);
-                document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
-                // Clear any existing alerts
-                document.getElementById('alertContainer').innerHTML = '';
-            } else {
-                await searchSponsors(e.target.value);
-            }
-        }, 300);
-    });
+    document.getElementById('searchInput').addEventListener('input', utils.debounce(async (e) => {
+        if (e.target.value.trim() === '') {
+            state.currentPage = 1;
+            state.currentSubPage = 1;
+            await loadSponsors(state.currentPage);
+            displaySponsorsPage(state.currentSubPage);
+            utils.updatePageNumber();
+            // Clear any existing alerts
+            document.getElementById('alertContainer').innerHTML = '';
+        } else {
+            await searchSponsors(e.target.value);
+        }
+    }, 300));
 
     document.getElementById('prevPage').addEventListener('click', async () => {
         if (state.currentSubPage > 1) {
@@ -154,7 +163,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             state.currentSubPage = getTotalSubPages();
         }
         displaySponsorsPage(state.currentSubPage);
-        document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
+        utils.updatePageNumber();
     });
 
     document.getElementById('nextPage').addEventListener('click', async () => {
@@ -167,7 +176,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             state.currentSubPage = 1;
         }
         displaySponsorsPage(state.currentSubPage);
-        document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
+        utils.updatePageNumber();
     });
 });
 
