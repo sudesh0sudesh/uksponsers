@@ -8,15 +8,18 @@ const state = {
     debounceTimeout: null,
 };
 
-// Refactored loadSponsors function
+// Refactored loadSponsors function to prevent duplicates
 async function loadSponsors(page) {
     loadingIndicator.style.display = 'block';
     try {
         const response = await fetch(`sponsors_pages/sponsors_page_${page}.json`);
         const data = await response.json();
-        state.allSponsorsData = state.allSponsorsData.concat(data); // Populate master list
+        // Combine existing data with new data
+        const combinedData = state.allSponsorsData.concat(data);
+        // Remove duplicates based on 'organisation_name'
+        state.allSponsorsData = Array.from(new Map(combinedData.map(sponsor => [sponsor.organisation_name, sponsor])).values());
         if (state.currentPage === 1) {
-            state.sponsorsData = [...state.allSponsorsData]; // Initially display all sponsors only on first load
+            state.sponsorsData = [...state.allSponsorsData]; // Initially display all unique sponsors only on first load
         }
         return data;
     } catch (error) {
@@ -62,7 +65,7 @@ function displaySponsorsPage(subPage) {
     document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
 }
 
-// Refactored searchSponsors function
+// Refactored searchSponsors function to ensure uniqueness
 async function searchSponsors(searchTerm) {
     // Reset pagination
     state.currentPage = 1;
@@ -75,11 +78,8 @@ async function searchSponsors(searchTerm) {
         )
     );
 
-    // Remove duplicate sponsors based on a unique identifier, e.g., organisation_name
-    const uniqueFilteredSponsors = Array.from(new Set(allFilteredSponsors.map(sponsor => sponsor.organisation_name)))
-        .map(name => {
-            return allFilteredSponsors.find(sponsor => sponsor.organisation_name === name);
-        });
+    // Remove duplicate sponsors based on 'organisation_name'
+    const uniqueFilteredSponsors = Array.from(new Map(allFilteredSponsors.map(sponsor => [sponsor.organisation_name, sponsor])).values());
 
     if (uniqueFilteredSponsors.length > 0) {
         state.sponsorsData = uniqueFilteredSponsors;
