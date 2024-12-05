@@ -33,9 +33,9 @@ async function loadSponsors(page) {
 
 // Refactored displaySponsorsPage function
 function displaySponsorsPage(subPage) {
-    console.log('Displaying sponsors page:', subPage); // Added for debugging
     const tbody = document.getElementById('sponsorsBody');
     tbody.innerHTML = '';
+
 
     const start = (subPage - 1) * state.pageSize;
     const end = start + state.pageSize;
@@ -63,7 +63,6 @@ function displaySponsorsPage(subPage) {
                 link.textContent = text;
                 link.target = '_blank';
                 link.rel = 'noopener noreferrer';
-                link.classList.add('text-blue-600', 'hover:underline'); // Add styles for links
                 cell.appendChild(link);
                 console.log('Added Google search link for:', text); // Added for debugging
             } else {
@@ -105,6 +104,7 @@ async function searchSponsors(searchTerm) {
 
     // Remove duplicate sponsors based on a unique identifier, e.g., organisation_name
     const uniqueFilteredSponsors = Array.from(new Set(allFilteredSponsors.map(sponsor => sponsor.organisation_name)))
+        .map(name => {
             return allFilteredSponsors.find(sponsor => sponsor.organisation_name === name);
         });
 
@@ -123,14 +123,12 @@ async function searchSponsors(searchTerm) {
                 </button>
             </div>
         `;
-        console.log('Search results limited to 1000'); // Added for debugging
     } else if (uniqueFilteredSponsors.length > 0) {
         state.sponsorsData = uniqueFilteredSponsors;
         displaySponsorsPage(1); // Display first page of search results
         utils.updatePageNumber();
         // Clear any existing alerts
         alertContainer.innerHTML = '';
-        console.log('Search results found:', uniqueFilteredSponsors.length); // Added for debugging
     } else {
         state.sponsorsData = [];
         displaySponsorsPage(1); // Clear the table
@@ -314,7 +312,11 @@ document.addEventListener('click', function(event) {
         const dismissTarget = button.getAttribute('data-dismiss-target');
         const targetElement = document.querySelector(dismissTarget);
         if (targetElement) {
+});
             targetElement.remove();
+        }
+    }
+});
         }
     }
 });
