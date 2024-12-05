@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 URL = "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers"
-OUTPUT_FILE = "../sponsors.json"
+OUTPUT_DIR = "../sponsors_pages"
 
 @dataclass
 class Sponsor:
@@ -48,6 +48,13 @@ def sanitize_data(data: str) -> str:
     """Sanitize data to be safe for HTML display."""
     return html.escape(data)
 
+def save_page(page_data: List[Dict], page_number: int) -> None:
+    """Save a page of data to a separate JSON file."""
+    output_path = Path(OUTPUT_DIR) / f"sponsors_page_{page_number}.json"
+    with output_path.open('w', encoding='utf-8') as f:
+        json.dump(page_data, f, indent=2)
+    logger.info(f"Saved page {page_number} with {len(page_data)} sponsors to {output_path}")
+
 def process_csv(url: str) -> Optional[List[Dict]]:
     """Process the CSV file and convert to structured data."""
     try:
@@ -68,12 +75,13 @@ def process_csv(url: str) -> Optional[List[Dict]]:
             )
             sponsors.append(sponsor.__dict__)
         
-        # Save to JSON file
-        output_path = Path(OUTPUT_FILE)
-        with output_path.open('w', encoding='utf-8') as f:
-            json.dump(sponsors, f, indent=2)
+        # Split data into pages and save each page
+        page_size = 10000  # Number of sponsors per page
+        for i in range(0, len(sponsors), page_size):
+            page_data = sponsors[i:i + page_size]
+            save_page(page_data, i // page_size + 1)
             
-        logger.info(f"Saved {len(sponsors)} sponsors to {output_path}")
+        logger.info(f"Processed {len(sponsors)} sponsors and saved to pages")
         return sponsors
         
     except (requests.RequestException, csv.Error, json.JSONDecodeError) as e:
