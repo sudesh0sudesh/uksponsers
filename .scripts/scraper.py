@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 URL = "https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers"
-OUTPUT_DIR = "../sponsors_pages"
+OUTPUT_DIR = "sponsors_pages"
 
 @dataclass
 class Sponsor:
