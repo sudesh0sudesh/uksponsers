@@ -91,9 +91,6 @@ async function searchSponsors(searchTerm) {
     state.currentPage = 1;
     state.currentSubPage = 1;
 
-    // Load all sponsors
-    await loadAllSponsors();
-
     // Filter from the master list without modifying it
     const allFilteredSponsors = state.allSponsorsData.filter(sponsor => 
         Object.values(sponsor).some(value => 
