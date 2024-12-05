@@ -30,7 +30,7 @@ async function loadSponsors(page) {
 }
 
 // Refactored displaySponsorsPage function
-function displaySponsorsPage(subPage, searchTerm = '') {
+function displaySponsorsPage(subPage) {
     const tbody = document.getElementById('sponsorsBody');
     tbody.innerHTML = '';
 
@@ -38,13 +38,7 @@ function displaySponsorsPage(subPage, searchTerm = '') {
     const end = start + state.pageSize;
     const pageSponsors = state.sponsorsData.slice(start, end);
 
-    const filteredSponsors = pageSponsors.filter(sponsor => 
-        Object.values(sponsor).some(value => 
-            String(value).toLowerCase().includes(searchTerm.toLowerCase())
-        )
-    );
-
-    filteredSponsors.forEach(sponsor => {
+    pageSponsors.forEach(sponsor => {
         const row = tbody.insertRow();
         row.className = 'bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600';
         
@@ -365,15 +359,4 @@ function displayFilteredSponsors(filteredSponsors) {
         const cells = [
             sponsor.organisation_name || '',
             sponsor.town_city || '',
-            sponsor.county || '',
-            sponsor.type_rating || '',
-            sponsor.route || ''
-        ];
-
-        cells.forEach(text => {
-            const cell = row.insertCell();
-            cell.className = 'px-6 py-4';
-            cell.textContent = text;
-        });    });
-    document.getElementById('pageNumber').textContent = `Showing ${filteredSponsors.length} sponsors in the current map view`;
-}
+            sponsor.county || '',            sponsor.type_rating || '',            sponsor.route || ''        ];        cells.forEach(text => {            const cell = row.insertCell();            cell.className = 'px-6 py-4';            cell.textContent = text;        });    });    document.getElementById('pageNumber').textContent = `Showing ${filteredSponsors.length} sponsors in the current map view`;}
