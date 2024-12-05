@@ -74,7 +74,9 @@
 
     <script>
         let currentPage = 1;
+        let currentSubPage = 1;
         const pageSize = 100;
+        let sponsorsData = [];
         const loadingIndicator = document.getElementById('loadingIndicator');
         let debounceTimeout;
 
@@ -83,6 +85,7 @@
             try {
                 const response = await fetch(`sponsors_pages/sponsors_page_${page}.json`);
                 const data = await response.json();
+                sponsorsData = data;
                 return data;
             } catch (error) {
                 if (error.name === 'TypeError' && error.message.includes('Failed to fetch')) {
@@ -96,11 +99,19 @@
             }
         }
 
-        function displaySponsors(sponsors, searchTerm = '') {
+        function getTotalSubPages() {
+            return Math.ceil(sponsorsData.length / pageSize);
+        }
+
+        function displaySponsorsPage(subPage, searchTerm = '') {
             const tbody = document.getElementById('sponsorsBody');
             tbody.innerHTML = '';
 
-            const filteredSponsors = sponsors.filter(sponsor => 
+            const start = (subPage - 1) * pageSize;
+            const end = start + pageSize;
+            const pageSponsors = sponsorsData.slice(start, end);
+
+            const filteredSponsors = pageSponsors.filter(sponsor => 
                 Object.values(sponsor).some(value => 
                     String(value).toLowerCase().includes(searchTerm.toLowerCase())
                 )
@@ -114,26 +125,32 @@
                 row.insertCell().textContent = sponsor.type_rating || '';
                 row.insertCell().textContent = sponsor.route || '';
             });
+
+            document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
         }
 
         async function searchSponsors(searchTerm) {
-            let page = 1;
+            currentSubPage = 1;
+            let page = currentPage;
             while (true) {
                 const sponsors = await loadSponsors(page);
-                const filteredSponsors = sponsors.filter(sponsor => 
+                if (sponsors.length === 0) {
+                    displaySponsorsPage(currentSubPage, searchTerm);
+                    alert('No matching sponsors found.');
+                    break;
+                }
+                displaySponsorsPage(currentSubPage, searchTerm);
+                const filtered = sponsorsData.filter(sponsor => 
                     Object.values(sponsor).some(value => 
                         String(value).toLowerCase().includes(searchTerm.toLowerCase())
                     )
                 );
-                if (filteredSponsors.length > 0) {
-                    currentPage = page;
-                    displaySponsors(sponsors, searchTerm);
-                    document.getElementById('pageNumber').textContent = `Page ${currentPage}`;
+                if (filtered.length > 0) {
+                    displaySponsorsPage(currentSubPage, searchTerm);
                     break;
                 }
                 if (sponsors.length < pageSize) {
-                    // No more pages to search
-                    displaySponsors([], searchTerm);
+                    displaySponsorsPage(currentSubPage, searchTerm);
                     alert('No matching sponsors found.');
                     break;
                 }
@@ -142,8 +159,8 @@
         }
 
         document.addEventListener('DOMContentLoaded', async () => {
-            let sponsors = await loadSponsors(currentPage);
-            displaySponsors(sponsors);
+            await loadSponsors(currentPage);
+            displaySponsorsPage(currentSubPage);
 
             document.getElementById('searchInput').addEventListener('input', (e) => {
                 clearTimeout(debounceTimeout);
@@ -153,19 +170,25 @@
             });
 
             document.getElementById('prevPage').addEventListener('click', async () => {
-                if (currentPage > 1) {
+                if (currentSubPage > 1) {
+                    currentSubPage--;
+                } else if (currentPage > 1) {
                     currentPage--;
-                    sponsors = await loadSponsors(currentPage);
-                    displaySponsors(sponsors);
-                    document.getElementById('pageNumber').textContent = `Page ${currentPage}`;
+                    await loadSponsors(currentPage);
+                    currentSubPage = getTotalSubPages();
                 }
+                displaySponsorsPage(currentSubPage);
             });
 
             document.getElementById('nextPage').addEventListener('click', async () => {
-                currentPage++;
-                sponsors = await loadSponsors(currentPage);
-                displaySponsors(sponsors);
-                document.getElementById('pageNumber').textContent = `Page ${currentPage}`;
+                if (currentSubPage < getTotalSubPages()) {
+                    currentSubPage++;
+                } else {
+                    currentPage++;
+                    await loadSponsors(currentPage);
+                    currentSubPage = 1;
+                }
+                displaySponsorsPage(currentSubPage);
             });
         });
     </script>
