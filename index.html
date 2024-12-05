@@ -116,6 +116,31 @@
             });
         }
 
+        async function searchSponsors(searchTerm) {
+            let page = 1;
+            while (true) {
+                const sponsors = await loadSponsors(page);
+                const filteredSponsors = sponsors.filter(sponsor => 
+                    Object.values(sponsor).some(value => 
+                        String(value).toLowerCase().includes(searchTerm.toLowerCase())
+                    )
+                );
+                if (filteredSponsors.length > 0) {
+                    currentPage = page;
+                    displaySponsors(sponsors, searchTerm);
+                    document.getElementById('pageNumber').textContent = `Page ${currentPage}`;
+                    break;
+                }
+                if (sponsors.length < pageSize) {
+                    // No more pages to search
+                    displaySponsors([], searchTerm);
+                    alert('No matching sponsors found.');
+                    break;
+                }
+                page++;
+            }
+        }
+
         document.addEventListener('DOMContentLoaded', async () => {
             let sponsors = await loadSponsors(currentPage);
             displaySponsors(sponsors);
@@ -123,8 +148,7 @@
             document.getElementById('searchInput').addEventListener('input', (e) => {
                 clearTimeout(debounceTimeout);
                 debounceTimeout = setTimeout(async () => {
-                    sponsors = await loadSponsors(currentPage);
-                    displaySponsors(sponsors, e.target.value);
+                    await searchSponsors(e.target.value);
                 }, 300);
             });
 
