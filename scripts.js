@@ -15,7 +15,9 @@ async function loadSponsors(page) {
         const response = await fetch(`sponsors_pages/sponsors_page_${page}.json`);
         const data = await response.json();
         state.allSponsorsData = state.allSponsorsData.concat(data); // Populate master list
-        state.sponsorsData = state.allSponsorsData; // Initially display all sponsors
+        if (state.currentPage === 1) {
+            state.sponsorsData = [...state.allSponsorsData]; // Initially display all sponsors only on first load
+        }
         return data;
     } catch (error) {
         if (error.name === 'TypeError' && error.message.includes('Failed to fetch')) {
@@ -62,50 +64,33 @@ function displaySponsorsPage(subPage) {
 
 // Refactored searchSponsors function
 async function searchSponsors(searchTerm) {
+    // Reset pagination
     state.currentPage = 1;
     state.currentSubPage = 1;
-    let allFilteredSponsors = [];
-    let hasMorePages = true;
 
-    while (hasMorePages) {
-        const sponsors = await loadSponsors(state.currentPage);
-        if (sponsors.length === 0) {
-            hasMorePages = false;
-            break;
-        }
+    // Filter from the master list without modifying it
+    const allFilteredSponsors = state.allSponsorsData.filter(sponsor => 
+        Object.values(sponsor).some(value => 
+            String(value).toLowerCase().includes(searchTerm.toLowerCase())
+        )
+    );
 
-        const totalSubPages = getTotalSubPages();
-        for (let sub = 1; sub <= totalSubPages; sub++) {
-            const start = (sub - 1) * state.pageSize;
-            const end = start + state.pageSize;
-            const pageSponsors = state.sponsorsData.slice(start, end);
+    // Remove duplicate sponsors based on a unique identifier, e.g., organisation_name
+    const uniqueFilteredSponsors = Array.from(new Set(allFilteredSponsors.map(sponsor => sponsor.organisation_name)))
+        .map(name => {
+            return allFilteredSponsors.find(sponsor => sponsor.organisation_name === name);
+        });
 
-            const filtered = pageSponsors.filter(sponsor => 
-                Object.values(sponsor).some(value => 
-                    String(value).toLowerCase().includes(searchTerm.toLowerCase())
-                )
-            );
-
-            if (filtered.length > 0) {
-                allFilteredSponsors = allFilteredSponsors.concat(filtered);
-            }
-        }
-
-        state.currentPage++;
-        state.currentSubPage = 1;
-    }
-
-    if (allFilteredSponsors.length > 0) {
-        state.sponsorsData = allFilteredSponsors;
-        displaySponsorsPage(1, searchTerm);
-        state.currentPage = 1;
-        state.currentSubPage = 1;
-        document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
+    if (uniqueFilteredSponsors.length > 0) {
+        state.sponsorsData = uniqueFilteredSponsors;
+        displaySponsorsPage(1); // Call without searchTerm
+        utils.updatePageNumber();
         // Clear any existing alerts
-        document.getElementById('alertContainer').innerHTML = '';
+        alertContainer.innerHTML = '';
     } else {
-        displaySponsorsPage(1, searchTerm);
-        document.getElementById('alertContainer').innerHTML = `
+        state.sponsorsData = [];
+        displaySponsorsPage(1); // Call without searchTerm
+        alertContainer.innerHTML = `
             <div id="alert" class="flex items-center p-4 mb-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert">
                 <i class="fas fa-exclamation-triangle mr-2"></i>
                 <span class="font-medium">No matching sponsors found.</span>
@@ -116,6 +101,9 @@ async function searchSponsors(searchTerm) {
             </div>
         `;
     }
+
+    // Update the map with the filtered sponsors
+    updateMapMarkers();
 }
 
 // Cache DOM elements
@@ -150,16 +138,18 @@ document.addEventListener('DOMContentLoaded', async () => {
     initializeMap();
 
     searchInput.addEventListener('input', utils.debounce(async function(e) {
-        if (e.target.value.trim() === '') {
+        const searchTerm = e.target.value.trim();
+        if (searchTerm === '') {
             state.currentPage = 1;
             state.currentSubPage = 1;
-            await loadSponsors(state.currentPage);
+            state.sponsorsData = [...state.allSponsorsData]; // Reset to master list without duplicating
             displaySponsorsPage(state.currentSubPage);
             utils.updatePageNumber();
             // Clear any existing alerts
             alertContainer.innerHTML = '';
+            await updateMapMarkers(); // Refresh map with all sponsors
         } else {
-            await searchSponsors(e.target.value);
+            await searchSponsors(searchTerm);
         }
     }, 300));
 
