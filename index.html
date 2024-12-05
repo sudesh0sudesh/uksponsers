@@ -7,7 +7,6 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
@@ -45,9 +44,9 @@
 <body>
     <div class="search-container">
         <h1>UK Sponsors Search</h1>
-        <input type="text" id="searchInput" placeholder="Search sponsors...">
+        <input type="text" id="searchInput" placeholder="Search sponsors..." aria-label="Search sponsors">
     </div>
-    <table id="sponsorsTable">
+    <table id="sponsorsTable" role="table">
         <thead>
             <tr>
                 <th>Organisation Name</th>
@@ -60,20 +59,22 @@
         <tbody id="sponsorsBody"></tbody>
     </table>
     <div class="pagination">
-        <button id="prevPage">Previous</button>
+        <button id="prevPage" aria-label="Previous Page">Previous</button>
         <span id="pageNumber">Page 1</span>
-        <button id="nextPage">Next</button>
+        <button id="nextPage" aria-label="Next Page">Next</button>
     </div>
 
     <script>
         let currentPage = 1;
         const pageSize = 100;
+        let totalPages = 1;
 
         async function loadSponsors(page) {
             try {
                 const response = await fetch(`sponsors_pages/sponsors_page_${page}.json`);
                 const data = await response.json();
-                return data;
+                totalPages = Math.ceil(data.total / pageSize);
+                return data.sponsors;
             } catch (error) {
                 if (error.name === 'TypeError' && error.message.includes('Failed to fetch')) {
                     console.error('CORS error: Unable to fetch sponsors.json. Check CORS policy.');
@@ -104,14 +105,22 @@
             });
         }
 
+        function debounce(func, wait) {
+            let timeout;
+            return function(...args) {
+                clearTimeout(timeout);
+                timeout = setTimeout(() => func.apply(this, args), wait);
+            };
+        }
+
         document.addEventListener('DOMContentLoaded', async () => {
             let sponsors = await loadSponsors(currentPage);
             displaySponsors(sponsors);
 
-            document.getElementById('searchInput').addEventListener('input', async (e) => {
+            document.getElementById('searchInput').addEventListener('input', debounce(async (e) => {
                 sponsors = await loadSponsors(currentPage);
                 displaySponsors(sponsors, e.target.value);
-            });
+            }, 300));
 
             document.getElementById('prevPage').addEventListener('click', async () => {
                 if (currentPage > 1) {
@@ -123,10 +132,12 @@
             });
 
             document.getElementById('nextPage').addEventListener('click', async () => {
-                currentPage++;
-                sponsors = await loadSponsors(currentPage);
-                displaySponsors(sponsors);
-                document.getElementById('pageNumber').textContent = `Page ${currentPage}`;
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    sponsors = await loadSponsors(currentPage);
+                    displaySponsors(sponsors);
+                    document.getElementById('pageNumber').textContent = `Page ${currentPage}`;
+                }
             });
         });
     </script>
