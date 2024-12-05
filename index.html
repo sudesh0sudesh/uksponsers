@@ -70,7 +70,7 @@
 
         <!-- Table -->
         <div class="relative overflow-x-auto shadow-md sm:rounded-lg animate__animated animate__fadeIn">
-            <table id="sponsorsTable" class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+            <table id="sponsorsTable" class="w-full text-sm text-left text-gray-500 dark:text-gray-400 min-w-full divide-y divide-gray-200">
                 <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
                     <tr>
                         <th scope="col" class="px-6 py-3">Organisation Name</th>
@@ -87,42 +87,50 @@
         <!-- Pagination -->
         <div class="flex flex-col items-center mt-4 mb-8">
             <div class="inline-flex mt-2 xs:mt-0">
-                <button id="prevPage" class="flex items-center justify-center px-4 h-10 text-base font-medium text-white bg-blue-600 rounded-l hover:bg-blue-700 dark:bg-blue-600 dark:border-blue-700 dark:text-gray-400 dark:hover:bg-blue-700 dark:hover:text-white transition-colors">
+                <button id="prevPage" class="flex items-center justify-center px-4 h-10 text-base font-medium text-white bg-blue-600 rounded-l hover:bg-blue-700 dark:bg-blue-600 dark:border-blue-700 dark:text-gray-400 dark:hover:bg-blue-700 dark:hover:text-white transition-colors transform transition-transform duration-300 hover:scale-105">
                     <i class="fas fa-arrow-left mr-2"></i> Previous
                 </button>
                 <span id="pageNumber" class="flex items-center justify-center px-4 h-10 text-base font-medium text-gray-700 bg-gray-200 dark:bg-gray-700 dark:text-gray-400">
                     Page 1
                 </span>
-                <button id="nextPage" class="flex items-center justify-center px-4 h-10 text-base font-medium text-white bg-blue-600 rounded-r hover:bg-blue-700 dark:bg-blue-600 dark:border-blue-700 dark:text-gray-400 dark:hover:bg-blue-700 dark:hover:text-white transition-colors">
+                <button id="nextPage" class="flex items-center justify-center px-4 h-10 text-base font-medium text-white bg-blue-600 rounded-r hover:bg-blue-700 dark:bg-blue-600 dark:border-blue-700 dark:text-gray-400 dark:hover:bg-blue-700 dark:hover:text-white transition-colors transform transition-transform duration-300 hover:scale-105">
                     Next <i class="fas fa-arrow-right ml-2"></i>
                 </button>
             </div>
         </div>
     </div>
 
+    <!-- Back to Top Button -->
+    <button id="backToTop" class="fixed bottom-6 right-6 p-3 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 transition-opacity opacity-0 pointer-events-none">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
     <!-- Footer -->
     <footer class="bg-white dark:bg-gray-800">
         <div class="max-w-screen-xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-center space-x-6">
-                <a href="#" class="text-gray-400 hover:text-gray-500">
+            <div class="flex justify-center space-x-6 mb-4">
+                <a href="#" class="text-gray-400 hover:text-gray-500 transition-colors">
                     <i class="fab fa-facebook-f"></i>
                     <span class="sr-only">Facebook</span>
                 </a>
-                <a href="#" class="text-gray-400 hover:text-gray-500">
+                <a href="#" class="text-gray-400 hover:text-gray-500 transition-colors">
                     <i class="fab fa-twitter"></i>
                     <span class="sr-only">Twitter</span>
                 </a>
-                <a href="#" class="text-gray-400 hover:text-gray-500">
+                <a href="#" class="text-gray-400 hover:text-gray-500 transition-colors">
                     <i class="fab fa-linkedin-in"></i>
                     <span class="sr-only">LinkedIn</span>
                 </a>
-                <a href="#" class="text-gray-400 hover:text-gray-500">
+                <a href="#" class="text-gray-400 hover:text-gray-500 transition-colors">
                     <i class="fab fa-github"></i>
                     <span class="sr-only">GitHub</span>
                 </a>
             </div>
-            <p class="mt-4 text-center text-sm text-gray-500 dark:text-gray-400">
-                &copy;  Data from UK Gov.
+            <p class="text-center text-sm text-gray-500 dark:text-gray-400">
+                &copy; Data from UK Gov.
+            </p>
+            <p class="text-center text-sm text-gray-500 dark:text-gray-400 mt-2">
+                <a href="#top" class="hover:underline">Back to Top</a>
             </p>
         </div>
     </footer>
@@ -236,12 +244,18 @@
                 state.currentPage = 1;
                 state.currentSubPage = 1;
                 document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
+                // Clear any existing alerts
+                document.getElementById('alertContainer').innerHTML = '';
             } else {
                 displaySponsorsPage(1, searchTerm);
                 document.getElementById('alertContainer').innerHTML = `
-                    <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                        No matching sponsors found.
-                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    <div class="flex items-center p-4 mb-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert">
+                        <i class="fas fa-exclamation-triangle mr-2"></i>
+                        <span class="font-medium">No matching sponsors found.</span>
+                        <button type="button" class="ml-auto -mx-1.5 -my-1.5 bg-red-50 dark:bg-gray-800 text-red-500 rounded-lg focus:ring-2 focus:ring-red-400 p-1.5 hover:bg-red-200 dark:hover:bg-gray-700 inline-flex h-8 w-8" data-dismiss-target="#alert" aria-label="Close">
+                            <span class="sr-only">Close</span>
+                            <i class="fas fa-times"></i>
+                        </button>
                     </div>
                 `;
             }
@@ -261,6 +275,8 @@
                         await loadSponsors(state.currentPage);
                         displaySponsorsPage(state.currentSubPage);
                         document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
+                        // Clear any existing alerts
+                        document.getElementById('alertContainer').innerHTML = '';
                     } else {
                         await searchSponsors(e.target.value);
                     }
@@ -341,6 +357,48 @@
                     behavior: 'smooth'
                 });
             });
+        });
+
+        // Back to Top Button functionality
+        const backToTopButton = document.getElementById('backToTop');
+
+        window.addEventListener('scroll', () => {
+            if (window.pageYOffset > 300) {
+                backToTopButton.classList.remove('opacity-0', 'pointer-events-none');
+                backToTopButton.classList.add('opacity-100', 'pointer-events-auto');
+            } else {
+                backToTopButton.classList.remove('opacity-100', 'pointer-events-auto');
+                backToTopButton.classList.add('opacity-0', 'pointer-events-none');
+            }
+        });
+
+        backToTopButton.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+
+        // Enhance table responsiveness
+        const sponsorsTable = document.getElementById('sponsorsTable');
+        sponsorsTable.classList.add('min-w-full', 'divide-y', 'divide-gray-200');
+
+        // Add subtle fade-in animation to buttons
+        const buttons = document.querySelectorAll('button');
+        buttons.forEach(button => {
+            button.classList.add('transform', 'transition-transform', 'duration-300', 'hover:scale-105');
+        });
+
+        // Ensure Flowbite is initialized for dynamic alerts
+        document.addEventListener('click', function(event) {
+            if (event.target.closest('[data-dismiss-target]')) {
+                const button = event.target.closest('button');
+                const dismissTarget = button.getAttribute('data-dismiss-target');
+                const targetElement = document.querySelector(dismissTarget);
+                if (targetElement) {
+                    targetElement.remove();
+                }
+            }
         });
     </script>
 </body>
