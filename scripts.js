@@ -96,7 +96,22 @@ async function searchSponsors(searchTerm) {
             return allFilteredSponsors.find(sponsor => sponsor.organisation_name === name);
         });
 
-    if (uniqueFilteredSponsors.length > 0) {
+    // Limit search results to 1000
+    if (uniqueFilteredSponsors.length > 1000) {
+        state.sponsorsData = uniqueFilteredSponsors.slice(0, 1000);
+        displaySponsorsPage(1); // Display first page of limited results
+        utils.updatePageNumber();
+        alertContainer.innerHTML = `
+            <div id="alert" class="flex items-center p-4 mb-4 text-sm text-yellow-800 rounded-lg bg-yellow-50 dark:bg-gray-800 dark:text-yellow-400" role="alert">
+                <i class="fas fa-exclamation-circle mr-2"></i>
+                <span class="font-medium">Search results exceed 1,000. Only the first 1,000 results are displayed. Please refine your search.</span>
+                <button type="button" class="ml-auto -mx-1.5 -my-1.5 bg-yellow-50 dark:bg-gray-800 text-yellow-500 rounded-lg focus:ring-2 focus:ring-yellow-400 p-1.5 hover:bg-yellow-200 dark:hover:bg-gray-700 inline-flex h-8 w-8" data-dismiss-target="#alert" aria-label="Close">
+                    <span class="sr-only">Close</span>
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+        `;
+    } else if (uniqueFilteredSponsors.length > 0) {
         state.sponsorsData = uniqueFilteredSponsors;
         displaySponsorsPage(1); // Display first page of search results
         utils.updatePageNumber();
