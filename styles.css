@@ -23,4 +23,6 @@ body {
     width: 100%;
     height: 500px;
     margin-top: 20px;
+    /* Ensure the map container is visible */
+    border: 1px solid #ccc;
 }
