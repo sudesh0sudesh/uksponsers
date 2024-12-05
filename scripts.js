@@ -69,6 +69,11 @@ function displaySponsorsPage(subPage) {
                 cell.textContent = cellData.value;
             }
         });
+
+        // Add click event listener to expand/collapse row
+        row.addEventListener('click', () => {
+            row.classList.toggle('expanded');
+        });
     });
 
     document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;

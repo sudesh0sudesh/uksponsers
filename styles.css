@@ -32,15 +32,25 @@ body {
 
     #sponsorsTable tr {
         margin-bottom: 15px;
+        cursor: pointer;
     }
 
     #sponsorsTable td {
-        text-align: right;
-        padding-left: 50%;
+        text-align: left;
+        padding-left: 15px;
         position: relative;
     }
 
-    #sponsorsTable td::before {
+    #sponsorsTable td:not(:first-child) {
+        display: none;
+    }
+
+    #sponsorsTable tr.expanded td {
+        display: block;
+        padding-left: 50%;
+    }
+
+    #sponsorsTable tr.expanded td::before {
         content: attr(data-label);
         position: absolute;
         left: 0;
