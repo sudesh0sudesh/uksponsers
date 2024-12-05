@@ -44,6 +44,15 @@ function displaySponsorsPage(subPage) {
         const row = tbody.insertRow();
         row.className = 'bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600';
         
+        // Add click handler for mobile expansion
+        if (window.innerWidth <= 768) {
+            row.addEventListener('click', (e) => {
+                if (!e.target.closest('a')) {  // Don't trigger on link clicks
+                    row.classList.toggle('expanded');
+                }
+            });
+        }
+
         const cells = [
             { label: 'Organisation Name', value: sponsor.organisation_name || '' },
             { label: 'Town/City', value: sponsor.town_city || '' },
@@ -56,23 +65,21 @@ function displaySponsorsPage(subPage) {
             const cell = row.insertCell();
             cell.className = 'px-6 py-4';
             cell.setAttribute('data-label', cellData.label);
-            if (index === 0 && cellData.value) { // If first cell and has text
-                const link = document.createElement('a');
-                link.href = `https://www.google.com/search?q=${encodeURIComponent(cellData.value)}`;
-                link.textContent = cellData.value;
-                link.target = '_blank';
-                link.rel = 'noopener noreferrer';
-                link.classList.add('text-blue-600', 'hover:underline'); // Add styles for links
-                cell.appendChild(link);
-                console.log('Added Google search link for:', cellData.value); // Debugging
+            
+            if (index === 0) {
+                cell.classList.add('cursor-pointer');
+                if (cellData.value) {
+                    const link = document.createElement('a');
+                    link.href = `https://www.google.com/search?q=${encodeURIComponent(cellData.value)}`;
+                    link.textContent = cellData.value;
+                    link.target = '_blank';
+                    link.rel = 'noopener noreferrer';
+                    link.classList.add('text-blue-600', 'hover:underline');
+                    cell.appendChild(link);
+                }
             } else {
                 cell.textContent = cellData.value;
             }
-        });
-
-        // Add click event listener to expand/collapse row
-        row.addEventListener('click', () => {
-            row.classList.toggle('expanded');
         });
     });
 

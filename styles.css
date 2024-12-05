@@ -31,8 +31,11 @@ body {
     }
 
     #sponsorsTable tr {
-        margin-bottom: 15px;
+        margin-bottom: 8px;
+        padding: 8px;
+        border-radius: 4px;
         cursor: pointer;
+        position: relative;
     }
 
     #sponsorsTable td {
@@ -43,6 +46,9 @@ body {
 
     #sponsorsTable td:not(:first-child) {
         display: none;
+        padding: 8px 12px;
+        margin-top: 4px;
+        border-top: 1px solid rgba(0,0,0,0.1);
     }
 
     #sponsorsTable tr.expanded td {
@@ -58,5 +64,35 @@ body {
         padding-left: 15px;
         font-weight: bold;
         text-align: left;
+    }
+
+    #sponsorsTable tr.expanded td:not(:first-child) {
+        display: block;
+    }
+
+    #sponsorsTable td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        margin-right: 8px;
+        min-width: 120px;
+        display: inline-block;
+    }
+
+    #sponsorsTable td:first-child {
+        font-weight: bold;
+        font-size: 1.1em;
+    }
+
+    #sponsorsTable td:first-child::after {
+        content: '▼';
+        position: absolute;
+        right: 12px;
+        top: 12px;
+        font-size: 0.8em;
+        transition: transform 0.3s ease;
+    }
+
+    #sponsorsTable tr.expanded td:first-child::after {
+        transform: rotate(180deg);
     }
 }
