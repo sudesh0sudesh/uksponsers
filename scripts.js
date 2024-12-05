@@ -316,6 +316,5 @@ document.addEventListener('click', function(event) {
         if (targetElement) {
             targetElement.remove();
         }
-});
     }
 });
