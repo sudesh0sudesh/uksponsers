@@ -62,11 +62,26 @@ function displaySponsorsPage(subPage) {
     document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
 }
 
-// Refactored searchSponsors function
+/* Add function to load all sponsors */
+async function loadAllSponsors() {
+    let page = 1;
+    while (true) {
+        const data = await loadSponsors(page);
+        if (data.length === 0) {
+            break;
+        }
+        page++;
+    }
+}
+
+/* Modify searchSponsors to load all data before searching */
 async function searchSponsors(searchTerm) {
     // Reset pagination
     state.currentPage = 1;
     state.currentSubPage = 1;
+
+    // Load all sponsors
+    await loadAllSponsors();
 
     // Filter from the master list without modifying it
     const allFilteredSponsors = state.allSponsorsData.filter(sponsor => 
@@ -83,13 +98,13 @@ async function searchSponsors(searchTerm) {
 
     if (uniqueFilteredSponsors.length > 0) {
         state.sponsorsData = uniqueFilteredSponsors;
-        displaySponsorsPage(1); // Call without searchTerm
+        displaySponsorsPage(1); // Display first page of search results
         utils.updatePageNumber();
         // Clear any existing alerts
         alertContainer.innerHTML = '';
     } else {
         state.sponsorsData = [];
-        displaySponsorsPage(1); // Call without searchTerm
+        displaySponsorsPage(1); // Clear the table
         alertContainer.innerHTML = `
             <div id="alert" class="flex items-center p-4 mb-4 text-sm text-red-800 rounded-lg bg-red-50 dark:bg-gray-800 dark:text-red-400" role="alert">
                 <i class="fas fa-exclamation-triangle mr-2"></i>
@@ -102,8 +117,8 @@ async function searchSponsors(searchTerm) {
         `;
     }
 
-    // Update the map with the filtered sponsors
-    updateMapMarkers();
+    // Remove map update call since map functionality is removed
+    // updateMapMarkers();
 }
 
 // Cache DOM elements
