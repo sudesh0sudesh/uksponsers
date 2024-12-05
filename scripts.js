@@ -52,10 +52,19 @@ function displaySponsorsPage(subPage) {
             sponsor.route || ''
         ];
 
-        cells.forEach(text => {
+        cells.forEach((text, index) => {
             const cell = row.insertCell();
             cell.className = 'px-6 py-4';
-            cell.textContent = text;
+            if (index === 0 && text) { // If first cell and has text
+                const link = document.createElement('a');
+                link.href = `https://www.google.com/search?q=${encodeURIComponent(text)}`;
+                link.textContent = text;
+                link.target = '_blank';
+                link.rel = 'noopener noreferrer';
+                cell.appendChild(link);
+            } else {
+                cell.textContent = text;
+            }
         });
     });
 
