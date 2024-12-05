@@ -49,19 +49,22 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-        let currentPage = 1;
-        let currentSubPage = 1;
-        const pageSize = 100;
-        let sponsorsData = [];
-        const loadingIndicator = document.getElementById('loadingIndicator');
-        let debounceTimeout;
+        // Modularize state management
+        const state = {
+            currentPage: 1,
+            currentSubPage: 1,
+            pageSize: 100,
+            sponsorsData: [],
+            debounceTimeout: null,
+        };
 
+        // Refactored loadSponsors function
         async function loadSponsors(page) {
             loadingIndicator.style.display = 'block';
             try {
                 const response = await fetch(`sponsors_pages/sponsors_page_${page}.json`);
                 const data = await response.json();
-                sponsorsData = data;
+                state.sponsorsData = data;
                 return data;
             } catch (error) {
                 if (error.name === 'TypeError' && error.message.includes('Failed to fetch')) {
@@ -75,17 +78,14 @@
             }
         }
 
-        function getTotalSubPages() {
-            return Math.ceil(sponsorsData.length / pageSize);
-        }
-
+        // Refactored displaySponsorsPage function
         function displaySponsorsPage(subPage, searchTerm = '') {
             const tbody = document.getElementById('sponsorsBody');
             tbody.innerHTML = '';
 
-            const start = (subPage - 1) * pageSize;
-            const end = start + pageSize;
-            const pageSponsors = sponsorsData.slice(start, end);
+            const start = (subPage - 1) * state.pageSize;
+            const end = start + state.pageSize;
+            const pageSponsors = state.sponsorsData.slice(start, end);
 
             const filteredSponsors = pageSponsors.filter(sponsor => 
                 Object.values(sponsor).some(value => 
@@ -102,17 +102,18 @@
                 row.insertCell().textContent = sponsor.route || '';
             });
 
-            document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
+            document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
         }
 
+        // Refactored searchSponsors function
         async function searchSponsors(searchTerm) {
-            currentPage = 1;
-            currentSubPage = 1;
+            state.currentPage = 1;
+            state.currentSubPage = 1;
             let allFilteredSponsors = [];
             let hasMorePages = true;
 
             while (hasMorePages) {
-                const sponsors = await loadSponsors(currentPage);
+                const sponsors = await loadSponsors(state.currentPage);
                 if (sponsors.length === 0) {
                     hasMorePages = false;
                     break;
@@ -120,9 +121,9 @@
 
                 const totalSubPages = getTotalSubPages();
                 for (let sub = 1; sub <= totalSubPages; sub++) {
-                    const start = (sub - 1) * pageSize;
-                    const end = start + pageSize;
-                    const pageSponsors = sponsorsData.slice(start, end);
+                    const start = (sub - 1) * state.pageSize;
+                    const end = start + state.pageSize;
+                    const pageSponsors = state.sponsorsData.slice(start, end);
 
                     const filtered = pageSponsors.filter(sponsor => 
                         Object.values(sponsor).some(value => 
@@ -135,16 +136,16 @@
                     }
                 }
 
-                currentPage++;
-                currentSubPage = 1;
+                state.currentPage++;
+                state.currentSubPage = 1;
             }
 
             if (allFilteredSponsors.length > 0) {
-                sponsorsData = allFilteredSponsors;
+                state.sponsorsData = allFilteredSponsors;
                 displaySponsorsPage(1, searchTerm);
-                currentPage = 1;
-                currentSubPage = 1;
-                document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
+                state.currentPage = 1;
+                state.currentSubPage = 1;
+                document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
             } else {
                 displaySponsorsPage(1, searchTerm);
                 document.getElementById('alertContainer').innerHTML = `
@@ -156,20 +157,20 @@
             }
         }
 
+        // Refactored event listeners
         document.addEventListener('DOMContentLoaded', async () => {
-            await loadSponsors(currentPage);
-            displaySponsorsPage(currentSubPage);
+            await loadSponsors(state.currentPage);
+            displaySponsorsPage(state.currentSubPage);
 
             document.getElementById('searchInput').addEventListener('input', (e) => {
-                clearTimeout(debounceTimeout);
-                debounceTimeout = setTimeout(async () => {
+                clearTimeout(state.debounceTimeout);
+                state.debounceTimeout = setTimeout(async () => {
                     if (e.target.value.trim() === '') {
-                        // Reload the first page if search input is cleared
-                        currentPage = 1;
-                        currentSubPage = 1;
-                        await loadSponsors(currentPage);
-                        displaySponsorsPage(currentSubPage);
-                        document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
+                        state.currentPage = 1;
+                        state.currentSubPage = 1;
+                        await loadSponsors(state.currentPage);
+                        displaySponsorsPage(state.currentSubPage);
+                        document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
                     } else {
                         await searchSponsors(e.target.value);
                     }
@@ -177,28 +178,28 @@
             });
 
             document.getElementById('prevPage').addEventListener('click', async () => {
-                if (currentSubPage > 1) {
-                    currentSubPage--;
-                } else if (currentPage > 1) {
-                    currentPage--;
-                    await loadSponsors(currentPage);
-                    currentSubPage = getTotalSubPages();
+                if (state.currentSubPage > 1) {
+                    state.currentSubPage--;
+                } else if (state.currentPage > 1) {
+                    state.currentPage--;
+                    await loadSponsors(state.currentPage);
+                    state.currentSubPage = getTotalSubPages();
                 }
-                displaySponsorsPage(currentSubPage);
-                document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
+                displaySponsorsPage(state.currentSubPage);
+                document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
             });
 
             document.getElementById('nextPage').addEventListener('click', async () => {
                 const totalSubPages = getTotalSubPages();
-                if (currentSubPage < totalSubPages) {
-                    currentSubPage++;
+                if (state.currentSubPage < totalSubPages) {
+                    state.currentSubPage++;
                 } else {
-                    currentPage++;
-                    await loadSponsors(currentPage);
-                    currentSubPage = 1;
+                    state.currentPage++;
+                    await loadSponsors(state.currentPage);
+                    state.currentSubPage = 1;
                 }
-                displaySponsorsPage(currentSubPage);
-                document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
+                displaySponsorsPage(state.currentSubPage);
+                document.getElementById('pageNumber').textContent = `Page ${state.currentPage} - Subpage ${state.currentSubPage} of ${getTotalSubPages()}`;
             });
         });
     </script>
