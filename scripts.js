@@ -36,9 +36,11 @@ function displaySponsorsPage(subPage) {
     const tbody = document.getElementById('sponsorsBody');
     tbody.innerHTML = '';
 
+
     const start = (subPage - 1) * state.pageSize;
     const end = start + state.pageSize;
     const pageSponsors = state.sponsorsData.slice(start, end);
+    console.log('Sponsors to display:', pageSponsors); // Added for debugging
 
     pageSponsors.forEach(sponsor => {
         const row = tbody.insertRow();
@@ -62,6 +64,7 @@ function displaySponsorsPage(subPage) {
                 link.target = '_blank';
                 link.rel = 'noopener noreferrer';
                 cell.appendChild(link);
+                console.log('Added Google search link for:', text); // Added for debugging
             } else {
                 cell.textContent = text;
             }
@@ -139,6 +142,7 @@ async function searchSponsors(searchTerm) {
                 </button>
             </div>
         `;
+        console.log('No matching sponsors found'); // Added for debugging
     }
 
     // Remove map update call since map functionality is removed
