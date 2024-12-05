@@ -36,11 +36,9 @@ function displaySponsorsPage(subPage) {
     const tbody = document.getElementById('sponsorsBody');
     tbody.innerHTML = '';
 
-
     const start = (subPage - 1) * state.pageSize;
     const end = start + state.pageSize;
     const pageSponsors = state.sponsorsData.slice(start, end);
-    console.log('Sponsors to display:', pageSponsors); // Added for debugging
 
     pageSponsors.forEach(sponsor => {
         const row = tbody.insertRow();
@@ -54,20 +52,10 @@ function displaySponsorsPage(subPage) {
             sponsor.route || ''
         ];
 
-        cells.forEach((text, index) => {
+        cells.forEach(text => {
             const cell = row.insertCell();
             cell.className = 'px-6 py-4';
-            if (index === 0 && text) { // If first cell and has text
-                const link = document.createElement('a');
-                link.href = `https://www.google.com/search?q=${encodeURIComponent(text)}`;
-                link.textContent = text;
-                link.target = '_blank';
-                link.rel = 'noopener noreferrer';
-                cell.appendChild(link);
-                console.log('Added Google search link for:', text); // Added for debugging
-            } else {
-                cell.textContent = text;
-            }
+            cell.textContent = text;
         });
     });
 
@@ -142,7 +130,6 @@ async function searchSponsors(searchTerm) {
                 </button>
             </div>
         `;
-        console.log('No matching sponsors found'); // Added for debugging
     }
 
     // Remove map update call since map functionality is removed
@@ -312,11 +299,7 @@ document.addEventListener('click', function(event) {
         const dismissTarget = button.getAttribute('data-dismiss-target');
         const targetElement = document.querySelector(dismissTarget);
         if (targetElement) {
-});
             targetElement.remove();
-        }
-    }
-});
         }
     }
 });
