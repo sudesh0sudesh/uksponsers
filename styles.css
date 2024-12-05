@@ -18,11 +18,3 @@ body {
     background-color: var(--table-row-hover-bg); /* Updated hover color */
     transition: background-color var(--transition-duration) ease;
 }
-
-#mapContainer {
-    width: 100%;
-    height: 500px;
-    margin-top: 20px;
-    /* Ensure the map container is visible */
-    border: 1px solid #ccc;
-}

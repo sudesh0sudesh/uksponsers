@@ -135,7 +135,6 @@ const utils = {
 document.addEventListener('DOMContentLoaded', async () => {
     await loadSponsors(state.currentPage);
     displaySponsorsPage(state.currentSubPage);
-    initializeMap();
 
     searchInput.addEventListener('input', utils.debounce(async function(e) {
         const searchTerm = e.target.value.trim();
@@ -270,83 +269,3 @@ document.addEventListener('click', function(event) {
         }
     }
 });
-
-// Utility function to geocode a city name to latitude and longitude using Nominatim API
-async function geocodeCity(city) {
-    const response = await fetch(`https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(city)}, UK`);
-    const data = await response.json();
-    if (data && data.length > 0) {
-        return {
-            lat: parseFloat(data[0].lat),
-            lon: parseFloat(data[0].lon)
-        };
-    } else {
-        console.warn(`Geocoding failed for city: ${city}`);
-        return null;
-    }
-}
-
-// Cache to store geocoded cities to minimize API calls
-const geocodeCache = {};
-
-// Initialize the map
-async function initializeMap() {
-    const map = L.map('mapContainer').setView([54.2361, -4.5481], 6); // Centered over UK
-
-    // Add OpenStreetMap tiles
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; OpenStreetMap contributors'
-    }).addTo(map);
-
-    // Get unique cities from sponsorsData
-    const uniqueCities = [...new Set(state.sponsorsData.map(sponsor => sponsor.town_city).filter(city => city))];
-
-    for (const city of uniqueCities) {
-        if (geocodeCache[city]) {
-            // Use cached coordinates
-            addCityMarker(map, city, geocodeCache[city]);
-        } else {
-            // Geocode the city and cache the result
-            const coords = await geocodeCity(city);
-            if (coords) {
-                geocodeCache[city] = coords;
-                addCityMarker(map, city, coords);
-            }
-        }
-    }
-
-    // Add filtering by map bounds
-    map.on('moveend', () => {
-        const bounds = map.getBounds();
-        const filteredSponsors = state.sponsorsData.filter(sponsor => {
-            const coords = geocodeCache[sponsor.town_city];
-            return coords && bounds.contains([coords.lat, coords.lon]);
-        });
-        displayFilteredSponsors(filteredSponsors);
-    });
-}
-
-// Function to add a marker for a city with the relevant sponsors
-function addCityMarker(map, city, coords) {
-    const sponsorsInCity = state.sponsorsData.filter(sponsor => sponsor.town_city === city);
-    const marker = L.marker([coords.lat, coords.lon]).addTo(map);
-    let popupContent = `<strong>${city}</strong><br>`;
-    sponsorsInCity.forEach(sponsor => {
-        popupContent += `${sponsor.organisation_name}<br>`;
-    });
-    marker.bindPopup(popupContent);
-}
-
-// Display filtered sponsors in the table
-function displayFilteredSponsors(filteredSponsors) {
-    const tbody = document.getElementById('sponsorsBody');
-    tbody.innerHTML = '';
-
-    filteredSponsors.forEach(sponsor => {
-        const row = tbody.insertRow();
-        row.className = 'bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600';
-        
-        const cells = [
-            sponsor.organisation_name || '',
-            sponsor.town_city || '',
-            sponsor.county || '',            sponsor.type_rating || '',            sponsor.route || ''        ];        cells.forEach(text => {            const cell = row.insertCell();            cell.className = 'px-6 py-4';            cell.textContent = text;        });    });    document.getElementById('pageNumber').textContent = `Showing ${filteredSponsors.length} sponsors in the current map view`;}
