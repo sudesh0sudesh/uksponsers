@@ -312,15 +312,6 @@ document.addEventListener('click', function(event) {
         const targetElement = document.querySelector(dismissTarget);
         if (targetElement) {
             targetElement.remove();
-// Ensure Flowbite is initialized for dynamic alerts
-        }
-    }});document.addEventListener('click', function(event) {
-    if (event.target.closest('[data-dismiss-target]')) {
-        const button = event.target.closest('button');
-        const dismissTarget = button.getAttribute('data-dismiss-target');
-        const targetElement = document.querySelector(dismissTarget);
-        if (targetElement) {
-            targetElement.remove();
         }
     }
 });
