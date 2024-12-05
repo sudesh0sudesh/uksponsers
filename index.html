@@ -40,12 +40,19 @@
             margin: 0 4px;
             cursor: pointer;
         }
+        .loading {
+            display: none;
+            text-align: center;
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
     <div class="search-container">
         <h1>UK Sponsors Search</h1>
+        <label for="searchInput">Search sponsors:</label>
         <input type="text" id="searchInput" placeholder="Search sponsors...">
+        <div class="loading" id="loadingIndicator">Loading...</div>
     </div>
     <table id="sponsorsTable">
         <thead>
@@ -68,8 +75,11 @@
     <script>
         let currentPage = 1;
         const pageSize = 100;
+        const loadingIndicator = document.getElementById('loadingIndicator');
+        let debounceTimeout;
 
         async function loadSponsors(page) {
+            loadingIndicator.style.display = 'block';
             try {
                 const response = await fetch(`sponsors_pages/sponsors_page_${page}.json`);
                 const data = await response.json();
@@ -81,6 +91,8 @@
                     console.error('Error loading sponsors:', error);
                 }
                 return [];
+            } finally {
+                loadingIndicator.style.display = 'none';
             }
         }
 
@@ -108,9 +120,12 @@
             let sponsors = await loadSponsors(currentPage);
             displaySponsors(sponsors);
 
-            document.getElementById('searchInput').addEventListener('input', async (e) => {
-                sponsors = await loadSponsors(currentPage);
-                displaySponsors(sponsors, e.target.value);
+            document.getElementById('searchInput').addEventListener('input', (e) => {
+                clearTimeout(debounceTimeout);
+                debounceTimeout = setTimeout(async () => {
+                    sponsors = await loadSponsors(currentPage);
+                    displaySponsors(sponsors, e.target.value);
+                }, 300);
             });
 
             document.getElementById('prevPage').addEventListener('click', async () => {
