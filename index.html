@@ -130,31 +130,47 @@
         }
 
         async function searchSponsors(searchTerm) {
+            currentPage = 1;
             currentSubPage = 1;
-            let page = currentPage;
-            while (true) {
-                const sponsors = await loadSponsors(page);
+            let allFilteredSponsors = [];
+            let hasMorePages = true;
+
+            while (hasMorePages) {
+                const sponsors = await loadSponsors(currentPage);
                 if (sponsors.length === 0) {
-                    displaySponsorsPage(currentSubPage, searchTerm);
-                    alert('No matching sponsors found.');
+                    hasMorePages = false;
                     break;
                 }
-                displaySponsorsPage(currentSubPage, searchTerm);
-                const filtered = sponsorsData.filter(sponsor => 
-                    Object.values(sponsor).some(value => 
-                        String(value).toLowerCase().includes(searchTerm.toLowerCase())
-                    )
-                );
-                if (filtered.length > 0) {
+
+                const totalSubPages = getTotalSubPages();
+                for (let sub = 1; sub <= totalSubPages; sub++) {
+                    currentSubPage = sub;
                     displaySponsorsPage(currentSubPage, searchTerm);
-                    break;
+                    
+                    const filtered = sponsorsData.filter(sponsor => 
+                        Object.values(sponsor).some(value => 
+                            String(value).toLowerCase().includes(searchTerm.toLowerCase())
+                        )
+                    );
+
+                    if (filtered.length > 0) {
+                        allFilteredSponsors = allFilteredSponsors.concat(filtered);
+                    }
                 }
-                if (sponsors.length < pageSize) {
-                    displaySponsorsPage(currentSubPage, searchTerm);
-                    alert('No matching sponsors found.');
-                    break;
-                }
-                page++;
+
+                currentPage++;
+                currentSubPage = 1;
+            }
+
+            if (allFilteredSponsors.length > 0) {
+                sponsorsData = allFilteredSponsors;
+                displaySponsorsPage(1, searchTerm);
+                currentPage = 1;
+                currentSubPage = 1;
+                document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
+            } else {
+                displaySponsorsPage(1, searchTerm);
+                alert('No matching sponsors found.');
             }
         }
 
@@ -178,10 +194,12 @@
                     currentSubPage = getTotalSubPages();
                 }
                 displaySponsorsPage(currentSubPage);
+                document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
             });
 
             document.getElementById('nextPage').addEventListener('click', async () => {
-                if (currentSubPage < getTotalSubPages()) {
+                const totalSubPages = getTotalSubPages();
+                if (currentSubPage < totalSubPages) {
                     currentSubPage++;
                 } else {
                     currentPage++;
@@ -189,6 +207,7 @@
                     currentSubPage = 1;
                 }
                 displaySponsorsPage(currentSubPage);
+                document.getElementById('pageNumber').textContent = `Page ${currentPage} - Subpage ${currentSubPage} of ${getTotalSubPages()}`;
             });
         });
     </script>
