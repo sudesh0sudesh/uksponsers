@@ -166,21 +166,25 @@ document.addEventListener('DOMContentLoaded', async () => {
     await loadSponsors(state.currentPage);
     displaySponsorsPage(state.currentSubPage);
 
-    searchInput.addEventListener('input', utils.debounce(async function(e) {
+    // Modify search input event listener
+    searchInput.addEventListener('input', function(e) {
         const searchTerm = e.target.value.trim();
-        if (searchTerm === '') {
-            state.currentPage = 1;
-            state.currentSubPage = 1;
-            state.sponsorsData = [...state.allSponsorsData]; // Reset to master list without duplicating
-            displaySponsorsPage(state.currentSubPage);
-            utils.updatePageNumber();
-            // Clear any existing alerts
-            alertContainer.innerHTML = '';
-            await updateMapMarkers(); // Refresh map with all sponsors
-        } else {
-            await searchSponsors(searchTerm);
+        if (searchTerm.length >= 3) {
+            utils.debounce(async function() {
+                await searchSponsors(searchTerm);
+            }, 300)();
         }
-    }, 300));
+    });
+
+    // Add Enter key event listener for searchInput
+    searchInput.addEventListener('keydown', async function(e) {
+        if (e.key === 'Enter') {
+            const searchTerm = e.target.value.trim();
+            if (searchTerm.length < 3) {
+                await searchSponsors(searchTerm);
+            }
+        }
+    });
 
     document.getElementById('prevPage').addEventListener('click', async () => {
         if (state.currentSubPage > 1) {
