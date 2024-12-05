@@ -175,8 +175,9 @@
             } else {
                 displaySponsorsPage(1, searchTerm);
                 document.getElementById('alertContainer').innerHTML = `
-                    <div class="alert alert-warning" role="alert">
+                    <div class="alert alert-warning alert-dismissible fade show" role="alert">
                         No matching sponsors found.
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                     </div>
                 `;
             }
