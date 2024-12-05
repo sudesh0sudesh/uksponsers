@@ -51,30 +51,46 @@ def sanitize_data(data: str) -> str:
 def save_page(page_data: List[Dict], page_number: int) -> None:
     """Save a page of data to a separate JSON file."""
     output_path = Path(OUTPUT_DIR) / f"sponsors_page_{page_number}.json"
-    with output_path.open('w', encoding='utf-8') as f:
-        json.dump(page_data, f, indent=2)
-    logger.info(f"Saved page {page_number} with {len(page_data)} sponsors to {output_path}")
+    try:
+        with output_path.open('w', encoding='utf-8') as f:
+            json.dump(page_data, f, indent=2)
+        logger.info(f"Saved page {page_number} with {len(page_data)} sponsors to {output_path}")
+    except (OSError, json.JSONDecodeError) as e:
+        logger.error(f"Failed to save page {page_number}: {e}")
 
-def process_csv(url: str) -> Optional[List[Dict]]:
-    """Process the CSV file and convert to structured data."""
+def fetch_csv_content(url: str) -> Optional[str]:
+    """Fetch the CSV content from the given URL."""
     try:
         response = requests.get(url, timeout=30)
         response.raise_for_status()
-        
-        content = response.content.decode('utf-8')
-        csv_reader = csv.DictReader(content.splitlines())
-        
-        sponsors = []
-        for row in csv_reader:
-            sponsor = Sponsor(
-                organisation_name=sanitize_data(row['Organisation Name']),
-                town_city=sanitize_data(row['Town/City']),
-                county=sanitize_data(row['County']),
-                type_rating=sanitize_data(row['Type & Rating']),
-                route=sanitize_data(row['Route'])
-            )
-            sponsors.append(sponsor.__dict__)
-        
+        return response.content.decode('utf-8')
+    except requests.RequestException as e:
+        logger.error(f"Failed to fetch CSV content: {e}")
+        return None
+
+def parse_csv_content(content: str) -> List[Dict]:
+    """Parse the CSV content and return a list of sponsors."""
+    csv_reader = csv.DictReader(content.splitlines())
+    sponsors = []
+    for row in csv_reader:
+        sponsor = Sponsor(
+            organisation_name=sanitize_data(row['Organisation Name']),
+            town_city=sanitize_data(row['Town/City']),
+            county=sanitize_data(row['County']),
+            type_rating=sanitize_data(row['Type & Rating']),
+            route=sanitize_data(row['Route'])
+        )
+        sponsors.append(sponsor.__dict__)
+    return sponsors
+
+def process_csv(url: str) -> Optional[List[Dict]]:
+    """Process the CSV file and convert to structured data."""
+    content = fetch_csv_content(url)
+    if content is None:
+        return None
+    
+    try:
+        sponsors = parse_csv_content(content)
         # Split data into pages and save each page
         page_size = 10000  # Number of sponsors per page
         for i in range(0, len(sponsors), page_size):
@@ -83,8 +99,7 @@ def process_csv(url: str) -> Optional[List[Dict]]:
             
         logger.info(f"Processed {len(sponsors)} sponsors and saved to pages")
         return sponsors
-        
-    except (requests.RequestException, csv.Error, json.JSONDecodeError) as e:
+    except (csv.Error, json.JSONDecodeError) as e:
         logger.error(f"Error processing CSV: {e}")
         return None
 

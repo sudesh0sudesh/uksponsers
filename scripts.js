@@ -45,27 +45,28 @@ function displaySponsorsPage(subPage) {
         row.className = 'bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600';
         
         const cells = [
-            sponsor.organisation_name || '',
-            sponsor.town_city || '',
-            sponsor.county || '',
-            sponsor.type_rating || '',
-            sponsor.route || ''
+            { label: 'Organisation Name', value: sponsor.organisation_name || '' },
+            { label: 'Town/City', value: sponsor.town_city || '' },
+            { label: 'County', value: sponsor.county || '' },
+            { label: 'Type & Rating', value: sponsor.type_rating || '' },
+            { label: 'Route', value: sponsor.route || '' }
         ];
 
-        cells.forEach((text, index) => {
+        cells.forEach((cellData, index) => {
             const cell = row.insertCell();
             cell.className = 'px-6 py-4';
-            if (index === 0 && text) { // If first cell and has text
+            cell.setAttribute('data-label', cellData.label);
+            if (index === 0 && cellData.value) { // If first cell and has text
                 const link = document.createElement('a');
-                link.href = `https://www.google.com/search?q=${encodeURIComponent(text)}`;
-                link.textContent = text;
+                link.href = `https://www.google.com/search?q=${encodeURIComponent(cellData.value)}`;
+                link.textContent = cellData.value;
                 link.target = '_blank';
                 link.rel = 'noopener noreferrer';
                 link.classList.add('text-blue-600', 'hover:underline'); // Add styles for links
                 cell.appendChild(link);
-                console.log('Added Google search link for:', text); // Debugging
+                console.log('Added Google search link for:', cellData.value); // Debugging
             } else {
-                cell.textContent = text;
+                cell.textContent = cellData.value;
             }
         });
     });
