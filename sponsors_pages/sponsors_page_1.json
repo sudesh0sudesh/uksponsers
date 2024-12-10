@@ -22246,6 +22246,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Adlington Cricket Club",
+    "town_city": "Chorley",
+    "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
     "organisation_name": "ADLINGTON MOTOR SERVICES LTD",
     "town_city": "Chorley",
     "county": "England",
@@ -35008,8 +35015,8 @@
   },
   {
     "organisation_name": "ALB SCAFFOLDING LIMITED",
-    "town_city": "Harmondsworth",
-    "county": "",
+    "town_city": "Yiewsley",
+    "county": "West Drayton",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -36951,6 +36958,13 @@
     "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Alfie Medical Ltd",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "ALFIE&#x27;S FISH BAR AND KEBAB",
@@ -40115,6 +40129,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Allied Automation And Software Solutions Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "Allied Care Ltd &amp; Associated Group of Companies",
@@ -51339,14 +51360,14 @@
   },
   {
     "organisation_name": "Anglo American Crop Nutrients Limited",
-    "town_city": "Scarborough",
+    "town_city": "Whitby",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Anglo American Crop Nutrients Limited",
-    "town_city": "Scarborough",
+    "town_city": "Whitby",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -63539,6 +63560,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Arshad Brother &amp; Co Veg Ltd",
+    "town_city": "East Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Arshdeep Construction Ltd",
     "town_city": "Hayes",
     "county": "",
@@ -65691,6 +65719,13 @@
     "organisation_name": "Ascension Catholic Academy Trust",
     "town_city": "Twickenham",
     "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Ascension Earth Resources Ltd",
+    "town_city": "Oxford",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69961,41 +69996,6 @@
     "organisation_name": "Assemble Design Ltd",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assemble Technologies UK Ltd (t/a Atticus)",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Assemble Technologies UK Ltd (t/a Atticus)",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assemble Technology Ltd",
-    "town_city": "Liverpool",
-    "county": "Merseyside",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assemblies of God (Bangor) Pentecostal Church",
-    "town_city": "Bangor",
-    "county": "Gwynedd",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assembly Festival",
-    "town_city": "Edinburgh",
-    "county": "Midlothian",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
