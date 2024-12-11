@@ -1,5 +1,61 @@
 [
   {
+    "organisation_name": "Canterbury Christ Church University",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Canterbury Christ Church University",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Canterbury Christ Church University",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Government Authorised Exchange"
+  },
+  {
+    "organisation_name": "Canterbury Diocesan Board of Finance",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Canterbury Diocesan Board of Finance",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Canterbury Medical Practice",
+    "town_city": "Canterbury",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Canterbury Tale Limited T/a Prince of India",
+    "town_city": "Folkestone",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Canterbury Theatre &amp; Festival Trust",
+    "town_city": "Canterbury",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
     "organisation_name": "Cantillon Capital Ltd",
     "town_city": "London",
     "county": "London",
@@ -2765,6 +2821,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Care and Support Staff Limited",
+    "town_city": "Worcester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CARE AND SUPPORT TM LTD",
     "town_city": "CHESTER",
     "county": "",
@@ -3122,7 +3185,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Care Expertise Ltd",
+    "organisation_name": "Care Expertise Care Expertise Group Limited",
     "town_city": "Croydon",
     "county": "Surrey",
     "type_rating": "Worker (A rating)",
@@ -38710,6 +38773,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Compass Labs Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Compass Logistics International LTD",
     "town_city": "Slough",
     "county": "",
@@ -49016,6 +49086,13 @@
   {
     "organisation_name": "CPR Tokyo UK Ltd",
     "town_city": "Sevenoaks",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CPRIME LIMITED",
+    "town_city": "Kent",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -66521,6 +66598,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Deansgate Aesthetics Ltd.",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "DEANSGATE SURGERY LIMITED",
     "town_city": "MANCHESTER",
     "county": "",
@@ -69608,6 +69692,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DENASS LAWYERS",
+    "town_city": "LEICESTER",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Denbridge Care Limited",
     "town_city": "Nottingham",
     "county": "",
@@ -69907,96 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dennistoun Baptist Church SCIO",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Tier 2 Ministers of Religion"
-  },
-  {
-    "organisation_name": "Dennistoun Baptist Church SCIO",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Charity Worker"
-  },
-  {
-    "organisation_name": "Dennistoun Baptist Church SCIO",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Religious Worker"
-  },
-  {
-    "organisation_name": "DENNY ENTERPRISES INT&#x27;L LTD",
-    "town_city": "IRVINE",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denodo Technologies LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denodo Technologies LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Denora Healthcare Ltd",
-    "town_city": "Kidderminster",
-    "county": "Worcestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DENS SUPER STORE LIMITED",
-    "town_city": "Dundee",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Densar Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dense Air Limited",
-    "town_city": "Marlow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DENSO Automotive UK Ltd",
-    "town_city": "COVENTRY",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DENSO Automotive UK Ltd",
-    "town_city": "COVENTRY",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DENSO Automotive UK Ltd",
-    "town_city": "COVENTRY",
-    "county": "West Midlands",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
   }
 ]

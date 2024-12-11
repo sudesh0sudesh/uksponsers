@@ -1,5 +1,96 @@
 [
   {
+    "organisation_name": "Dennistoun Baptist Church SCIO",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Dennistoun Baptist Church SCIO",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
+    "organisation_name": "Dennistoun Baptist Church SCIO",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "DENNY ENTERPRISES INT&#x27;L LTD",
+    "town_city": "IRVINE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Denodo Technologies LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Denodo Technologies LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Denora Healthcare Ltd",
+    "town_city": "Kidderminster",
+    "county": "Worcestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DENS SUPER STORE LIMITED",
+    "town_city": "Dundee",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Densar Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dense Air Limited",
+    "town_city": "Marlow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DENSO Automotive UK Ltd",
+    "town_city": "COVENTRY",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DENSO Automotive UK Ltd",
+    "town_city": "COVENTRY",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "DENSO Automotive UK Ltd",
+    "town_city": "COVENTRY",
+    "county": "West Midlands",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Global Business Mobility: Graduate Trainee"
+  },
+  {
     "organisation_name": "DENSO Manufacturing UK Limited",
     "town_city": "Telford",
     "county": "Shropshire",
@@ -5351,6 +5442,13 @@
     "organisation_name": "Diamond Roofing &amp; Build Ltd",
     "town_city": "Hayes",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Diamond Scaffolding (South East) Limited",
+    "town_city": "Dartford",
+    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -23150,8 +23248,8 @@
   },
   {
     "organisation_name": "Easemytrip UK Ltd",
-    "town_city": "Southall",
-    "county": "",
+    "town_city": "Walthamstow",
+    "county": "London",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -30893,7 +30991,7 @@
   {
     "organisation_name": "EHAWKS LIMITED",
     "town_city": "Watford",
-    "county": "",
+    "county": "Hertfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -37074,13 +37172,6 @@
   {
     "organisation_name": "Emerald Consulting Group",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EMERALD DIAGOLD GROUP LTD",
-    "town_city": "KINGTON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -52990,6 +53081,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "EXCELLENT FINANCIAL SERVICES LTD",
+    "town_city": "Coventry",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "EXCELLENT IT SOLUTIONS LTD",
     "town_city": "Luton",
     "county": "",
@@ -53266,6 +53364,13 @@
     "organisation_name": "EXEC Grooming Ltd T/A NBAR",
     "town_city": "Chelmsford",
     "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Execo Group UK Ltd",
+    "town_city": "London",
+    "county": "London",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -53944,13 +54049,6 @@
   {
     "organisation_name": "Exotic Food Store (Wembley) Ltd",
     "town_city": "United Kingdom",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EXOTIC FRUITS LIMITED",
-    "town_city": "RUILSIP",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -57850,13 +57948,6 @@
   {
     "organisation_name": "Fairview Lets Limited",
     "town_city": "Ilford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FAIRVIEW RESOURCES LTD",
-    "town_city": "Milton Keynes",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -67067,6 +67158,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Firetail Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "FireTap Ltd",
     "town_city": "London",
     "county": "London",
@@ -69900,103 +69998,5 @@
     "county": "Hampshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flamer&#x27;s Piri Piri Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FLAMES CREWE LTD",
-    "town_city": "Crewe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FLAMES GRIL LIMITED",
-    "town_city": "Exeter",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flames Healthcare Ltd",
-    "town_city": "Northampton",
-    "county": "Northamptonshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FLAMES KEBAB TASTY LIMITED",
-    "town_city": "Essex",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flamin&#x27; Patties Limited",
-    "town_city": "Birmingham",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FLAMING GRILL AND PERI PERI LTD",
-    "town_city": "HERTFORDSHIRE",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FLAMING LEEK (ST) LIMITED",
-    "town_city": "Leek",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flamingo Flames Grill Ltd",
-    "town_city": "Feltham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flamingo Flames LTD",
-    "town_city": "Hanworth",
-    "county": "Feltham",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FLAMINGO HOMECARE LTD",
-    "town_city": "Burnley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flamingo Horticulture Investments Ltd",
-    "town_city": "Stevenage",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flamingo Horticulture Investments Ltd",
-    "town_city": "Stevenage",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Flamingo Land Ltd",
-    "town_city": "Malton",
-    "county": "North Yorkshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
   }
 ]

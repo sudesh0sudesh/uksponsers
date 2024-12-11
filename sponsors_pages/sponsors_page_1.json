@@ -11333,6 +11333,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AASHESHMA LTD",
+    "town_city": "Nottingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AASHIKA LTD",
     "town_city": "Aberdeen",
     "county": "Aberdeenshire",
@@ -35934,6 +35941,13 @@
     "organisation_name": "Aldergrove Manor Ltd",
     "town_city": "Wolverhampton",
     "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alderley Analytical Ltd",
+    "town_city": "Macclesfield",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -60900,6 +60914,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARHAM BROS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ARHT Media (UK) Limited",
     "town_city": "London",
     "county": "",
@@ -69975,27 +69996,6 @@
     "organisation_name": "ASSAS PROPERTIES LIMITED",
     "town_city": "Morton",
     "county": "Gainsborough",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assassin Goods Limited",
-    "town_city": "Penrith",
-    "county": "Cumbria",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASSD Employment LTD",
-    "town_city": "London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assemble Design Ltd",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
