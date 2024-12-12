@@ -1,5 +1,33 @@
 [
   {
+    "organisation_name": "Canterbury Care Homes Limited",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Canterbury Cathedral",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Canterbury Cathedral",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
+    "organisation_name": "Canterbury Cathedral",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
     "organisation_name": "Canterbury Christ Church University",
     "town_city": "Canterbury",
     "county": "Kent",
@@ -3185,7 +3213,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Care Expertise Care Expertise Group Limited",
+    "organisation_name": "Care Expertise Group Limited",
     "town_city": "Croydon",
     "county": "Surrey",
     "type_rating": "Worker (A rating)",
@@ -17466,13 +17494,6 @@
   },
   {
     "organisation_name": "Checkmarx UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "CHECKMATE INTERNATIONAL LTD",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -45325,6 +45346,20 @@
     "route": "Charity Worker"
   },
   {
+    "organisation_name": "Cornerstone Collective of Churches",
+    "town_city": "Liverpool",
+    "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Cornerstone Collective of Churches",
+    "town_city": "Liverpool",
+    "county": "Merseyside",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
     "organisation_name": "Cornerstone Community Church (Wales)",
     "town_city": "Swansea",
     "county": "",
@@ -47938,13 +47973,6 @@
   {
     "organisation_name": "Covatic Ltd",
     "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Cove Care Holdings",
-    "town_city": "Wolverhampton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -60669,6 +60697,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Dale Syndicate Services Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dale Topco Limited",
     "town_city": "Burton on Trent",
     "county": "Staffordshire",
@@ -66038,13 +66073,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "DDS CARPENTRY LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "DD&#x27;s Convenient Store Ltd",
     "town_city": "Nuneaton",
     "county": "",
@@ -69968,34 +69996,6 @@
     "organisation_name": "Dennis Eagle Limited",
     "town_city": "Warwick",
     "county": "Warwickshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dennis Eagle Limited",
-    "town_city": "Warwick",
-    "county": "Warwickshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Dennison Commercials Limited",
-    "town_city": "Ballyclare",
-    "county": "County Antrim",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dennison Trailers Limited",
-    "town_city": "Lancaster",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DENNISSOPHIA LTD",
-    "town_city": "Manchester",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

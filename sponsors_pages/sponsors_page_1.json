@@ -3542,6 +3542,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "4 Moksh Limited",
+    "town_city": "Londonderry",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "4 Net Technologies LTD (t/a FourNet)",
     "town_city": "Manchester",
     "county": "Greater Manchester",
@@ -19300,7 +19307,7 @@
   },
   {
     "organisation_name": "Activate Learning Education Trust",
-    "town_city": "Oxford",
+    "town_city": "Reading",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -22317,14 +22324,14 @@
   },
   {
     "organisation_name": "ADM Promotions UK Limited",
-    "town_city": "Hammersmith",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "ADM Promotions UK Limited",
-    "town_city": "Hammersmith",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -40460,6 +40467,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Allison Risebro &amp; Company Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alliss Convenience Store",
     "town_city": "Stafford",
     "county": "",
@@ -43114,14 +43128,14 @@
   },
   {
     "organisation_name": "ALTEN LIMITED",
-    "town_city": "LONDON",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "ALTEN LIMITED",
-    "town_city": "LONDON",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -52034,13 +52048,6 @@
     "organisation_name": "Anish Retailers Limited trading as Norwich Food City",
     "town_city": "Norwich",
     "county": "Norfolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ANISHASPICE LTD T/A Joy spice",
-    "town_city": "Welling",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69991,12 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASSAS PROPERTIES LIMITED",
-    "town_city": "Morton",
-    "county": "Gainsborough",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]
