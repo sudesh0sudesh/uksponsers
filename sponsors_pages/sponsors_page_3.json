@@ -1,5 +1,19 @@
 [
   {
+    "organisation_name": "Canterbury AI Ltd",
+    "town_city": "Sandwich",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Canterbury Bakery Ltd",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Canterbury Care Homes Limited",
     "town_city": "Birmingham",
     "county": "",
@@ -1696,6 +1710,13 @@
   {
     "organisation_name": "Car Charged UK Limited",
     "town_city": "Mansfield Woodhouse",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Car Clinic (Wembley) Ltd. T/As Car Clinic",
+    "town_city": "Wembley",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -51017,20 +51038,6 @@
   },
   {
     "organisation_name": "Creators Inc Limited",
-    "town_city": "Chislehurst",
-    "county": "Kent",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Creators Inc Limited",
-    "town_city": "Chislehurst",
-    "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Creators Inc Limited",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -69989,13 +69996,6 @@
     "organisation_name": "Dennis &amp; Robinson Ltd trading as Paula Rosa Manhattan",
     "town_city": "Lancing",
     "county": "West Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dennis Eagle Limited",
-    "town_city": "Warwick",
-    "county": "Warwickshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

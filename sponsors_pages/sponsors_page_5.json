@@ -4,6 +4,13 @@
     "town_city": "St Helens",
     "county": "",
     "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Flamco Ltd",
+    "town_city": "St Helens",
+    "county": "",
+    "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
@@ -34125,6 +34132,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "GOLDEN GLOBE ENERGY SERVICES LTD",
+    "town_city": "Woodford Green",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "GOLDEN GLOBE MERCHANTS LIMITED",
     "town_city": "Woodford Green",
     "county": "Essex",
@@ -52466,7 +52480,7 @@
   },
   {
     "organisation_name": "HALLEYIN SOFTWARE CONSULTANCY LTD",
-    "town_city": "Newbury, Berkshire",
+    "town_city": "Holborn, London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -62868,7 +62882,7 @@
   },
   {
     "organisation_name": "Heartview Care Services Limited",
-    "town_city": "West Byfleet",
+    "town_city": "Farnham",
     "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69982,20 +69996,6 @@
     "organisation_name": "HIMALAYA RESTAURANT LTD",
     "town_city": "BRIDGNORTH",
     "county": "SHROPSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HIMALAYA VAJRA LIMITED",
-    "town_city": "Staines",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HIMALAYAN CURRY BRECON LTD",
-    "town_city": "Brecon",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

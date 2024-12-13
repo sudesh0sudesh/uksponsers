@@ -3129,6 +3129,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Atlantic House Group Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Atlantic Law Ltd",
     "town_city": "LONDON",
     "county": "England",
@@ -21520,7 +21527,7 @@
   {
     "organisation_name": "BAYATI SERVICES LIMITED",
     "town_city": "London",
-    "county": "England",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -30032,6 +30039,13 @@
   {
     "organisation_name": "Best Eves Ltd T/A Crystals of London",
     "town_city": "Park Royal, London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Best Experience Limited",
+    "town_city": "Bath",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -50121,7 +50135,7 @@
   },
   {
     "organisation_name": "BRANDSTREAM LTD",
-    "town_city": "London,",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69982,20 +69996,6 @@
     "organisation_name": "Canteen West Ltd",
     "town_city": "Bristol",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Canterbury AI Ltd",
-    "town_city": "Sandwich",
-    "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Canterbury Bakery Ltd",
-    "town_city": "Canterbury",
-    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

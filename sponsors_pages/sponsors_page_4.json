@@ -4,6 +4,13 @@
     "town_city": "Warwick",
     "county": "Warwickshire",
     "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dennis Eagle Limited",
+    "town_city": "Warwick",
+    "county": "Warwickshire",
+    "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
@@ -6552,13 +6559,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "DIGITAL PROSPECT LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Digital Prosthetics Limited",
     "town_city": "Birmingham",
     "county": "",
@@ -10571,14 +10571,14 @@
   },
   {
     "organisation_name": "D-Link (Europe) Limited",
-    "town_city": "South Ruislip",
+    "town_city": "Harrow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "D-Link (Europe) Limited",
-    "town_city": "South Ruislip",
+    "town_city": "Harrow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -23564,6 +23564,13 @@
   {
     "organisation_name": "East Durham Signs Limited",
     "town_city": "Murton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "East End Builders UK  Ltd",
+    "town_city": "Barking",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69991,12 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flamco Ltd",
-    "town_city": "St Helens",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
