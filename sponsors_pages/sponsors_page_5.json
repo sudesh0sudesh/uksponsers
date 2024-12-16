@@ -1,5 +1,33 @@
 [
   {
+    "organisation_name": "Flakt Woods Ltd",
+    "town_city": "Colchester",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FlaktGroup UK Limited",
+    "town_city": "Hereford",
+    "county": "Herefordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FlaktGroup UK Limited",
+    "town_city": "Hereford",
+    "county": "Herefordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Flam Construction Limited",
+    "town_city": "Enfield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Flamco Ltd",
     "town_city": "St Helens",
     "county": "",
@@ -12838,13 +12866,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Fulfillment Partners Limited",
-    "town_city": "Coventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Fulfillment Partners Ltd",
     "town_city": "Coventry",
     "county": "",
@@ -15078,7 +15099,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "G A R &amp; D Ltd",
+    "organisation_name": "G A R &amp; D LTD",
     "town_city": "Aberdeen",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -15445,13 +15466,6 @@
     "organisation_name": "G&amp;AK LTD t/a Just Pizza",
     "town_city": "Hounslow",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "G&amp;B (NW) Ltd",
-    "town_city": "Wigan",
-    "county": "Lancashire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -23157,7 +23171,7 @@
   },
   {
     "organisation_name": "George Springall Homecare Partnership",
-    "town_city": "Oxford",
+    "town_city": "Shippon",
     "county": "Oxfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -31859,6 +31873,13 @@
   {
     "organisation_name": "GM TRADERS (BOLTON) LTD",
     "town_city": "BOLTON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "GM UK CONSTRUCTIONS LTD",
+    "town_city": "SIPSON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -61924,13 +61945,6 @@
   {
     "organisation_name": "Health Education England",
     "town_city": "Birmingham",
-    "county": "UK",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Health Education England",
-    "town_city": "Birmingham",
     "county": "West Midlands",
     "type_rating": "Worker (A (Premium))",
     "route": "Skilled Worker"
@@ -66102,14 +66116,14 @@
   },
   {
     "organisation_name": "Hershey UK Finance Limited",
-    "town_city": "London",
+    "town_city": "LONDON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Hershey UK Finance Limited",
-    "town_city": "London",
+    "town_city": "LONDON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -69982,20 +69996,6 @@
     "organisation_name": "HIMALAYA CARE SERVICES LTD",
     "town_city": "Essex",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Himalaya Foods Ltd",
-    "town_city": "Nottingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HIMALAYA RESTAURANT LTD",
-    "town_city": "BRIDGNORTH",
-    "county": "SHROPSHIRE",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

@@ -1,26 +1,5 @@
 [
   {
-    "organisation_name": "Smart H&amp;P solutions Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SMART HAIR INTL LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SMART HEALTHCARE &amp; DIAGNOSTICS LTD",
-    "town_city": "Keighley",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Smart Heating Maintenance Limited",
     "town_city": "London",
     "county": "",
@@ -7659,7 +7638,7 @@
   },
   {
     "organisation_name": "Sophie Chapman Talent Ltd",
-    "town_city": "London",
+    "town_city": "Beckenham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -13827,6 +13806,13 @@
   {
     "organisation_name": "Spice of Life 41 ltd t/a Spice of Life",
     "town_city": "Hamilton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Spice of Life CW Ltd. t/a Spice of Life",
+    "town_city": "Glasgow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69996,6 +69982,20 @@
     "organisation_name": "The Heath Stores Horsmonden Limited",
     "town_city": "Tonbridge",
     "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "The Heathers Nursing Home",
+    "town_city": "Cannock",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "The Hedges Medical Centre",
+    "town_city": "Leicester",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

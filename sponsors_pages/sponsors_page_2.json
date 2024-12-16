@@ -1,5 +1,12 @@
 [
   {
+    "organisation_name": "Assala Energy UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
     "organisation_name": "ASSAS PROPERTIES LIMITED",
     "town_city": "Morton",
     "county": "Gainsborough",
@@ -2294,13 +2301,6 @@
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Charity Worker"
-  },
-  {
-    "organisation_name": "ATDBio",
-    "town_city": "Hengoed",
-    "county": "Caerphilly",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   },
   {
     "organisation_name": "A-team care limited",
@@ -8879,6 +8879,13 @@
     "organisation_name": "Avre Partnership Ltd",
     "town_city": "Essex",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AVRELLA FISHING COMPANY LTD",
+    "town_city": "LERWICK",
+    "county": "SHETLAND",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -34349,7 +34356,7 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
-    "organisation_name": "Bill House Properties",
+    "organisation_name": "Bill House Properties Limited",
     "town_city": "West Bromwich",
     "county": "West Midlands",
     "type_rating": "Worker (A rating)",
@@ -43479,6 +43486,13 @@
   {
     "organisation_name": "BNW Food Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "BNW Technology Ltd",
+    "town_city": "Reading",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69981,20 +69995,6 @@
   {
     "organisation_name": "Cantarus",
     "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Canteen Asia Ltd T/A Candy Cafe",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Canteen West Ltd",
-    "town_city": "Bristol",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

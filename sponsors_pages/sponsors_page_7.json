@@ -1,5 +1,19 @@
 [
   {
+    "organisation_name": "Kimura Management Services Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kimushi Ltd",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "KIN &amp; KIND LTD",
     "town_city": "Holywood",
     "county": "",
@@ -3529,13 +3543,6 @@
   },
   {
     "organisation_name": "KK SECURITY &amp; FM LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "KK SECURITY &amp; FM LTD",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -4699,6 +4706,13 @@
   {
     "organisation_name": "KNBY (UK) LIMITED",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "KND Truck Services",
+    "town_city": "Bristol",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -45892,13 +45906,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "MA Cheltenham LTD T/A Pepe&#x27;s Peri Peri",
-    "town_city": "Cheltenham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "MA Chiro - Trading as Precision Chiropractic",
     "town_city": "surrey",
     "county": "Surrey",
@@ -49387,6 +49394,13 @@
   {
     "organisation_name": "Maharaja Drinks Emporium Limited",
     "town_city": "Oxford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "MAHARAJA HOSPITALITY LIMITED",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69984,19 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Menzies Aviation Holdings Ltd",
-    "town_city": "Hounslow",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Menzies Aviation Holdings Ltd",
-    "town_city": "Hounslow",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]

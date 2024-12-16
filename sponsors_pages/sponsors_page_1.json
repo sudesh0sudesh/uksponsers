@@ -7588,6 +7588,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A&amp;D News",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A&amp;D Private Limited",
     "town_city": "Swinton",
     "county": "Mexborough",
@@ -14603,7 +14610,7 @@
   },
   {
     "organisation_name": "About:Energy Limited",
-    "town_city": "Oxfordshire",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -21442,6 +21449,13 @@
   },
   {
     "organisation_name": "Addlestone Food &amp; Wine Super Store Ltd",
+    "town_city": "Addlestone",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Addlestone Specsavers Limited",
     "town_city": "Addlestone",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -58212,13 +58226,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ARA Dunedin Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ARA RETAIL LTD T/A ESSO",
     "town_city": "London",
     "county": "",
@@ -61432,9 +61439,9 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Ariston Thermo UK Ltd",
-    "town_city": "Basildon",
-    "county": "",
+    "organisation_name": "Ariston UK Ltd",
+    "town_city": "Brentwood",
+    "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -61629,8 +61636,8 @@
   },
   {
     "organisation_name": "Ark Drylining Ltd",
-    "town_city": "Grays,",
-    "county": "England",
+    "town_city": "Dartford",
+    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69991,12 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assala Energy UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]

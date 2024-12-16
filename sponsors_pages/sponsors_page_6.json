@@ -1,5 +1,19 @@
 [
   {
+    "organisation_name": "Himalaya Foods Ltd",
+    "town_city": "Nottingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "HIMALAYA RESTAURANT LTD",
+    "town_city": "BRIDGNORTH",
+    "county": "SHROPSHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "HIMALAYA VAJRA LIMITED",
     "town_city": "Staines",
     "county": "",
@@ -56427,6 +56441,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Just Solutions Group Limited",
+    "town_city": "Coventry",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Just Taps Plus UK Limited",
     "town_city": "Uxbridge",
     "county": "",
@@ -63665,7 +63686,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "KCL Partnerd Ltd T/A Kings Court Law",
+    "organisation_name": "KCL Partners Ltd T/A Kings Court Law",
     "town_city": "Northampton",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -64927,13 +64948,6 @@
   {
     "organisation_name": "Keltbray Management Services Limited",
     "town_city": "Esher",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Keltbray-Idec Limited",
-    "town_city": "Stockton-On-Tees",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69982,20 +69996,6 @@
     "organisation_name": "KIMS Hospital",
     "town_city": "Maidstone",
     "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Kimura Management Services Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Kimushi Ltd",
-    "town_city": "Sheffield",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

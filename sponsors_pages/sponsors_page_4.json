@@ -1,5 +1,33 @@
 [
   {
+    "organisation_name": "Denmax Ltd",
+    "town_city": "Chorleywood",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Denmet Limited T/A Milas Turkish Kitchen &amp; Bar",
+    "town_city": "Dundee",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Denning Farms Ltd",
+    "town_city": "TRURO",
+    "county": "CORNWALL",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dennis &amp; Robinson Ltd trading as Paula Rosa Manhattan",
+    "town_city": "Lancing",
+    "county": "West Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dennis Eagle Limited",
     "town_city": "Warwick",
     "county": "Warwickshire",
@@ -2235,6 +2263,13 @@
   {
     "organisation_name": "DESSERT SHOP HOLDINGS LTD",
     "town_city": "WOLVERHAMPTON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DESSERT THERAPY LTD",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -10944,13 +10979,6 @@
     "organisation_name": "DMP Household Services Limited",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DMPG Limited",
-    "town_city": "Thame",
-    "county": "Oxfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -46284,6 +46312,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ESR Europe Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ESR Square Limited",
     "town_city": "Stains Upon Thames",
     "county": "",
@@ -65191,13 +65226,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Fill Function UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Fillcare Limited",
     "town_city": "Pontclun",
     "county": "RCT",
@@ -69967,34 +69995,6 @@
   {
     "organisation_name": "Flair Furniture Ltd",
     "town_city": "Heckmondwike",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flakt Woods Ltd",
-    "town_city": "Colchester",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FlaktGroup UK Limited",
-    "town_city": "Hereford",
-    "county": "Herefordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FlaktGroup UK Limited",
-    "town_city": "Hereford",
-    "county": "Herefordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Flam Construction Limited",
-    "town_city": "Enfield",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

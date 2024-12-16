@@ -1,5 +1,19 @@
 [
   {
+    "organisation_name": "Canteen Asia Ltd T/A Candy Cafe",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Canteen West Ltd",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Canterbury AI Ltd",
     "town_city": "Sandwich",
     "county": "Kent",
@@ -35287,6 +35301,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Cognisys Group Limited",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Cognita Limited",
     "town_city": "London",
     "county": "",
@@ -56259,6 +56280,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Cure It Composites Ltd",
+    "town_city": "Wigan",
+    "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Curem Healthcare Limited",
     "town_city": "London",
     "county": "",
@@ -69968,34 +69996,6 @@
     "organisation_name": "Denmark Street Surgery",
     "town_city": "Darlington",
     "county": "County Durham",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denmax Ltd",
-    "town_city": "Chorleywood",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denmet Limited T/A Milas Turkish Kitchen &amp; Bar",
-    "town_city": "Dundee",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denning Farms Ltd",
-    "town_city": "TRURO",
-    "county": "CORNWALL",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dennis &amp; Robinson Ltd trading as Paula Rosa Manhattan",
-    "town_city": "Lancing",
-    "county": "West Sussex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
