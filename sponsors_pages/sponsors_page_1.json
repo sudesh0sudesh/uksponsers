@@ -21161,13 +21161,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Adatis Consulting Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ADB CONTRACTS LTD",
     "town_city": "OLDHAM",
     "county": "",
@@ -21261,13 +21254,6 @@
   {
     "organisation_name": "Addcounsel limited",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ADDDYNAMICS UK LIMITED",
-    "town_city": "LONDON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -42455,13 +42441,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Alpine Care UK Ltd",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Alpine Cleaning Services",
     "town_city": "Eltham",
     "county": "London",
@@ -54300,7 +54279,7 @@
   },
   {
     "organisation_name": "AOE Logistics Limited",
-    "town_city": "London",
+    "town_city": "Iver",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -61652,6 +61631,13 @@
     "organisation_name": "ARK FAMILY OFFICE LTD",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ARK FOODS BOGNOR REGIS LTD",
+    "town_city": "Bognor Regis",
+    "county": "West Sussex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69996,6 +69982,20 @@
     "organisation_name": "Assala Energy UK Limited",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Assala Energy UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "ASSAS PROPERTIES LIMITED",
+    "town_city": "Morton",
+    "county": "Gainsborough",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

@@ -1,5 +1,26 @@
 [
   {
+    "organisation_name": "DENIZ FOOD &amp; WINE LTD T/A BRITISH EXPRESS",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DENIZ PROPERTY INVESTMENTS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Denmark Street Surgery",
+    "town_city": "Darlington",
+    "county": "County Durham",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Denmax Ltd",
     "town_city": "Chorleywood",
     "county": "Hertfordshire",
@@ -303,6 +324,13 @@
   {
     "organisation_name": "Dental Delight Smiles Limited",
     "town_city": "Lincolnshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dental Direct UK Ltd",
+    "town_city": "Huntingdon",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -2929,6 +2957,13 @@
     "organisation_name": "Devcon Limited",
     "town_city": "Camberley",
     "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DEVELOPER LABS LIMITED",
+    "town_city": "Miltonkeynes",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -10794,6 +10829,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Dmatics IT Solutions UK Ltd 14833334",
+    "town_city": "England",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
     "organisation_name": "DMC CONSULTING SERVICES LTD",
     "town_city": "kent",
     "county": "",
@@ -16499,6 +16541,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Dream Property Development &amp; Construction Limited",
+    "town_city": "London,",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "DREAM REALITY INTERACTIVE LIMITED",
     "town_city": "London",
     "county": "",
@@ -17719,6 +17768,13 @@
   {
     "organisation_name": "DS GAS AND ELECTRIC LIMITED",
     "town_city": "Bilston, West Midlands",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DS Homecare Ltd t/a DS Homecare",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -19201,7 +19257,7 @@
     "route": "Creative Worker"
   },
   {
-    "organisation_name": "Dulwich Prep London",
+    "organisation_name": "Dulwich Prep &amp; Senior",
     "town_city": "London",
     "county": "London",
     "type_rating": "Worker (A rating)",
@@ -23474,6 +23530,13 @@
     "organisation_name": "East Birmingham Community Forum",
     "town_city": "Birmingham",
     "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "East Bridge Renewable (UK) LTD",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -41252,7 +41315,7 @@
   },
   {
     "organisation_name": "Enjoy Events 2019 LTD",
-    "town_city": "London",
+    "town_city": "Dartford",
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Creative Worker"
@@ -69933,69 +69996,6 @@
     "organisation_name": "Flag Communication Ltd",
     "town_city": "London",
     "county": "County (optional)",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flag Telecom UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flagship Housing Group",
-    "town_city": "Norwich",
-    "county": "Norfolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flagship Technologies ltd",
-    "town_city": "Heathrow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flagstaffe ltd",
-    "town_city": "Cranage",
-    "county": "Cheshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flagstone Group Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flahive Brickwork Limited",
-    "town_city": "Watford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FLAIR AFRO COS LTD",
-    "town_city": "Croydon",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flair Flooring Supplies Limited",
-    "town_city": "Hadfield",
-    "county": "Debyshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flair Furniture Ltd",
-    "town_city": "Heckmondwike",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

@@ -1,5 +1,12 @@
 [
   {
+    "organisation_name": "Cantarus",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Canteen Asia Ltd T/A Candy Cafe",
     "town_city": "London",
     "county": "",
@@ -10585,8 +10592,8 @@
   },
   {
     "organisation_name": "CEG Consulting Services Ltd",
-    "town_city": "Histon",
-    "county": "Cambridgeshire",
+    "town_city": "Slough",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -14373,6 +14380,13 @@
   {
     "organisation_name": "CHAIN &amp; CHAIN TECHNOLOGIES LIMITED",
     "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CHAIN CAFE UK LTD",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -32802,6 +32816,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CLX Professionals UK Limited",
+    "town_city": "Guildford",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Clydach Cricket Club",
     "town_city": "Swansea",
     "county": "",
@@ -35915,6 +35936,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "COLESSIA PAPER LIMITED",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "Colet Systems Ltd",
@@ -47780,20 +47808,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Courier Holdings Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Courier Holdings Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Courier Holdings Ltd",
@@ -62104,6 +62118,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DAPTEE GROUP LIMITED",
+    "town_city": "Rochdale",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dar Al Arkan Global UK Holdings Ltd",
     "town_city": "London",
     "county": "",
@@ -69975,27 +69996,6 @@
     "organisation_name": "Deniz Continental Food Store",
     "town_city": "Wrexham",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DENIZ FOOD &amp; WINE LTD T/A BRITISH EXPRESS",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DENIZ PROPERTY INVESTMENTS LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Denmark Street Surgery",
-    "town_city": "Darlington",
-    "county": "County Durham",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
