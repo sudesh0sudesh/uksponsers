@@ -7511,7 +7511,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "A&amp;A TOURS SERVICES LIMITED",
+    "organisation_name": "A&amp;A Tours Services Limited",
     "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -17283,6 +17283,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Accuria Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Accuride International LTD",
     "town_city": "Northampton",
     "county": "",
@@ -24797,6 +24804,13 @@
     "organisation_name": "Aera Technology Limited",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Aeracura limited",
+    "town_city": "Crewe",
+    "county": "Cheshire East",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -36904,6 +36918,13 @@
     "route": "Charity Worker"
   },
   {
+    "organisation_name": "Al-Falah Islamic Education Centre",
+    "town_city": "West Drayton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
     "organisation_name": "ALFAMETRICS LTD",
     "town_city": "London",
     "county": "",
@@ -47089,13 +47110,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AMIN ASIA LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Amin Jahan Ltd T/A Subway",
     "town_city": "Caterham",
     "county": "",
@@ -57176,7 +57190,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Aptamer Group Limited",
+    "organisation_name": "Aptamer Group PLC",
     "town_city": "York",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -68453,6 +68467,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Asif Adeel Limited",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Asif Allauddin",
     "town_city": "Glasgow",
     "county": "",
@@ -69975,27 +69996,6 @@
     "organisation_name": "AS-SAFWAH FOODS LTD",
     "town_city": "BILSTON",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assala Energy UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assala Energy UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASSAS PROPERTIES LIMITED",
-    "town_city": "Morton",
-    "county": "Gainsborough",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
