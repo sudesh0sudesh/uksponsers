@@ -9030,6 +9030,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A1 Taxis Sheffield Ltd",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A1 Transport (NI) Ltd",
     "town_city": "ENNISKILLEN",
     "county": "Fermanagh",
@@ -16431,6 +16438,13 @@
   {
     "organisation_name": "Access the Foundation for Social Investment",
     "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Access the World Ltd",
+    "town_city": "Halifax",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -25571,6 +25585,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AFFINITY BUSINESS SERVICES LIMITED",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Affinity Care and Support Services Ltd",
     "town_city": "PRESCOT",
     "county": "",
@@ -29367,6 +29388,13 @@
   {
     "organisation_name": "Aid Automotive Ltd T/A Actman Accounting",
     "town_city": "NECASTLE UPON TYNE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AID FOR MANKIND UK",
+    "town_city": "CHEADLE",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -44940,13 +44968,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Amans",
-    "town_city": "Congleton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AMANSTYLE LTD",
     "town_city": "Bolton",
     "county": "",
@@ -53263,6 +53284,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Anstey Bond LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Anstey Hall Events Limited",
     "town_city": "Cambridge",
     "county": "Cambridgeshire",
@@ -60928,6 +60956,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARHAM MANAGEMENT LTD",
+    "town_city": "CHESHIRE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ARHT Media (UK) Limited",
     "town_city": "London",
     "county": "",
@@ -65604,6 +65639,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ASBESTECH LIMITED",
+    "town_city": "Hatfield",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Asbestos Audit Ltd",
     "town_city": "Peterlee",
     "county": "County Durham",
@@ -69954,48 +69996,6 @@
     "organisation_name": "ASR Worldwide Limited",
     "town_city": "Uxbridge",
     "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASSA ABLOY Ltd",
-    "town_city": "West Midlands",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASSA ABLOY Ltd",
-    "town_city": "West Midlands",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASSA ABLOY Ltd",
-    "town_city": "West Midlands",
-    "county": "England",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
-  },
-  {
-    "organisation_name": "Assa Advisors UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Assael Architecture Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "AS-SAFWAH FOODS LTD",
-    "town_city": "BILSTON",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
