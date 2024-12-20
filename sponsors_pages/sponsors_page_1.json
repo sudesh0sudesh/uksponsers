@@ -12278,6 +12278,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ABBEY AMBITIONS",
+    "town_city": "BLACKWOOD",
+    "county": "GWENT",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ABBEY ASIA LIMITED T/A SHUHAG",
     "town_city": "Essex",
     "county": "",
@@ -58662,14 +58669,14 @@
   {
     "organisation_name": "ARBO BIOTECHNOLOGY",
     "town_city": "MAIDENHEAD",
-    "county": "Select State",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "ARBO BIOTECHNOLOGY",
     "town_city": "MAIDENHEAD",
-    "county": "Select State",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -68747,6 +68754,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ASK PROPERTIES GLASGOW LTD",
+    "town_city": "Scotland",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ASK Solutions London Limited",
     "town_city": "Brentford",
     "county": "",
@@ -69982,20 +69996,6 @@
     "organisation_name": "ASR Retail Ltd TA All Saints Service Station",
     "town_city": "Portsmouth",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASR UK FOOD LIMITED T/A YAARI",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASR Worldwide Limited",
-    "town_city": "Uxbridge",
-    "county": "Middlesex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
