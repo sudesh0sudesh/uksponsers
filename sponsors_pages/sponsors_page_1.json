@@ -5026,13 +5026,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "7hillsTechnologies Limited",
-    "town_city": "Newcastle-Under-Lyme",
-    "county": "Stoke-On-Trent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "7Kings Tyres &amp;Auto Services Ltd",
     "town_city": "Ilford",
     "county": "Essex",
@@ -13358,6 +13351,13 @@
   {
     "organisation_name": "ABEEHA&#x27;S FASHION &amp; BEAUTY LTD",
     "town_city": " BRADFORD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Abeer Raja Abdul Raheem Al-Adhami T/A Abi Dental",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -27097,6 +27097,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AGC Glass UK Limited",
+    "town_city": "Northampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "AGC Glass UK Limited",
+    "town_city": "Northampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AGC TELECOMS LTD.",
     "town_city": "Luton",
     "county": "Beds",
@@ -34328,6 +34342,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Al Rehab Al Arabi Bldg. Contracting UK Ltd",
+    "town_city": "England",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
     "organisation_name": "AL REHMAN BUTCHERS LTD",
     "town_city": "GLASGOW",
     "county": "",
@@ -34986,6 +35007,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Alas Healthcare (Liverpool)",
+    "town_city": "Liverpool",
+    "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ALAS MULTINATIONAL LIMITED",
     "town_city": "Southampton",
     "county": "Hamphire",
@@ -35497,6 +35525,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Albert Road Surgery",
+    "town_city": "Jarrow",
+    "county": "Tyne and Wear",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Albert Roger Limited",
     "town_city": "Bracknell",
     "county": "",
@@ -35850,6 +35885,13 @@
     "organisation_name": "ALCHEMYBET LTD",
     "town_city": "London",
     "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALCHEMYST LIMITED",
+    "town_city": "WELLINGBOROUGH",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -45720,6 +45762,13 @@
     "organisation_name": "Amber Rose Healthcare Ltd",
     "town_city": "Taunton",
     "county": "Somerset",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Amber Therapeutics Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -67578,6 +67627,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ashley Wilde Group Limited",
+    "town_city": "Welham Green",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ashley-Richmond Accountants Limited",
     "town_city": "Northwood Hills",
     "county": "",
@@ -67699,6 +67755,13 @@
   {
     "organisation_name": "ASHOKA LONDON LIMITED",
     "town_city": " London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ASHOKA LONDON LIMITED",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69933,69 +69996,6 @@
     "organisation_name": "Aspire Supported Living Services",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire Systems (India) Private Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire Systems (India) Private Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Aspire Systems UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Aspire Systems UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE TECHNOLOGY LTD",
-    "town_city": "Reading",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire technology solutions",
-    "town_city": "Gateshead",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE TUTORING LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire Wellbeing Limited",
-    "town_city": "Newcastle upon Tyne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE-GB LTD",
-    "town_city": "Knebworth",
-    "county": "Hertfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
