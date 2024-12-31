@@ -1694,6 +1694,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "24/7 MY MART LIMITED",
+    "town_city": "Wolverhampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "24/7 RETAIL LTD",
     "town_city": "Manchester",
     "county": "United Kingdom",
@@ -6188,6 +6195,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A BITE LTD",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A C Hulme &amp; Sons",
     "town_city": "Canterbury",
     "county": "Kent",
@@ -6870,13 +6884,6 @@
     "organisation_name": "A Number of Names Limited",
     "town_city": "London",
     "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "A ONE SECURITY &amp; FM LTD",
-    "town_city": "Peterborough",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -12167,6 +12174,13 @@
   },
   {
     "organisation_name": "ABAS SOLUTIONS LTD",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Abaseen Chapeltown Ltd T/A Abaseen Chapeltown",
     "town_city": "Leeds",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -20308,7 +20322,7 @@
   },
   {
     "organisation_name": "AD BUILDING RENOVATION LTD",
-    "town_city": "Bradford",
+    "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -33866,6 +33880,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AL HAMRA UK LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AL HAQQ LTD T/A HEAVENLY DESSERTS NORTHAMPTON",
     "town_city": "NORTHAMPTON",
     "county": "",
@@ -36367,6 +36388,13 @@
   {
     "organisation_name": "Aldus Capital Limited",
     "town_city": "Winchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALEA CONSTRUCTIONS LIMITED",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -40967,6 +40995,13 @@
     "organisation_name": "Allure Jewellers",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Allurehairandbeauty Limited T/A  Allure Hair and Beauty",
+    "town_city": "Hounslow",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -46144,7 +46179,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AMBU KARE UK",
+    "organisation_name": "AMBU KARE UK LTD",
     "town_city": "Peterborough",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -49359,6 +49394,13 @@
   {
     "organisation_name": "Analyttica Datalab Private Limited",
     "town_city": "Reading",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ANAM BAKSH LTD",
+    "town_city": "BLACKBURN",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -66059,6 +66101,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ASCENT CONSULTANTS LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ascent Digital Services UK Ltd",
     "town_city": "Bristol",
     "county": "",
@@ -69947,55 +69996,6 @@
     "organisation_name": "Aspire Day Nursery",
     "town_city": "Surbiton",
     "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE EXCEL LTD",
-    "town_city": "Barking",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire for Intelligent Care and Support CIC",
-    "town_city": "Salford",
-    "county": "North West",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE FUNDING LIMITED",
-    "town_city": "Walsall",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire Furniture Ltd",
-    "town_city": "Leeds",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire Green LTD",
-    "town_city": "Tuxford Newark",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire Holidays Ltd",
-    "town_city": "Stratford",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE HOMEWARE LTD",
-    "town_city": "Birmingham",
-    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
