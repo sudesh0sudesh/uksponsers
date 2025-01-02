@@ -13188,6 +13188,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Abcfabulous Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Abd AlRahman Alisha  T/a  Bismillah Takeaway",
     "town_city": "Huddersfield",
     "county": "",
@@ -36309,6 +36316,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Aldonai Logisitics Ltd",
+    "town_city": "Nottingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ALDOR SOLUTIONS LTD",
     "town_city": "Daventry",
     "county": "",
@@ -37025,6 +37039,13 @@
   {
     "organisation_name": "Alfa Autos Ltd",
     "town_city": "Bedford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALFA CONSTRUCTION BIRMINGHAM LIMITED",
+    "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -48482,7 +48503,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AMR CONSULT LIMITED",
+    "organisation_name": "AMR Consult Ltd",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -52848,6 +52869,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "ANNAPOORANA FOODS LIMITED",
+    "town_city": "Wolverhampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "ANNAPURNA CATERING LIMITED T/A POPADOMS",
@@ -57225,6 +57253,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Apreco Limited",
+    "town_city": "Worcester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Apricum Group Ltd",
     "town_city": "London",
     "county": "",
@@ -58340,6 +58375,13 @@
   {
     "organisation_name": "AR LEGAL CONSULTANTS LTD",
     "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AR MANAGEMENTCONSULTANTS LIMITED",
+    "town_city": "Ormskirk",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69034,6 +69076,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ask Plastics Birmingham Ltd",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ask Products Ltd",
     "town_city": "St. Albans",
     "county": "Hertfordshire",
@@ -69947,55 +69996,6 @@
     "organisation_name": "ASPIRATIONS ACADEMIES TRUST",
     "town_city": "Hounslow",
     "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspirations Care Limited",
-    "town_city": "Gloucester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire 2 Be Ltd",
-    "town_city": "London",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE CARE (BLACKPOOL) LIMITED T/A PAR VIEW",
-    "town_city": "BLACKPOOL",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE CARE SERVICES LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire Care SW bristol",
-    "town_city": "Bristol",
-    "county": "Avon",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRE COMUNITY CARE &amp; SUPPORT",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspire Day Nursery",
-    "town_city": "Surbiton",
-    "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
