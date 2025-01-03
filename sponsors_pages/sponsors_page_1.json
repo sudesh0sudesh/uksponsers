@@ -8386,8 +8386,8 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "A.I.U.H GROUP LTD",
-    "town_city": "STAINES-UPON-THAMES",
+    "organisation_name": "A.I.U.H Group Ltd",
+    "town_city": "Staines-Upon-Thames",
     "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -8767,6 +8767,13 @@
     "organisation_name": "A.Z TECHNICAL LIMITED",
     "town_city": "TEDDINGTON",
     "county": "MIDDLESEX",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A/O VC UK Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -11123,6 +11130,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Aarki (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AARNA CONNECT TECH SERVICES LTD T/A AARNA CONNECT",
     "town_city": "Slough",
     "county": "",
@@ -13298,6 +13312,13 @@
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Charity Worker"
+  },
+  {
+    "organisation_name": "ABDULLAH AND ABDULLAH LTD",
+    "town_city": "Greenford,",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "ABDULLAH CHILDCARE LIMITED",
@@ -21210,6 +21231,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ADAPTOGENIC LAB LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Adaptovate Ltd",
     "town_city": "London",
     "county": "",
@@ -23824,6 +23852,13 @@
     "organisation_name": "Advanced Therapeutic Materials Ltd T/A Isobar Compression",
     "town_city": "Manchester",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Advanced Tooling Systems UK Ltd",
+    "town_city": "MAIDSTONE",
+    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -33616,6 +33651,13 @@
   {
     "organisation_name": "AL AQSA FISH MARKET LTD",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AL AQSA TRAVEL &amp; TOUR LTD",
+    "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -55251,6 +55293,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Apex Consulting Engineers Limited",
+    "town_city": "Sheffield",
+    "county": "South Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Apex Consults Limited",
     "town_city": "Harlow",
     "county": "Essex",
@@ -62478,6 +62527,13 @@
     "organisation_name": "Arlington Corporate and Trust Services Ltd",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Arlington Farming Limited",
+    "town_city": "Newark",
+    "county": "Notts",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69940,62 +69996,6 @@
     "organisation_name": "Aspinal of London",
     "town_city": "West Sussex",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPINALL VERDI LIMITED",
-    "town_city": "LEEDS",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspinall&#x27;s Club Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspira Aerial Applications Limited",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRADO TRADING LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspirant Analytics Ltd",
-    "town_city": "London",
-    "county": "Greater London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRANT CONSULTANCY SERVICES LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspiration House Limited",
-    "town_city": "Boston",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPIRATIONS ACADEMIES TRUST",
-    "town_city": "Hounslow",
-    "county": "Middlesex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
