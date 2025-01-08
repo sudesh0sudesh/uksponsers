@@ -5001,7 +5001,7 @@
     "organisation_name": "7Click Network Ltd",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
@@ -21651,6 +21651,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Addshiyas Ltd",
+    "town_city": "Ilford",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ADDSOFT SOLUTIONS LIMITED",
     "town_city": "Slough",
     "county": "Berkshire",
@@ -24060,6 +24067,13 @@
   },
   {
     "organisation_name": "Advantage Solicitors Ltd T/A Advantage Solicitors",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Advantage Utilities Limited",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -34042,7 +34056,7 @@
   },
   {
     "organisation_name": "Al Imran Garments Limited",
-    "town_city": "Nelson",
+    "town_city": "Oldham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -41065,6 +41079,20 @@
     "organisation_name": "ALLSWELL CARE SERVICES",
     "town_city": "WALLINGTON",
     "county": "SURREY",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alltaster Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Alltaster Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69968,34 +69996,6 @@
     "organisation_name": "Aspects Care Ltd",
     "town_city": "Birmingham",
     "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspects Infotech Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPEN CARE LIMITED",
-    "town_city": "Southampton",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPEN CONCEPTS LIMITED",
-    "town_city": "DUDLEY",
-    "county": "WEST MIDLANDS",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspen Hill Healthcare Limited",
-    "town_city": "Leeds",
-    "county": "West Yorkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
