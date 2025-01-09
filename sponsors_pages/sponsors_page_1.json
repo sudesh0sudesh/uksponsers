@@ -2163,6 +2163,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "2tees AfroCaribbean Foods Ltd",
+    "town_city": "Andover",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "2THEWORLD LTD",
     "town_city": "London",
     "county": "",
@@ -35854,6 +35861,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Albiz Packaging Ltd",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Albourne Partners Limited",
     "town_city": "London",
     "county": "",
@@ -51170,6 +51184,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ANGEL HERB LTD",
+    "town_city": "NORTHAMPTON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ANGEL HOME CARE CONSULTANCY LIMITED",
     "town_city": "London",
     "county": "",
@@ -52586,6 +52607,13 @@
   {
     "organisation_name": "ANJANA B.S.A LTD",
     "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Anjana Bhog (Doncaster) Limited",
+    "town_city": "Doncaster",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -62825,6 +62853,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARMADALE RETAILERS LIMITED t/a PREMIER ARMADALE",
+    "town_city": "Bathgate",
+    "county": "West Lothian",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Armadale Supermarket Limited",
     "town_city": "Bathgate",
     "county": "",
@@ -69961,41 +69996,6 @@
     "organisation_name": "ASPECT SUPPORTED LIVING LIMITED",
     "town_city": "Birmingham",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspect Surveyors Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspecto Power Engineering Ltd.",
-    "town_city": "Warwick",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Aspecto Power Engineering Ltd.",
-    "town_city": "Warwick",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspects Care Homes Limited",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspects Care Ltd",
-    "town_city": "Birmingham",
-    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
