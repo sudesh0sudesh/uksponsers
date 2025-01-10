@@ -1,5 +1,68 @@
 [
   {
+    "organisation_name": "Degould Limited",
+    "town_city": "Exeter",
+    "county": "Exeter",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DeHavilland Information Services Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De-Heritage International Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deheza Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dehoss Ltd",
+    "town_city": "Cranleigh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dehshid &amp; Co Accountants",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deia Bidco Limited",
+    "town_city": "Wells-Next-The-Sea",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De-ientes",
+    "town_city": "Bedford",
+    "county": "Bedfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deighton Manufacturing (UK) Ltd",
+    "town_city": "Bradford",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Deimos Cloud Ltd",
     "town_city": "London",
     "county": "",
@@ -3349,13 +3412,6 @@
     "organisation_name": "Dermaside Ltd",
     "town_city": "London",
     "county": "GREATER LONDON",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dermiqque Ltd",
-    "town_city": "Uxbridge",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -22218,6 +22274,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DURA Automotive Body &amp; Glass Systems UK Ltd",
+    "town_city": "Birmingham",
+    "county": "West Midlans",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "DURA BEDS LTD",
     "town_city": "Batley",
     "county": "",
@@ -23728,6 +23791,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "DZINE DIGITAL LTD",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Dzing Finance Limited",
@@ -26799,6 +26869,13 @@
     "organisation_name": "Eastern Garage (Essex) Ltd",
     "town_city": "Braintree",
     "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "EASTERN GASES LIMITED",
+    "town_city": "ROMFORD",
+    "county": "ESSEX",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -39375,6 +39452,13 @@
     "route": "International Agreement"
   },
   {
+    "organisation_name": "EMBASSY OF THE DOMINICAN REPUBLIC IN THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Embassy of the Grand Duchy of Luxembourg in London",
     "town_city": "London",
     "county": "",
@@ -47964,13 +48048,6 @@
     "route": "Creative Worker"
   },
   {
-    "organisation_name": "ES&amp;P IT SOLUTIONS LIMITED",
-    "town_city": "Birmingham,",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ESA BUILD LTD",
     "town_city": " London",
     "county": "",
@@ -52038,7 +52115,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "EUROPEAN ASIAN METAL LTD",
+    "organisation_name": "European Asian Metal Ltd",
     "town_city": "Rotherham",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -52705,13 +52782,6 @@
   {
     "organisation_name": "EV DOT ENERGY LIMITED",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EV MAINTENANCE LTD",
-    "town_city": "Luton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -54063,6 +54133,20 @@
   {
     "organisation_name": "Eversley Rest Home",
     "town_city": "Uttoxeter",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Everton Football Club Company Limited",
+    "town_city": "Liverpool",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Everton Football Club Company Limited",
+    "town_city": "Liverpool",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -59984,7 +60068,7 @@
   },
   {
     "organisation_name": "FAHA LONDON LTD",
-    "town_city": " London",
+    "town_city": "Kington",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -62023,6 +62107,13 @@
     "organisation_name": "FAMILY CHOICE FOOD LTD T/A Curry Hut Cardiff",
     "town_city": "Cathays",
     "county": "Cardiff",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FAMILY CHOICE FUEL (UK) LTD  T/A Family Choice-Premier",
+    "town_city": "Luton",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -64995,6 +65086,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "FE CARE LTD",
+    "town_city": "Milton Keynes",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Fea Card Limited",
     "town_city": "London",
     "county": "",
@@ -65124,13 +65222,6 @@
     "organisation_name": "FEB BROS LTD TA USA FRIED &amp; peri peri chicken",
     "town_city": "Didcot",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Feb Supported Living Services Ltd",
-    "town_city": "Milton Keynes",
-    "county": "Buckinghamshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -67334,8 +67425,8 @@
   },
   {
     "organisation_name": "FIECON ltd",
-    "town_city": "St Albans",
-    "county": "Hertfordshire",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69907,96 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Firemind Ltd",
-    "town_city": "Maidstone",
-    "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FireMon Limited",
-    "town_city": "Warwick",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "FireMon Limited",
-    "town_city": "Warwick",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fireon Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fireproof Studios Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Firesouls Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Firespec Ltd",
-    "town_city": "Perth",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Firestarter Business Solutions Limited",
-    "town_city": "Cheltenham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FireStone Belfast Ltd",
-    "town_city": "Belfast",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Firetail Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FireTap Ltd",
-    "town_city": "London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Firetecnics Systems Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FIREWOOD INVESTMENT (UK) LTD t/a TOKIA SQUARE",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]

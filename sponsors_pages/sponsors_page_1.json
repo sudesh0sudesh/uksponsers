@@ -693,6 +693,13 @@
     "route": "Creative Worker"
   },
   {
+    "organisation_name": "12797803",
+    "town_city": "Welwyn Garden City",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "12B Solicitors Limited",
     "town_city": "London",
     "county": "England",
@@ -5217,6 +5224,13 @@
   {
     "organisation_name": "89up Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "8Ball Contractors Limited",
+    "town_city": "Nottingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -25323,20 +25337,6 @@
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aesop UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Aesop UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
@@ -34153,6 +34153,13 @@
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
+    "organisation_name": "Al Madiha Hallal Butcher Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Al Madina Butchers Ltd",
     "town_city": "Bradford",
     "county": "",
@@ -38652,13 +38659,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
-  },
-  {
-    "organisation_name": "ALIVIAR FINANCIAL LTD",
-    "town_city": "Borehamwood",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Alixa Trading Ltd",
@@ -46182,6 +46182,13 @@
     "organisation_name": "Ambienta Ltd",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Ambin Ltd t/as Friary Pharmacy",
+    "town_city": "Old Windsor",
+    "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -58597,6 +58604,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AR PHYSIOCARE PVT LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AR Private Ltd",
     "town_city": "Glasgow",
     "county": "",
@@ -69984,19 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASPECT Studios Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPECT SUPPORTED LIVING LIMITED",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]
