@@ -329,6 +329,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "10/10 MEDICAL LIMITED",
+    "town_city": "SOUTHPORT",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "10:10 Games Limited",
     "town_city": "Warrington",
     "county": "Cheshire",
@@ -8200,6 +8207,13 @@
     "organisation_name": "A&amp;Y London Limited",
     "town_city": "London",
     "county": "UNITED KINGDOM",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A&amp;Z CONSULTANTS MANGEMENT SERVICES LTD",
+    "town_city": "NOTTINGHAM",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -25459,6 +25473,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AETHER FINANCIAL SERVICES UK LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aether Limited",
     "town_city": "Oxford",
     "county": "",
@@ -30282,6 +30303,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AIPHONE UK LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
     "organisation_name": "AI-PRIORI LTD",
     "town_city": "Burton on Trent",
     "county": "",
@@ -30983,13 +31011,6 @@
   },
   {
     "organisation_name": "Airfinity Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Airhive Ltd",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -31915,6 +31936,13 @@
   {
     "organisation_name": "AJI (RESTAURANTS) LIMITED",
     "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AJIBAN RAJ JAYENTHIRAN T/A ANNA LOCAL EXPRESS ?\u00a2???? GO LOCAL",
+    "town_city": "Chesterfield",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -34207,6 +34235,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Al Majid Welfare Trust",
+    "town_city": "Reading",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
   },
   {
     "organisation_name": "AL Majlis Cafe &amp; Lounge Ltd",
@@ -47796,6 +47831,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AMJ Watch Repair Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AMJAD FABRICATION",
     "town_city": "MACNHESTER",
     "county": "",
@@ -55342,6 +55384,13 @@
     "route": "Global Business Mobility: Graduate Trainee"
   },
   {
+    "organisation_name": "APEX ACCOUNTANTS &amp; TAX ADVISORS LTD",
+    "town_city": "Chigwell",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "APEX ACCOUNTANTS (LONDON) LTD",
     "town_city": "London",
     "county": "",
@@ -56705,6 +56754,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
+    "organisation_name": "Apple Pharmacy",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Apple Print Limited",
@@ -66780,6 +66836,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Asda Express Limited",
+    "town_city": "Blackburn",
+    "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Asda Stores Ltd",
     "town_city": "Leeds",
     "county": "West Yorkshire",
@@ -69935,68 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspect Education Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Aspect Enterprise Solutions Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspect Enterprise Solutions Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASPECT EXHIBITIONS",
-    "town_city": "NORTHAMPTON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspect Labs Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspect Lifts Ltd",
-    "town_city": "Swanley",
-    "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspect Maintenance Services Limited",
-    "town_city": "Chessington",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aspect Software UK Limited",
-    "town_city": "Hayes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASPECT Studios Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
