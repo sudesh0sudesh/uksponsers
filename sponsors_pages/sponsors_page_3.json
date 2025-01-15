@@ -1,5 +1,26 @@
 [
   {
+    "organisation_name": "Camden Town Brewery Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Camden Town Specsavers Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAME UK Limited",
+    "town_city": "Castle Donington",
+    "county": "Default",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Camel Thorn Films Limited",
     "town_city": "Bristol",
     "county": "",
@@ -11970,6 +11991,13 @@
     "route": "Scale-up"
   },
   {
+    "organisation_name": "CECOS HOLDINGS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CECP ADVISORS LLP",
     "town_city": "LONDON",
     "county": "",
@@ -15977,6 +16005,13 @@
     "organisation_name": "Chadwick Textiles Ltd",
     "town_city": "Altrincham",
     "county": "Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Chaganti Limited",
+    "town_city": "Peterlee",
+    "county": "Durham",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -29204,6 +29239,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CityCoast Church (CityCoast Trust)",
+    "town_city": "Brighton",
+    "county": "Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
     "organisation_name": "Cityfibre Holdings Ltd",
     "town_city": "London",
     "county": "",
@@ -36636,6 +36678,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Coder Technologies Inc",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "Codereflex Technologies Ltd",
@@ -69947,55 +69996,6 @@
     "organisation_name": "Deepcut Village Dental Practice",
     "town_city": "Deepcut",
     "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Deepdale Trees Limited",
-    "town_city": "Sandy",
-    "county": "Bedfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Deepdene Care Limited",
-    "town_city": "West MIdalnds",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Deepfin Research Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Deepfin Research Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Deepfin Research Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Deepki UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DeepL UK Limited",
-    "town_city": "LONDON",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

@@ -406,6 +406,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "101 Studios UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "101 Ways Limited",
     "town_city": "London",
     "county": "",
@@ -1757,13 +1764,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "247 CARS WATFORD LIMITED",
-    "town_city": "Watford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "247 Commerce Ltd",
     "town_city": "Brentford",
     "county": "Middlesex",
@@ -2976,8 +2976,8 @@
   },
   {
     "organisation_name": "3D Coffee (Oadby) Limited T/A Costa Coffee",
-    "town_city": "West Malling",
-    "county": "",
+    "town_city": "Dartford",
+    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -25522,13 +25522,6 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
-    "organisation_name": "AETN UK",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AEW UK Investment Management LLP",
     "town_city": "London",
     "county": "",
@@ -26749,6 +26742,13 @@
   {
     "organisation_name": "Aftab Ali Holdings Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Aftab Currency Exchange Limited",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -42329,20 +42329,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Alpha FMC Bidco Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Alpha FMC Bidco Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
     "organisation_name": "Alpha Food Company LTD",
     "town_city": "Hounslow",
     "county": "Middlesex",
@@ -51192,7 +51178,7 @@
   },
   {
     "organisation_name": "Angel Care Staffing Ltd",
-    "town_city": "Newark",
+    "town_city": "West Bridgford",
     "county": "Nottinghamshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -56576,6 +56562,13 @@
   {
     "organisation_name": "Appetiser Pizza Feltham Ltd",
     "town_city": "Feltham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "APPEX SERVICES LTD",
+    "town_city": "LONDON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -64454,6 +64447,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Art Practice Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
   },
   {
     "organisation_name": "ART PROPERTY SERVICES LIMITED",
