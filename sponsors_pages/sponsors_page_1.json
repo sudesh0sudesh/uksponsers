@@ -12768,6 +12768,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "abbey wood dental practice",
+    "town_city": "LONDON",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Abbeycare UK Ltd",
     "town_city": "Erskine",
     "county": "Renfrewshire",
@@ -17684,13 +17691,6 @@
   {
     "organisation_name": "ACE IT Solutions Ltd",
     "town_city": "Orpington",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ACE LABORATORIES LTD",
-    "town_city": "EDGWARE",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -36806,6 +36806,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Alex Thai Kitchen LTD",
+    "town_city": "Bridgewater",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alex UK Ltd",
     "town_city": "Uxbridge",
     "county": "",
@@ -38652,6 +38659,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
+    "organisation_name": "Alison Education UK Ltd.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "ALISON HOLDINGS LTD T/A KASPAS DESSERTS",
@@ -43372,6 +43386,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALSTRUCT LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ALSYED AND SONS TRADING LTD",
     "town_city": "BRENTWOOD",
     "county": "",
@@ -47349,8 +47370,8 @@
   },
   {
     "organisation_name": "AMICABLE TECHNOLOGIES LIMITED",
-    "town_city": "hAYES",
-    "county": "Essex",
+    "town_city": "Newcastle Upon Tyne",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -59081,8 +59102,8 @@
   },
   {
     "organisation_name": "Aramar Solutions Limited",
-    "town_city": "Ipswich",
-    "county": "Suffolk",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69975,27 +69996,6 @@
     "organisation_name": "ASP GLASGOW LTD T/A A&amp;S Properties Glasgow",
     "town_city": "Glasgow",
     "county": "Lanarkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASP Practice limited",
-    "town_city": "brighton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASP Technologies Limited",
-    "town_city": "Reading",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASP Wolverhampton Limited",
-    "town_city": "Wolverhampton",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
