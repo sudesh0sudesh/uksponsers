@@ -1,5 +1,82 @@
 [
   {
+    "organisation_name": "Decus Insurance Brokers Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Decus Insurance Brokers Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Deddington Health Centre",
+    "town_city": "Deddington",
+    "county": "Oxfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dedert International (UK)",
+    "town_city": "Maidenhead",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dedert International (UK)",
+    "town_city": "Maidenhead",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Dedicated Life Care Limited",
+    "town_city": "Ilford",
+    "county": "Barkingside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dedigama Holdings Limited T/A The Royal Hotel",
+    "town_city": "Sheerness",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dedigama Holdings Limited",
+    "town_city": "Twickenham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dee &amp; Lee Ltd",
+    "town_city": "Bourne",
+    "county": "Lincolnshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dee Bee MOT Ltd",
+    "town_city": "Colliers Wood",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dee News",
+    "town_city": "Yateley",
+    "county": "Hampshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dee Northern Ltd",
     "town_city": "Bradford",
     "county": "",
@@ -14147,6 +14224,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DND ACCOUNTANCY LTD",
+    "town_city": "HARROW",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "DND INTERNATIONAL LTD",
     "town_city": "NOTTINGHAM",
     "county": "",
@@ -22415,8 +22499,8 @@
   },
   {
     "organisation_name": "Dunamis Healthcare Limited",
-    "town_city": "Dunstable",
-    "county": "",
+    "town_city": "Wellingborough",
+    "county": "Northamptonshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -39074,13 +39158,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Elman Wall Limited",
-    "town_city": "London,",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Elmar Home Care Limited",
     "town_city": "Leeds",
     "county": "",
@@ -41791,6 +41868,13 @@
   },
   {
     "organisation_name": "Empire Restaurant (Wales) Limited",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Empire Restaurant (Wales) Ltd",
     "town_city": "Cardiff",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -52906,6 +52990,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Europe Store Limited",
+    "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "EUROPE TEXTILES AND FABRICS LTD",
     "town_city": "Dewsbury",
     "county": "West Yorkshire",
@@ -53936,7 +54027,7 @@
   },
   {
     "organisation_name": "Evenco International Limited",
-    "town_city": "London",
+    "town_city": "City of London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -58481,6 +58572,13 @@
     "organisation_name": "Express Electrical &amp; Engineering Supplies Ltd",
     "town_city": "Clydebank",
     "county": "West Dunbartonshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Express Engineering (Fabrications) Limited",
+    "town_city": "Middlesbrough",
+    "county": "Tyne &amp; Wear",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -65296,6 +65394,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Fattboyz Ltd",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Fatto a Mano Ltd",
     "town_city": "Brighton",
     "county": "East Sussex",
@@ -69671,6 +69776,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "FINE ELEMENTS UK LIMITED",
+    "town_city": "Northampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Fine Foods Lisburn Road Ltd",
     "town_city": "Belfast",
     "county": "",
@@ -69886,117 +69998,5 @@
     "county": "Bedfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Fineqia Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Fineqia Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINER LINES AESTHETICS LTD",
-    "town_city": "Hinckley",
-    "county": "Leicestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Finerbase Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINESSE ARMY LIMITED",
-    "town_city": "West Midlands",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Finesse Bakery Limited",
-    "town_city": "BRADFORD",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Finesse Control Systems Ltd",
-    "town_city": "Arbroath",
-    "county": "Angus",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Finesse Desserts UK Limited",
-    "town_city": "Dudley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINESSE ENTERPRISES LIMITED",
-    "town_city": "WOODFORD GREEN",
-    "county": "ESSEX",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Finesse F &amp; B Limited T/A Farzi Cafe",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINEST CLEAN LTD",
-    "town_city": " Milton Keynes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINEST CURRY LTD",
-    "town_city": "Folkestone",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINEST FRUIT &amp; VEG LTD",
-    "town_city": "LEICESTERSHIRE",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Finest Letting Limited",
-    "town_city": "Coventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fineway Cash &amp; carry Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fin-Ex Property No.4(UK) Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]

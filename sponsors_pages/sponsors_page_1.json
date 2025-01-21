@@ -392,6 +392,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "101 Byres Road Limited",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "101 Harley Street LTD",
     "town_city": "London",
     "county": "",
@@ -2634,7 +2641,7 @@
   {
     "organisation_name": "365 Security Management Ltd",
     "town_city": "Crawley",
-    "county": "",
+    "county": "West Sussex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -28505,14 +28512,14 @@
   },
   {
     "organisation_name": "Agreena Technology Limited",
-    "town_city": "Manchester",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Agreena Technology Limited",
-    "town_city": "Manchester",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -33229,6 +33236,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AKKAAL TRANSPORT LTD",
+    "town_city": "PETERBOROUGH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Akkar Limited",
     "town_city": "Brighton",
     "county": "Sussex",
@@ -37847,6 +37861,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Al-Hasni Welfare Trust",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
   },
   {
     "organisation_name": "ALHAYAT LANGUAGES CENTRE",
@@ -43624,13 +43645,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Altavia HTT Limited",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Altavia UK Group Limited",
     "town_city": "Northampton",
     "county": "",
@@ -46168,6 +46182,13 @@
     "organisation_name": "Amber Residential Care Homes Ltd",
     "town_city": "Winchester",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Amber Rose Healthcare Ltd",
+    "town_city": "Taunton",
+    "county": "Somerset",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -51565,6 +51586,13 @@
     "organisation_name": "Angelina Care Limited",
     "town_city": "London",
     "county": "Greater London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Angelina Colarusso Couture",
+    "town_city": "Richmond",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69970,33 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asmodee UK Holding Limited",
-    "town_city": "Bordon",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASMPT SMT UK Limited",
-    "town_city": "Weymouth",
-    "county": "Dorset",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASMPT SMT UK Limited",
-    "town_city": "Weymouth",
-    "county": "Dorset",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASMPT SMT UK Limited",
-    "town_city": "Weymouth",
-    "county": "Dorset",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
   }
 ]
