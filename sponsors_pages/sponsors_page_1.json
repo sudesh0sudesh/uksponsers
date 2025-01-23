@@ -1148,13 +1148,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "1ST ADTUBE LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "1st Airport Taxis LTD",
     "town_city": "Luton",
     "county": "",
@@ -7512,7 +7505,7 @@
   },
   {
     "organisation_name": "A V COMMERCIAL FINANCE LTD T/A  A V FINANCE",
-    "town_city": "Enfield",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -20650,6 +20643,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AD URMSTON RESTAURANTS LTD",
+    "town_city": "MANCHESTER",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ad Valorem Accountancy Services Limited",
     "town_city": "Milton Keynes",
     "county": "Buckinghamshire",
@@ -28073,6 +28073,13 @@
     "organisation_name": "Agile Wings Limited",
     "town_city": "Brentford",
     "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Agile without borders Ltd",
+    "town_city": "London",
+    "county": "London",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -36914,6 +36921,13 @@
     "organisation_name": "Alex Dumitrache Limited",
     "town_city": "Burford",
     "county": "Oxfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alex KYK Limited t/a Happy Hot Pot",
+    "town_city": "Edinburgh",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -47712,6 +47726,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AMIN CORPORATION LIMITED",
+    "town_city": "Orpington",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Amin Jahan Ltd T/A Subway",
     "town_city": "Caterham",
     "county": "",
@@ -54817,13 +54838,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Anyango Chiemeka Nandako (ACN) Health Care Ltd",
-    "town_city": "Colchester",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Anyjunk Limited",
     "town_city": "London",
     "county": "",
@@ -57536,13 +57550,6 @@
     "organisation_name": "Apps Smiles Limited",
     "town_city": "Milton Keynes",
     "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Appsbroker Limited",
-    "town_city": "Swindon",
-    "county": "Wiltshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69988,13 +69995,6 @@
   {
     "organisation_name": "Asme Retail Limited",
     "town_city": "Walsall",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asmita &amp; Associates Ltd",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

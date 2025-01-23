@@ -1,5 +1,12 @@
 [
   {
+    "organisation_name": "Asmita &amp; Associates Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Asmodee UK Holding Limited",
     "town_city": "Bordon",
     "county": "Hampshire",
@@ -9016,6 +9023,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AVG Trade Limited T/a Pinnova",
+    "town_city": "Pinner",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Avi Consulting London Limited",
     "town_city": "Hounslow",
     "county": "",
@@ -11060,20 +11074,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Axioma (UK) Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Axioma (UK) Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
     "organisation_name": "Axiomise Ltd",
     "town_city": "London",
     "county": "",
@@ -11517,6 +11517,13 @@
   {
     "organisation_name": "Ayaan Ices Ltd",
     "town_city": "Peterborough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Ayaan Properties Management Limited",
+    "town_city": "Bradford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -14393,13 +14400,6 @@
   },
   {
     "organisation_name": "Babama Enterprise Limited T/A Subway",
-    "town_city": "Brackley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "BABAMA ENTERPRISE LIMITED",
     "town_city": "Brackley",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -42435,8 +42435,8 @@
   },
   {
     "organisation_name": "Blue Dental Laboratory Limited",
-    "town_city": "Edenbridge",
-    "county": "Kent",
+    "town_city": "Crowborough",
+    "county": "East Sussex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -57100,7 +57100,7 @@
   },
   {
     "organisation_name": "BRITUR LTD",
-    "town_city": "Bromley",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
