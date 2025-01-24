@@ -5831,6 +5831,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A &amp; K CURRY LTD",
+    "town_city": "Cambridge",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A &amp; K ENTERPRISES (PITSLIGO) LTD",
     "town_city": "FRASERBURGH",
     "county": "",
@@ -19572,6 +19579,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Actium Bidco (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Actium Bidco (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Actium Holdings Limited",
     "town_city": "London",
     "county": "",
@@ -20526,6 +20547,13 @@
   {
     "organisation_name": "AD EMPIRE INTERIORS AND CONSTRUCTION LTD",
     "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Ad Hoc London Ltd",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -23595,6 +23623,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Advance Web Software Ltd",
+    "town_city": "London",
+    "county": "England",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "Advanced  Aerial Mapping Services Ltd",
@@ -28871,6 +28906,13 @@
     "organisation_name": "AH LETTINGS",
     "town_city": "HEMEL HEMPSTEAD",
     "county": "HERTFORDSHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AH Livings International LTD",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -46263,6 +46305,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AmberGreen Health &amp; Social Care Ltd",
+    "town_city": "Luton",
+    "county": "Bedfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Amberley Inn HOTEL LTD",
     "town_city": "Stroud",
     "county": "Gloucestershire",
@@ -63007,6 +63056,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Arm Limited",
+    "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Government Authorised Exchange"
+  },
+  {
     "organisation_name": "ARM TRANSPORT LTD",
     "town_city": "Manchester",
     "county": "",
@@ -69942,61 +69998,5 @@
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "ASM Technologies (UK) Limited",
-    "town_city": "Coventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASMA &amp; CO LTD",
-    "town_city": "Birkenhead",
-    "county": "Merseyside",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASMA AHMAD LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asma Kebab Limited",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASMA TRADE LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asmat Accountancy Services Limited",
-    "town_city": "Slough",
-    "county": "Berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASME Engineering Ltd",
-    "town_city": "Harrow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asme Retail Limited",
-    "town_city": "Walsall",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]
