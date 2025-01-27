@@ -1,5 +1,362 @@
 [
   {
+    "organisation_name": "Rainbow Professional Ltd",
+    "town_city": "Hull",
+    "county": "East Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbow Services UK Ltd",
+    "town_city": "Prestwck",
+    "county": "Ayrshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAINBOW SOCIAL CARE LIMITED",
+    "town_city": "Wokingham",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbow Software Solutions Limited",
+    "town_city": "Leeds",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAINBOW SPARKLES LIMITED",
+    "town_city": "Hatfield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbow Spice South Limited",
+    "town_city": "London",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbow Staffing Services",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbow Stores",
+    "town_city": "Stanford-Le-Hope",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbow Therapeutic LTD",
+    "town_city": "Merthyr Tydfil",
+    "county": "Merthyr Tydfil",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAINBOW TRADERS LTD",
+    "town_city": "Oldham",
+    "county": "Lancashire,",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbow Travel Ltd",
+    "town_city": "Abotts Langely",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAINBOW UNITED LTD",
+    "town_city": "SUNDERLAND",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbows Bubble Tea",
+    "town_city": "Basildon",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAINBOWSTAR RETAIL LTD",
+    "town_city": "ROMFORD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainbowwave Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raindance Global Partnership LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raindrop Trading Limited",
+    "town_city": "Shawlands",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raindrops Charity U.K.",
+    "town_city": "Blackburn",
+    "county": "Lancashire",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
+    "organisation_name": "RAINDROPS CONSULTING LTD",
+    "town_city": "Milton Keynes",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raine Advisors Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raine Advisors Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Rainforest Bidco Limited",
+    "town_city": "Nottingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainforest Builder Ltd",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainham Cricket Club",
+    "town_city": "Rainham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "RAINHAM MOTORS (MOT) LIMITED",
+    "town_city": "Essex",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAINHILL CRICKET CLUB",
+    "town_city": "MERSEYSIDE",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAINHILL CRICKET CLUB",
+    "town_city": "MERSEYSIDE",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Rainhill Village surgery",
+    "town_city": "Rainhill",
+    "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainmaking Innovation Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rains Consulting Limited",
+    "town_city": "Rudheath",
+    "county": "Northwich",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rain&#x27;s Nailz, Hair &amp; Beauty Ltd.",
+    "town_city": "Luton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rains News",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainstone Financial Services Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainy City Agency",
+    "town_city": "Leigh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Rainy Retail Limited",
+    "town_city": "Stamford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAISA KITCHEN LTD",
+    "town_city": "Oldham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raisa Thai Foods ltd",
+    "town_city": "Brecon,",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAISE HEALTHCARE PVT LTD",
+    "town_city": "SUTTON COLDFIELD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raise the youth foundation CIC",
+    "town_city": "Bolton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raised in Bristol Community Interest Company",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raisin Platforms Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raisin Platforms Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "RAISING SOLUTIONS LIMITED",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raisso House Ltd",
+    "town_city": "Coventry",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raitech It Servces/trainings Ltd",
+    "town_city": "Ipswich",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAITH ROVERS FOOTBALL CLUB",
+    "town_city": "KIRKCALDY",
+    "county": "FIFE",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Raithwaite Whitby Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAIYAAN TRADERS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAJ &amp; KNOLL LTD T/A AMI GROUP",
+    "town_city": "DEAL",
+    "county": "KENT",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RAJ (APSLEY) LTD",
+    "town_city": "HERTFORDSHIRE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Raj Admission Consultancy Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Raj And Raj Ltd T/A Fireaway Pizza",
     "town_city": "Banbury",
     "county": "",
@@ -7870,6 +8227,13 @@
   {
     "organisation_name": "RED MIRACLE (SOUTHALL) LIMITED T/A Dominos",
     "town_city": "Southall",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RED MIRACLE LIMITED T/A Dominos",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -21413,6 +21777,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "RJF Farhi Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "RJHArchitecture Ltd",
     "town_city": "Dorking",
     "county": "Surrey",
@@ -30369,6 +30740,13 @@
     "organisation_name": "RSC EDINBURGH TRADING LIMITED",
     "town_city": "Bathgate",
     "county": "Scotland",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RSD LAUNDRY LTD T/A DENAWASH",
+    "town_city": "Coventry",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -40068,13 +40446,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "SAINTS SUPER STORE",
-    "town_city": "LUTON",
-    "county": "BEDFORDSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "SAIPAN CONSTRUCTION LTD",
     "town_city": "Twickenham",
     "county": "",
@@ -44122,13 +44493,6 @@
   },
   {
     "organisation_name": "Sands City Limited T/A KOKUM",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sands City Limited",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -48412,6 +48776,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "SAY COMMUNICATIONS LIMITED",
+    "town_city": "Wimbledon",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Say Digital Limited",
     "town_city": "London",
     "county": "",
@@ -50393,6 +50764,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "School-Home Support Service (UK)",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Schools Counselling Partnership Ltd",
     "town_city": "London",
     "county": "GB",
@@ -50661,6 +51039,20 @@
   {
     "organisation_name": "Science (UK) Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Science Applications International Corporation (UK) Ltd",
+    "town_city": "Guildford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Science Applications International Corporation (UK) Ltd",
+    "town_city": "Guildford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69605,398 +69997,6 @@
     "town_city": "Newcastle Upon Tyne",
     "county": "",
     "type_rating": "Worker (A (Premium))",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Siemens Energy Limited",
-    "town_city": "Newcastle Upon Tyne",
-    "county": "",
-    "type_rating": "Worker (A (Premium))",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Siemens Gamesa Renewable Energy Limited",
-    "town_city": "Hull",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Siemens Gamesa Renewable Energy Limited",
-    "town_city": "Hull",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Siemens Healthcare Limited",
-    "town_city": "Camberley",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Siemens Healthcare Limited",
-    "town_city": "Camberley",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Siemens Holdings plc (including Siemens plc)",
-    "town_city": "Camberley",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Siemens Holdings plc (including Siemens plc)",
-    "town_city": "Camberley",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Siemens Holdings plc (including Siemens plc)",
-    "town_city": "Camberley",
-    "county": "Hampshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
-  },
-  {
-    "organisation_name": "Siemens Industry Software Limited",
-    "town_city": "Farnborough",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Siemens Industry Software Limited",
-    "town_city": "Farnborough",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Siemens Mobility Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Siemens Mobility Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIENNA CARE LIMITED",
-    "town_city": "WELLINGBOROUGH",
-    "county": "NORTHAMPTONSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Siennico ventures",
-    "town_city": "Stone",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIENT MAYA DRYLINING LTD",
-    "town_city": "Nuneaton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIERA CONSULTANCY LIMITED",
-    "town_city": "ILFORD",
-    "county": "essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIERRA LEONE HIGH COMMISSION",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "International Agreement"
-  },
-  {
-    "organisation_name": "Sierra Nevada Corporation Mission Systems UK Ltd",
-    "town_city": "St Athan",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Sierra Nevada Corporation Mission Systems UK Ltd",
-    "town_city": "St Athan",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIEVEMK Gateway Ltd",
-    "town_city": "Milton Keynes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SiFive UK Ltd",
-    "town_city": "Cambridge",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "SiFive UK Ltd",
-    "town_city": "Cambridge",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sift Limited",
-    "town_city": "Bristol",
-    "county": "Bristol",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sifted (EU) Ltd",
-    "town_city": "London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sifty ML LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sify Technologies Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sify Technologies Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "SIG 1820 Ltd",
-    "town_city": "Bicester",
-    "county": "Oxfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIG Combibloc Ltd",
-    "town_city": "Gateshead",
-    "county": "Tyne and Wear",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIG Combibloc Ltd",
-    "town_city": "Gateshead",
-    "county": "Tyne and Wear",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "SIG Technologies Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Siga UK Limited",
-    "town_city": "Farnborough",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGCARE LIMITED",
-    "town_city": "Watford",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "sight cymru cio",
-    "town_city": "Pontypool",
-    "county": "Torfaen",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sight Diagnostics UK Limited",
-    "town_city": "Camden Town",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sight Diagnostics UK Limited",
-    "town_city": "Camden Town",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Sight System Limited",
-    "town_city": "Brough",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sightcall Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Sightcall Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGHTHILL SUPERMARKET LTD",
-    "town_city": "Edinburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGIRIYA RESTAURANTS LTD",
-    "town_city": "HALE",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sigma 786 Limited T/A Fone Booth",
-    "town_city": "Barnsley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGMA BUSINESS INTELLIGENCE SERVICES (PVT) LTD",
-    "town_city": "Kingston Upon Thames",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sigma Computing UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sigma Connectivity Ltd",
-    "town_city": "Warwick",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: UK Expansion Worker"
-  },
-  {
-    "organisation_name": "Sigma Connectivity Ltd",
-    "town_city": "Warwick",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Sigma Connectivity Ltd",
-    "town_city": "Warwick",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sigma Corporation Ltd",
-    "town_city": "Hounslow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGMA DESIGN &amp; BUILD LTD",
-    "town_city": "Uxbridge,",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGMA INDUSTRIAL SYSTEMS LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sigma Lithium Limited",
-    "town_city": "Abingdon",
-    "county": "Oxfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sigma Pharmaceuticals Plc",
-    "town_city": "Watford",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGMA RECTRIX SYSTEMS (UK) LIMITED",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGMA.AI DATA LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sigma+Star Limited",
-    "town_city": "Pembroke Dock",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SIGMA4UK LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
 ]

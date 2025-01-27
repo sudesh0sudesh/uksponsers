@@ -1743,6 +1743,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "24-4 7 FM Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "247 ALLIANCE LTD",
     "town_city": "Birmingham",
     "county": "",
@@ -4039,6 +4046,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "4MS SERVICES LTD",
+    "town_city": "Luton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "4NCARE LTD",
     "town_city": "Ipswich",
     "county": "Suffolk",
@@ -6127,6 +6141,13 @@
   {
     "organisation_name": "A A POLYPHARMA LIMITED",
     "town_city": "Essex",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A A PROPERTY INVESTMENT (LUTON) LIMITED",
+    "town_city": "Luton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -11560,6 +11581,13 @@
     "organisation_name": "AASHIKA LTD",
     "town_city": "Aberdeen",
     "county": "Aberdeenshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AASHIRWAD PROPERTIES LIMITED",
+    "town_city": "WALSALL",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -22247,8 +22275,8 @@
   },
   {
     "organisation_name": "Adhikari LTD",
-    "town_city": "Greater Manchester",
-    "county": "",
+    "town_city": "Sale",
+    "county": "Cheshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -31164,6 +31192,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Airey Miller Surveys Limited",
+    "town_city": "Sevenoaks",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aireys Wine Store Ltd",
     "town_city": "Poulton-Le-Fylde",
     "county": "",
@@ -36939,6 +36974,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALETHIOMICS LIMITED",
+    "town_city": "OXFORD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aleti Software Systems Ltd",
     "town_city": "Newcastle Upon Tyne",
     "county": "",
@@ -37480,6 +37522,13 @@
   {
     "organisation_name": "ALFA SOPHIA PLUMBING &amp; HEATING LTD",
     "town_city": "STAINES -UPON - THAMES",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alfa8 Partners LLP",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -38516,6 +38565,13 @@
   {
     "organisation_name": "Align Communications International Ltd.",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALIGN LOGISTICS LTD",
+    "town_city": "Southall",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -47728,6 +47784,13 @@
   {
     "organisation_name": "Amigos Nite Limited",
     "town_city": "Hounslow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Amigos Retail Limited",
+    "town_city": "Carlisle",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69935,68 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASLAN UGUR LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASLI ZAIQA LTD",
-    "town_city": "Leicester, England",
-    "county": "UK",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASLI ZAIQA LTD",
-    "town_city": "Leicester, England",
-    "county": "UK",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "ASM Auto",
-    "town_city": "Walsall",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASM Limited T/A West Nine Food &amp; Wine",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASM Rail &amp; Civils Ltd.",
-    "town_city": "Hayes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASM Recruitment Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASM SUBS Limited",
-    "town_city": "Newport",
-    "county": "Shropshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASM Talent Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
   }
 ]
