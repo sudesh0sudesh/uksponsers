@@ -28735,6 +28735,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "GFL Robinson",
+    "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "GFM Animation LTD",
     "town_city": "London",
     "county": "",
@@ -31257,6 +31264,13 @@
   {
     "organisation_name": "GIZELLE LTD",
     "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "GJ CONVENIENCE LTD T/A STOP SHOP",
+    "town_city": "Lancashire",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -41778,6 +41792,13 @@
   {
     "organisation_name": "GP BULLHOUND CORPORATE FINANCE LTD",
     "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "GP Direct",
+    "town_city": "Harrow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -54502,6 +54523,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "H Plus Care Ltd",
+    "town_city": "Maidenhead",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "H POWAR LIMITED",
     "town_city": "slough",
     "county": "",
@@ -65975,13 +66003,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "HB BROS LTD",
-    "town_city": "Coventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "HB BROXBOURNE LIMITED",
     "town_city": "Broxbourne",
     "county": "",
@@ -69975,27 +69996,6 @@
     "organisation_name": "Hemel Foods Ltd",
     "town_city": "Hemel Hempstead",
     "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Hemel Storm Basketball Club",
-    "town_city": "Hemel Hempstead",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Hemesh Filings UK LTD",
-    "town_city": "Horsham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HEMESH RETAILERS LTD",
-    "town_city": "Dorking",
-    "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

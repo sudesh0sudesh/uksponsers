@@ -5509,13 +5509,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "DESSERTZ LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Dessi Bite Ltd",
     "town_city": "Reading",
     "county": "",
@@ -9867,6 +9860,13 @@
     "town_city": "LONDON",
     "county": "",
     "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DIGITAL PROSPECT LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (B rating)",
     "route": "Skilled Worker"
   },
   {
@@ -16156,6 +16156,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DONEWELL PROPERTIES LTD",
+    "town_city": "RUSHDEN",
+    "county": "NORTHAMPTON",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dong Dao Group UK Limited",
     "town_city": "Maidenhead",
     "county": "",
@@ -19960,13 +19967,6 @@
     "organisation_name": "DREAM SUPPORT SOLUTIONS LTD",
     "town_city": "Hounslow",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dream Team AI Ltd",
-    "town_city": "Milton Keynes",
-    "county": "Buckinghamshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -25293,13 +25293,6 @@
   {
     "organisation_name": "E Shoping UK Limited",
     "town_city": "Livingston",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "E T P TECHNOLOGIES LTD",
-    "town_city": "Holborn, London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -55980,7 +55973,7 @@
   },
   {
     "organisation_name": "Evoke Neurological Rehabilitation Ltd",
-    "town_city": "Cheltenham",
+    "town_city": "Calmsden",
     "county": "Gloucestershire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -61094,6 +61087,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Facechoice Limited",
+    "town_city": "Swindon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Facegym Limited",

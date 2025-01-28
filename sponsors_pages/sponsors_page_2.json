@@ -161,6 +161,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ASMTECH LIMITED T/A Buckingham News",
+    "town_city": "Buckinghamshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ASMZ Barbers LTD",
     "town_city": "London",
     "county": "",
@@ -21483,6 +21490,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "BASANT FOODS LIMITED",
+    "town_city": "Southall",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "BASBOGA LIMITED",
     "town_city": "LONDON",
     "county": "",
@@ -29374,13 +29388,6 @@
   {
     "organisation_name": "Bengal Tiger Indian Takeaway",
     "town_city": "Stockton-on-Tees",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "BENGAL TIGER LILY (ALDERLEY EDGE) LTD",
-    "town_city": "Macclesfield",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -49750,8 +49757,8 @@
   },
   {
     "organisation_name": "Bowra Limited",
-    "town_city": "Londom",
-    "county": "Wembley",
+    "town_city": "Maidenhead",
+    "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69989,13 +69996,6 @@
     "organisation_name": "Cambridge Guarantee Limited",
     "town_city": "Ipswich",
     "county": "Suffolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Cambridge Healthcare Research Limited",
-    "town_city": "Cambridge",
-    "county": "Cambs",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

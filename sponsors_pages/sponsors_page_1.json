@@ -15680,13 +15680,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ABUURM BUILDERS LIMITED",
-    "town_city": "Dudley",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Abuz Food Ltd t/a Taza",
     "town_city": "Dundee",
     "county": "",
@@ -21462,13 +21455,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Adapts Today Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Adara Healthcare Limited",
     "town_city": "Northampton",
     "county": "",
@@ -24461,6 +24447,13 @@
     "organisation_name": "ADVENTURE PRIVATE TRANSPORT LTD",
     "town_city": " Accrington",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Adventurize Ltd",
+    "town_city": "Stratford-Upon-Avon",
+    "county": "Warwickshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -29036,13 +29029,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AHA TRADING LIMITED",
-    "town_city": "Coventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AHA Units 2 Let Limited",
     "town_city": "Lasswade",
     "county": "",
@@ -29598,6 +29584,13 @@
   {
     "organisation_name": "AHS Cars Ltd T/A AHS Cars",
     "town_city": "Derby",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AHS DAGENHAM LTD",
+    "town_city": "Dagenham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -40197,6 +40190,13 @@
     "organisation_name": "Allegis Group Limited",
     "town_city": "Bracknell",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Allegra Fairmile Grange Limited",
+    "town_city": "Christchurch",
+    "county": "Dorset",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -57372,13 +57372,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "APPLIED BUSINESS ACADEMY LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Applied Data Science Partners Ltd",
     "town_city": "London",
     "county": "",
@@ -68190,6 +68183,13 @@
     "organisation_name": "Ashford Specsavers Limited T/A Specsavers Opticians",
     "town_city": "Ashford",
     "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ASHFORD SUPERSTORE LIMITED",
+    "town_city": "Coventry",
+    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
