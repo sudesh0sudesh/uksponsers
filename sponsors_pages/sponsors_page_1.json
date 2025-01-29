@@ -987,6 +987,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "1899 Hartlepool Ltd",
+    "town_city": "Colchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "18A Charing Cross Dental Surgery",
     "town_city": "London",
     "county": "",
@@ -8709,14 +8716,14 @@
   },
   {
     "organisation_name": "A.P.T. Capital",
-    "town_city": "Surrey",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "A.P.T. Capital",
-    "town_city": "Surrey",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -29071,6 +29078,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AHANA FOOD LTD",
+    "town_city": "Croydon",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ahar (Whitley) Ltd",
     "town_city": "Whitley Bay",
     "county": "Tyne &amp; Wear",
@@ -41972,6 +41986,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Almond Care Providers Limited",
+    "town_city": "Harrow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Almond Care Providers Ltd",
     "town_city": "South Norwood",
     "county": "London",
@@ -44520,6 +44541,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALUMROCK BUTCHER LTD",
+    "town_city": "Birmingham",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alumrock Cake Box Limited",
     "town_city": "Birmingham",
     "county": "",
@@ -46090,6 +46118,13 @@
   {
     "organisation_name": "AMBA TRADERS LTD T/A BAAR BAAR RESTAURANT",
     "town_city": "HARROW",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AMBALA &amp; KARAHI LIMITED",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -63294,6 +63329,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Armagh Timber Products Ltd",
+    "town_city": "Armagh",
+    "county": "Armagh",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ARMAN CONSTRUCTION LTD",
     "town_city": "Croydon",
     "county": "",
@@ -63901,6 +63943,13 @@
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Global Business Mobility: Graduate Trainee"
+  },
+  {
+    "organisation_name": "AROSA TRADING LIMITED",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Around the clock care agency Ltd",
@@ -69946,55 +69995,6 @@
   {
     "organisation_name": "ASKSENTI LTD T/A  Sentisum",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKUK LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASL Restaurant Ltd T/A Ganesha Restaurant",
-    "town_city": "Watford",
-    "county": " Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASL SERVICES AND MANAGEMENT LTD",
-    "town_city": "Hounslow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASL SOUTHAMPTON LTD",
-    "town_city": "SOUTHAMPTON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASLAM MOHAMED MOTI T/A JUNGLE PAPRIKA",
-    "town_city": "LEICESTER",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASLAMS FLOORING LTD",
-    "town_city": "BLACKBURN",
-    "county": "LANCASHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aslan Jewellery Limited",
-    "town_city": "Chester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
