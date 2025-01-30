@@ -896,6 +896,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "1717 Retail Ltd",
+    "town_city": "Waterlooville",
+    "county": "Hampshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "178 PARK VIEW LIMITED",
     "town_city": "ORPINGTON",
     "county": "KENT",
@@ -4573,6 +4580,13 @@
   {
     "organisation_name": "5S STORE LTD",
     "town_city": "Hinckley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "5STARS TOTAL SOLUTIONS LTD",
+    "town_city": "Brighton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -15841,6 +15855,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AC Whitehaven Ltd",
+    "town_city": "Norfolk",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ACA Compliance (Europe) Limited",
     "town_city": "London",
     "county": "",
@@ -19691,13 +19712,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ACTIVE CARE ORGANISATION LIMITED",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Active Care Plus Ltd",
     "town_city": "Rotherham",
     "county": "",
@@ -22561,7 +22575,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ADL GLOBAL LIMITED",
+    "organisation_name": "ADL Global Limited",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -66038,6 +66052,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Aryal&#x27;s Catering Limited T/A Gurkha Aroma",
+    "town_city": "Bolsover",
+    "county": "Chesterfield",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ARYAN BUILDERS LTD",
     "town_city": "LUTON",
     "county": "BEDFORDSHIRE",
@@ -69973,27 +69994,6 @@
   },
   {
     "organisation_name": "Askonas Holt Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Askonas Holt Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "AskRevill.com Ltd",
-    "town_city": "Ringwood",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKSENTI LTD T/A  Sentisum",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
