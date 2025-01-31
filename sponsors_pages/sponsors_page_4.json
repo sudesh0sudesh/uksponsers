@@ -1,5 +1,82 @@
 [
   {
+    "organisation_name": "DEAN TAXIS",
+    "town_city": "GATESHEAD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dean Wilson LLP",
+    "town_city": "Brighton",
+    "county": "Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deanmore Limited",
+    "town_city": "Wembley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deansbrook Care Centre LTD",
+    "town_city": "Edgware",
+    "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deansbrook Express Ltd T/A Stanley Food &amp; Wine",
+    "town_city": "Edgware",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deansgate Aesthetics Ltd.",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DEANSGATE SURGERY LIMITED",
+    "town_city": "MANCHESTER",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DEAO LIMITED",
+    "town_city": "Wales",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dear Frances Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dearne Valley Group Practice",
+    "town_city": "ROTHERHAM",
+    "county": "SOUTH YORKSHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dearne Valley Group Practice",
+    "town_city": "Rotherham",
+    "county": "South Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dearnlea Park Residential Care Home",
     "town_city": "Rotherham",
     "county": "South Yorkshire",
@@ -8865,14 +8942,14 @@
     "organisation_name": "Diamond Light Source Ltd",
     "town_city": "Didcot",
     "county": "Oxfordshire",
-    "type_rating": "Worker (A (Premium))",
+    "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Diamond Light Source Ltd",
     "town_city": "Didcot",
     "county": "Oxfordshire",
-    "type_rating": "Temporary Worker (A (Premium))",
+    "type_rating": "Temporary Worker (A rating)",
     "route": "Government Authorised Exchange"
   },
   {
@@ -13965,6 +14042,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DKL Resources Limited",
+    "town_city": "Dagenham",
+    "county": "Essex County",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "DKLM LLP",
     "town_city": "London",
     "county": "",
@@ -18165,13 +18249,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Downtown Fast Foods Ltd",
-    "town_city": "Huddersfield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Downtown Kitchen Limited",
     "town_city": "London",
     "county": "",
@@ -20713,13 +20790,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "DRIVE SMART SCHOOL LTD",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Drive System Design Ltd",
     "town_city": "Leamington Spa",
     "county": "",
@@ -20869,6 +20939,13 @@
   {
     "organisation_name": "Dromore and Trillick Surgery",
     "town_city": "OMAGH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Drone Amigos UK Limited t/a Skynamic",
+    "town_city": "Derby",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -29417,6 +29494,13 @@
     "organisation_name": "EAT-UK Ltd",
     "town_city": "IPSWICH",
     "county": "SUFFOLK",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Eatzr Limited",
+    "town_city": "Birkenhead",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -57351,7 +57435,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Excellent Merchandisers",
+    "organisation_name": "Excellent Merchandisers Ltd",
     "town_city": "Southampton",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -57473,6 +57557,13 @@
     "organisation_name": "Exceptional Support Services",
     "town_city": "Nuneaton",
     "county": "Warwickshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Exceptional UKAlien Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -58894,6 +58985,13 @@
     "organisation_name": "Explora Haven Training and Support Services Limited",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Exploration and Production Information Company Ltd",
+    "town_city": "Thainstone",
+    "county": "Inverurie",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -67718,6 +67816,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Fensco Ltd",
+    "town_city": "Langley",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Fenton Holloway Ltd",
     "town_city": "Bristol",
     "county": "",
@@ -69891,111 +69996,6 @@
     "organisation_name": "Finance Box Limited",
     "town_city": "Rustington",
     "county": "West Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Finance Car Shop Ltd",
-    "town_city": "Leicester",
-    "county": "East Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINANCE SOLUTIONS &amp; ADVISORS LTD",
-    "town_city": "Rainham",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Advisory Services Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Conduct Authority",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Data Management Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINANCIAL FUSION UK LTD",
-    "town_city": "England",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial House Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Management (U.K.) Ltd T/a Commercial Direct",
-    "town_city": "Beckenham",
-    "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Network Analytics Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Ombudsman Service",
-    "town_city": "London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Recovery Technologies UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Recovery Technologies UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Financial Reporting Council Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Financial Services Capital Partners LLP",
-    "town_city": "Fitzrovia",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FINANCIAL STUDIO LTD",
-    "town_city": "Northwich",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

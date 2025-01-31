@@ -6076,6 +6076,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A &amp; Z Consultancy Services Ltd",
+    "town_city": "Ilford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A &amp; Z Dry Cleaners",
     "town_city": "Luton",
     "county": "Bedfordshire",
@@ -6939,6 +6946,20 @@
   {
     "organisation_name": "A McLay and Company Limited",
     "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A Million Ads Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "A Million Ads Limited",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -19969,13 +19990,6 @@
     "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ActiveQuote Ltd",
-    "town_city": "Cardiff",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   },
   {
     "organisation_name": "ActiveQuote Ltd",
@@ -35308,13 +35322,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Alana AI Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Alanah Trading Ltd",
     "town_city": "Wembley",
     "county": "Middlesex",
@@ -45823,7 +45830,7 @@
   },
   {
     "organisation_name": "AMARI HEALTHCARE LTD",
-    "town_city": "Wednesbury",
+    "town_city": "Cardiff",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -57351,6 +57358,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "APPLETREE DAY NURSERIES (WALES) LIMITED",
+    "town_city": "Caldicot",
+    "county": "South Wales",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Appletree Global Ltd",
     "town_city": "Nottingham",
     "county": "Nottinghamshire",
@@ -65506,6 +65520,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARTKOF ENTERPRISE LIMITED",
+    "town_city": "Exeter",
+    "county": "Devon",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "art-K",
     "town_city": "Ashtead",
     "county": "",
@@ -69975,27 +69996,6 @@
     "organisation_name": "ASKN LTD",
     "town_city": "Birmingham",
     "county": "United Kingdom",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asko Foods Limited",
-    "town_city": "Leyton",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Askonas Holt Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Askonas Holt Limited",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
