@@ -8876,6 +8876,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A.T.S.UK PRIVATE LIMITED t/as Eden Off Licence",
+    "town_city": "Rotherham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A.U MANCHESTER LIMITED",
     "town_city": "Manchester",
     "county": "",
@@ -15661,6 +15668,13 @@
   {
     "organisation_name": "ABU BANGLADESH LIMITED",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ABU ENTERPRISES LIMITED",
+    "town_city": "Bournemouth",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -25501,6 +25515,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Aerotech Limited",
+    "town_city": "Reading",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aerotech Solutions Ltd",
     "town_city": "Sittingbourne",
     "county": "Kent",
@@ -31269,6 +31290,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AIRGUARD ENVIROCARE LIMITED",
+    "town_city": "Wolverhampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Airhive Ltd",
     "town_city": "London",
     "county": "",
@@ -31449,6 +31477,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "AIRSTARS CONSULTING LIMITED",
+    "town_city": "Ilford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "AIRSYS COMMUNICATIONS TECHNOLOGY LIMITED",
@@ -35763,7 +35798,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Albany Associates Ltd",
+    "organisation_name": "Albany Associates International Ltd",
     "town_city": "London",
     "county": "London",
     "type_rating": "Worker (A rating)",
@@ -47309,6 +47344,13 @@
     "organisation_name": "American pizza slice Ltd",
     "town_city": "Liverpool",
     "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AMERICAN SUPPLIES LTD",
+    "town_city": "Hayes, Middlesex",
+    "county": "Middlesex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69954,48 +69996,6 @@
     "organisation_name": "ASKERN STORES LTD",
     "town_city": "Askern, Doncaster",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Askerton Castle Organic Estate",
-    "town_city": "Brampton",
-    "county": "Cumbria",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Askham Village Community Limited",
-    "town_city": "Nr March",
-    "county": "Cambridgeshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKIB INTERNATIONAL LIMITED",
-    "town_city": "Swindon",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKIT GEEKS LTD",
-    "town_city": "Leeds",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKK Technologies Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKN LTD",
-    "town_city": "Birmingham",
-    "county": "United Kingdom",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

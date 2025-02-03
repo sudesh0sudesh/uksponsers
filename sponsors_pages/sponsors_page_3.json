@@ -1,5 +1,103 @@
 [
   {
+    "organisation_name": "Cambridge Cleantech",
+    "town_city": "Cambridge",
+    "county": "CAMBRIDGESHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Clinical Laboratories Limited",
+    "town_city": "Cambridge",
+    "county": "CAMBRIDGESHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Cognition Ltd",
+    "town_city": "Cambridge",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAMBRIDGE COLLEGE OF MANAGEMENT AND SCIENCES LTD",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Commodities Ltd",
+    "town_city": "Ely",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Conservatory Centre",
+    "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Consultants Limited",
+    "town_city": "Cambridge",
+    "county": "Cambs",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Consultants Limited",
+    "town_city": "Cambridge",
+    "county": "Cambs",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "CAMBRIDGE CONSULTATION SERVICES LTD",
+    "town_city": "Greenford",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAMBRIDGE COUNTRY CLUB OPERATIONS LIMITED",
+    "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Crystallographic Data Centre",
+    "town_city": "Cambridge",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Culture Exchange Ltd",
+    "town_city": "london",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cambridge Cyrenians",
+    "town_city": "CAMBRIDGE",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
+    "organisation_name": "Cambridge Dental Hub Ltd",
+    "town_city": "Cambridge",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Cambridge Design Partnership Ltd",
     "town_city": "Cambridge",
     "county": "Cambridgeshire",
@@ -8928,6 +9026,13 @@
     "organisation_name": "Cartopia Ltd",
     "town_city": "Mill Hill",
     "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cartor Security Printers Ltd",
+    "town_city": "WOLVERHAMPTON",
+    "county": "County",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -19628,6 +19733,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Chatresh Consultants Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Chatsworth Bidco Limited",
     "town_city": "Chipping Norton",
     "county": "Oxon",
@@ -29016,13 +29128,6 @@
   },
   {
     "organisation_name": "City Books Accountants Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "City Bricks Ltd",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -47152,6 +47257,13 @@
     "route": "International Sportsperson"
   },
   {
+    "organisation_name": "Copenhagen Infrastructure Service Company Ltd",
+    "town_city": "Rotherham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Copenhagen Offshore Partners A/S, UK Branch",
     "town_city": "Edinburgh",
     "county": "",
@@ -50745,6 +50857,13 @@
   {
     "organisation_name": "County Private Client Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "County Road Dental Practice",
+    "town_city": "Liverpool",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -61047,6 +61166,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CYBERDOG UK LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Cybereason Limited",
     "town_city": "London",
     "county": "Greater London",
@@ -69869,132 +69995,6 @@
   {
     "organisation_name": "DEALAMILLION LIMITED",
     "town_city": "Shipley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dealberry Limited",
-    "town_city": "Manchester",
-    "county": "Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DEALCARPETS LTD",
-    "town_city": "London",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DEALDIO LTD",
-    "town_city": "Ruislip",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dealflow.EU Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dealglobe Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dealicious Mealz (UK) LTD",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Deallus Consulting Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Deallus Consulting Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Dealogic",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dealogic",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Deals Bazaar Ltd",
-    "town_city": "Salisbury",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Deals Incorporated LTD",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dealscribe Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dealstack Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DEAN COOPERS LLP",
-    "town_city": "ILFORD",
-    "county": "ESSEX",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dean Ivory Racing Ltd",
-    "town_city": "Radlett",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dean Manson LLP",
-    "town_city": "London",
-    "county": "Tooting",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dean Sullivan Limited",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
