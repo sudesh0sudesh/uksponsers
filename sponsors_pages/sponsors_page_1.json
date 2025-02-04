@@ -3199,13 +3199,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "3H Partners Limited T/A 3HORIZONS",
-    "town_city": "London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "3I CONSTRUCTIONS LTD",
     "town_city": "LONDON",
     "county": "",
@@ -10395,13 +10388,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AAA CLEANING SUPPLY LIMITED",
-    "town_city": "Croydon",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AAA Dentalab Ltd",
     "town_city": "London",
     "county": "",
@@ -10888,6 +10874,13 @@
     "organisation_name": "AAJO Real Estate UK Ltd",
     "town_city": "Chessington",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AAK FUSION LTD T/A NISA LOCAL",
+    "town_city": "Gravesend",
+    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -36183,6 +36176,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Albion Saddlemakers Company Limited",
+    "town_city": "Walsall",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
     "organisation_name": "Albiz Packaging Ltd",
     "town_city": "London",
     "county": "London",
@@ -56735,6 +56735,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Apollo Strategic Communications Limited",
+    "town_city": "Helsby",
+    "county": "Cheshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Apollo Tyres (UK) PVT Ltd",
     "town_city": "LONDON",
     "county": "",
@@ -69988,13 +69995,6 @@
   {
     "organisation_name": "AskBio UK Ltd",
     "town_city": "Midlothian",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKERN STORES LTD",
-    "town_city": "Askern, Doncaster",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
