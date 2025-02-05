@@ -1344,6 +1344,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "1ST NATIONAL SECURITY LTD",
+    "town_city": "Waltham Abbey",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "1ST PERFORMANCE &amp; EXHAUSTS LIMITED",
     "town_city": "Norfolk",
     "county": "",
@@ -5789,6 +5796,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A &amp; G Young",
+    "town_city": "Errol",
+    "county": "Perth",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A &amp; H Convenience Store",
     "town_city": "Rotherham",
     "county": "",
@@ -6828,6 +6842,13 @@
     "organisation_name": "A KOMMS LTD",
     "town_city": "Birmingham",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A L A CARE LTD",
+    "town_city": "Leicester",
+    "county": "Leicestershire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -35399,6 +35420,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Alankrita Ltd",
+    "town_city": "Basildon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alan&#x27;s Professional Dry Cleaner",
     "town_city": "Rochford",
     "county": "Essex",
@@ -59150,6 +59178,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AR WORLD LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AR1 HOMECARE LIMITED",
     "town_city": "Burslem",
     "county": "STAFFORDSHIRE",
@@ -69963,40 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Askable Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKAM CIVIL ENGINEERING LTD",
-    "town_city": "Lancaster",
-    "county": "Lancs",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Askari &amp; Co Limited",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Askaris Ltd",
-    "town_city": "Stockton-on-Tees",
-    "county": "Co Durham",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "AskBio UK Ltd",
-    "town_city": "Midlothian",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]

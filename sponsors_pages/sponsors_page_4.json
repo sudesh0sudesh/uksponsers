@@ -1,5 +1,103 @@
 [
   {
+    "organisation_name": "De Quilox Lounge Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Regency Style Hotel",
+    "town_city": "Redditch",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DE RISC LIMITED",
+    "town_city": "Sunderland",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Romein Nearshore Ltd",
+    "town_city": "Lisburn",
+    "county": "Co. Antrim",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Rosee Sa Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Rosee Sa Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "De Rossi Consulting Ltd",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Soutter Medical Limited",
+    "town_city": "Bucks",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DE SPLENDOURS FOODS LTD",
+    "town_city": "CARDIFF",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DE VENEZIA LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Vere Care Partnership LTD",
+    "town_city": "London",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Via Mar Limited T/A ABD",
+    "town_city": "Hayes",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Villiers Walton Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DE&amp;NEZAJ CONSTRUCTIONS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "DEAD DOLLS MUSEUM LTD",
     "town_city": "London",
     "county": "",
@@ -1157,6 +1255,13 @@
   {
     "organisation_name": "Deepdene Care Limited",
     "town_city": "West MIdalnds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deeper Insights AI Ltd",
+    "town_city": "Canterbury",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -20972,6 +21077,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DRIVE SMART MOTORS LIMITED",
+    "town_city": "Swanley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Drive System Design Ltd",
     "town_city": "Leamington Spa",
     "county": "",
@@ -24265,13 +24377,6 @@
     "organisation_name": "DUSTANA LTD",
     "town_city": "CARDIFF",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dusters Cleaners UK Limited",
-    "town_city": "Manchester",
-    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -35826,6 +35931,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "EJ&#x27;s Cars Limited",
+    "town_city": "Stoke-On-Trent",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "EJ&#x27;S PHARMACEUTICALS LTD T/A EJ&#x27;S PHARMACY",
     "town_city": "DERBY",
     "county": "DERBYSHIRE",
@@ -38227,6 +38339,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Elgin Energy Holdings",
+    "town_city": "Surrey",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Elgin Energy Holdings",
+    "town_city": "Surrey",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Elgin Household &amp; Gifts Limited",
     "town_city": "Elgin",
     "county": "Morayshire",
@@ -40425,6 +40551,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Elta Automotive Ltd",
+    "town_city": "Coleshill",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Elta Fans Limited",
     "town_city": "Kingswinford",
     "county": "West Midlands",
@@ -41056,6 +41189,20 @@
   },
   {
     "organisation_name": "Embassy of Finland",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "International Agreement"
+  },
+  {
+    "organisation_name": "Embassy of Hungary",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Embassy of Hungary",
     "town_city": "London",
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
@@ -43622,13 +43769,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Encounter Arena",
-    "town_city": "Chafford Hundred, Grays, Essex",
-    "county": "Essex",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Charity Worker"
   },
   {
     "organisation_name": "Encourage 2B Empowered",
@@ -46481,14 +46621,14 @@
   },
   {
     "organisation_name": "Enterprise System Solutions Limited",
-    "town_city": "Edgware",
+    "town_city": "Harrow",
     "county": "Middlesex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Enterprise System Solutions Limited",
-    "town_city": "Edgware",
+    "town_city": "Harrow",
     "county": "Middlesex",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -47782,6 +47922,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "EPIC FOOS LIMITED",
+    "town_city": "LUTON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Epic Games Animation UK Limited",
     "town_city": "Manchester",
     "county": "",
@@ -47913,6 +48060,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "EPICUREAN HORIZONS LTD T/A The Dhabba",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "EPIGEM LIMITED",
@@ -49822,6 +49976,13 @@
     "organisation_name": "ESAB Group UK Ltd",
     "town_city": "Upshire",
     "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Esak Food Ltd",
+    "town_city": "Rochdale",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -59185,6 +59346,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "EXPLOR LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Explora Haven Training and Support Services Limited",
     "town_city": "London",
     "county": "",
@@ -59197,20 +59365,6 @@
     "county": "Inverurie",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Explore AI Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Explore AI Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Explore Global Limited",
@@ -69840,160 +69994,6 @@
   },
   {
     "organisation_name": "FIHL (UK) Services",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fiit Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fiit Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Fiit Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Fika Community Limited",
-    "town_city": "Milton Keynes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fike Safety Technology Ltd.",
-    "town_city": "Gwent",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FIL Investment Management Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FIL Investment Management Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "FIL TRADING LTD T/As BIKENEARME",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Filament Consultancy Group Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FILAMENT PD LIMITED",
-    "town_city": "GLASGOW",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Filament Publishing",
-    "town_city": "Croydon",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FILCARE LTD",
-    "town_city": "Braintree",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "File Range Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fileturn Limited",
-    "town_city": "Redhill",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Filey Care And Support Ltd",
-    "town_city": "Enfield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Filey Veterinary Practice Limited",
-    "town_city": "Filey",
-    "county": "North Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Filhet-Allard Maritime UK Limited",
-    "town_city": "london",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FILIKA LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FILIPETTI LTD T/A Filipetti",
-    "town_city": "Hamilton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Filipino Care Givers",
-    "town_city": "Twickenham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Filishack Partners Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Filisia Interfaces Ltd",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
