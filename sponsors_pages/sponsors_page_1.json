@@ -24136,6 +24136,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ADVANCED TECHNOLOGY FOR INFORMATION SYSTEMS SOLUTIONS UK LIMITED (15373821)",
+    "town_city": "ENGLAND",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
     "organisation_name": "Advanced Technology Services UK Limited",
     "town_city": "London",
     "county": "",
@@ -27811,6 +27818,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Agent Paid Limited",
+    "town_city": "Cheshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Agent Software Limited",
     "town_city": "Manchester",
     "county": "",
@@ -27984,6 +27998,13 @@
     "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Aggtech UK Ltd",
+    "town_city": "Liverpool",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "AGH Heating &amp; Building Ltd",
@@ -35000,6 +35021,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AL WAFI ELECTROMECHANICAL WORKS (UK) LTD",
+    "town_city": "Essex",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Al Wahab Foundation",
     "town_city": "Middlesex",
     "county": "",
@@ -38977,14 +39005,14 @@
   },
   {
     "organisation_name": "Alison Education UK Ltd.",
-    "town_city": "London",
+    "town_city": "Houslow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "Alison Education UK Ltd.",
-    "town_city": "London",
+    "town_city": "Houslow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -42010,6 +42038,13 @@
     "organisation_name": "Almero Holdings UK Ltd",
     "town_city": "Lincolnshire",
     "county": "Lincolnshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Almi Service Limited",
+    "town_city": "Tonypandy",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -55412,6 +55447,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AP Capital International Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AP Dairies Limited",
     "town_city": "Luton",
     "county": "",
@@ -61005,6 +61047,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Arctiq Services LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Arctis Management UK Limited",
     "town_city": "London",
     "county": "",
@@ -61231,6 +61280,13 @@
   {
     "organisation_name": "Ardent Oil Resources Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Ardent Residential Care Home",
+    "town_city": "Plymouth",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69942,61 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ask Products Ltd",
-    "town_city": "St. Albans",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASK Properties Bristol Ltd",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASK PROPERTIES GLASGOW LTD",
-    "town_city": "Scotland",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASK Solutions London Limited",
-    "town_city": "Brentford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASK4",
-    "town_city": "Sheffield",
-    "county": "South Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ask4Support Limited",
-    "town_city": "Wallingford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASKA Pharmaceutical Co., Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Askable Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
