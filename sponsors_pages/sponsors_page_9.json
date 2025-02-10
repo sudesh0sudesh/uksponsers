@@ -1,5 +1,418 @@
 [
   {
+    "organisation_name": "Nuttall Bowser Engineering Ltd",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nutten Stoven Residential Home",
+    "town_city": "Spalding",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nutyre UK LTD",
+    "town_city": "HATFIELD",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nuur Ltd",
+    "town_city": "St Helens",
+    "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NUVAMA FINANCIAL SERVICES (UK) LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NUVAMA FINANCIAL SERVICES (UK) LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "NuVasive UK Limited",
+    "town_city": "Elstree",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nuveen Administration Limited",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nuveen Administration Limited",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "NUVEI (UK) LIMITED",
+    "town_city": " London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nuvia Ltd",
+    "town_city": "Warrington",
+    "county": "Cheshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nuvia Ltd",
+    "town_city": "Warrington",
+    "county": "Cheshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "NuVision Biotherapies Ltd",
+    "town_city": "Nottingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nuvivo Healthcare Ltd",
+    "town_city": "Swansea",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nuvo Trading Solutions Ltd",
+    "town_city": "Oldbury",
+    "county": "Birmingham",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nuvven Ltd",
+    "town_city": "Edinburgh",
+    "county": "Midlothian",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NUXE UK LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NV Cargo Limited",
+    "town_city": "New Malden",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NV GROUP LTD",
+    "town_city": "LEICESTERSHIRE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NV Integration Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NV Professional Staff Services",
+    "town_city": "Boston",
+    "county": "Lincolnshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVA HOSPITALITY LIMITED t/a The Old Golf House Hotel",
+    "town_city": "West Midlands",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVA Trading Limited",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nvayo Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVD UK Ltd",
+    "town_city": "Swindon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVD UK Ltd",
+    "town_city": "Swindon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "NVGAS Roadside Retail Ltd",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVH Global Limited",
+    "town_city": "Redhill",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVIDIA Ltd",
+    "town_city": "Reading",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVIDIA Ltd",
+    "town_city": "Reading",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "NVISION CONSULTANTS LIMITED",
+    "town_city": "Enderby",
+    "county": "Leicester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVP Trading Limited",
+    "town_city": "RUBERY",
+    "county": "BIRMINGHAM",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NVSE Limited",
+    "town_city": "Ealing",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NW Convenience Super Store Ltd",
+    "town_city": "Crewe",
+    "county": "Cheshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NW OPS 351 LTD T/A PRIME",
+    "town_city": "INVERNESS",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NW Publishing UK LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NW SUPERMARKET LTD T/A NW SUPERMARKET",
+    "town_city": "Watford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nwando Domicilary Care",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nwave Technologies Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NWD Wealth Management",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NWEDA LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NWG GROUP LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NWH",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NWI MANAGEMENT UK LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NWL Builders Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NWO Freehold Limited",
+    "town_city": "Lichfield",
+    "county": "Staffordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NWP PLUMBING LIMITED",
+    "town_city": "Burnley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nxera Pharma UK Limited",
+    "town_city": "Cambridge",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NXP Laboratories UK Limited",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NXP Laboratories UK Limited",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "NXT Infotech Limited",
+    "town_city": "Dartford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NY HEALTH SOLUTIONS LTD",
+    "town_city": "Bradford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NYA International (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NYADOWA SERVICE LIMITED",
+    "town_city": "South Mimms",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NYALAPOGULA CONSULTANCY SERVICES LIMITED",
+    "town_city": "DERBY",
+    "county": "DERBYSHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "NYALKARAN LIMITED",
+    "town_city": "HARROW",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nyama Catering Ltd",
+    "town_city": "Wallingford",
+    "county": "Oxfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nyas Technology Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Nyas Technology Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
     "organisation_name": "Nybble.co.uk Limited",
     "town_city": "Lancashire",
     "county": "",
@@ -379,6 +792,13 @@
   },
   {
     "organisation_name": "O&amp;S Nurseries Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "O. P. L. Limited",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -1220,6 +1640,13 @@
   {
     "organisation_name": "Oaklon Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "OAKLY LTD",
+    "town_city": "Swansea",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -3705,6 +4132,13 @@
   {
     "organisation_name": "OE TECHNOLOGY LTD",
     "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "OEA Global Ltd",
+    "town_city": "St Albans",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -11389,7 +11823,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Optimal Living (Kent) Ltd.",
+    "organisation_name": "Optimal Living (Kent) Ltd",
     "town_city": "Sittingbourne",
     "county": "Kent",
     "type_rating": "Worker (A rating)",
@@ -11770,6 +12204,13 @@
     "organisation_name": "Options Group Services UK Limited",
     "town_city": "MILTON KEYNES",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Options Management Ltd",
+    "town_city": "Newcastle -under- Lyme",
+    "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -13517,6 +13958,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Oriel Healthcare Group Management Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Oriel Healthcare Limited",
     "town_city": "Stourbridge,",
     "county": "",
@@ -13723,6 +14171,13 @@
     "organisation_name": "Origin Coffee",
     "town_city": "Porthleven",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Origin Design Studio Ltd",
+    "town_city": "Lincoln",
+    "county": "Lincolnshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -18718,6 +19173,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ozone Coffee Roasters UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ozone Financial Technology Limited",
     "town_city": "London",
     "county": "",
@@ -19070,6 +19532,13 @@
   {
     "organisation_name": "P B Residential Care Limited",
     "town_city": "Grimsby",
+    "county": "Lincolnshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "P C Coaches of Lincoln Ltd",
+    "town_city": "LINCOLN",
     "county": "Lincolnshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -41041,6 +41510,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Piyush Jayantibhai Patel t/as Sai News",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Pizarro Restaurant Ltd",
     "town_city": "London",
     "county": "",
@@ -44385,13 +44861,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "PMB Capital Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Government Authorised Exchange"
   },
   {
     "organisation_name": "PMC Construction and Development Services Ltd",
@@ -54789,6 +55258,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "PRINT LOGIC REPROGRAPHICS LTD",
+    "town_city": "Birkenhead",
+    "county": "Prenton",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Print Plus UK",
     "town_city": "Bradford",
     "county": "",
@@ -55618,6 +56094,13 @@
     "organisation_name": "Priya Stores Limited",
     "town_city": "Brecon",
     "county": "Powys",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Priyabharani and co limited",
+    "town_city": "Dewsbury",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -59657,6 +60140,13 @@
     "organisation_name": "Provenir (UK Ltd.)",
     "town_city": "Birmingham",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PROVENTEQ LIMITED",
+    "town_city": "Reading",
+    "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69505,496 +69995,6 @@
   {
     "organisation_name": "R RATHORE CONSTRUCTION LTD",
     "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S &amp; K STORES LTD",
-    "town_city": "Gloucester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S (Dinas) Ltd T/As Queen&#x27;s Fish Bar",
-    "town_city": "Wales,",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S Bains T/A Bains Pharmacy",
-    "town_city": "Gravesend",
-    "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S Builders Leicester Ltd",
-    "town_city": "Leicester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "r s builders london ltd",
-    "town_city": "hayes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S CAFE WEDNESBURY LTD",
-    "town_city": "Wednesbury",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S Care Homes Ltd",
-    "town_city": "Surrey",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S ClimateControl Ltd",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S FORKLIFTS TRAINING LIMITED",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S K TYRE LIMITED",
-    "town_city": "Ilford",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S KHINDA CONSTRUCTIONS LTD",
-    "town_city": "Hayes",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S Machinery Group",
-    "town_city": "Aberdeen",
-    "county": "Scotland",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S R LTD",
-    "town_city": "CARDIFF",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S Skips Limited",
-    "town_city": "Shorne",
-    "county": "Gravesend",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R S Store",
-    "town_city": "Brimingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Scott Bathrooms Limited",
-    "town_city": "Edinburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R SEMBHI CONSTRUCTION LTD",
-    "town_city": "Windsor",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Sidhu Foods Limited",
-    "town_city": "Derby",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R SMITHYS CHIPPY LTD",
-    "town_city": "Hull",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Sons (Homes) Limited",
-    "town_city": "Kettering",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Spice Wakefield Ltd T/A Royal Spice",
-    "town_city": "Bradford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Squared Investments Ltd",
-    "town_city": "Grantown on Spey",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R STAHL Limited",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R SYSTEMS COMPUTARIS INTERNATIONAL LIMITED",
-    "town_city": "Waterlooville",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R SYSTEMS COMPUTARIS INTERNATIONAL LIMITED",
-    "town_city": "Waterlooville",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "R T Marke &amp; Co Ltd",
-    "town_city": "Bideford",
-    "county": "Devon",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R T TESTING CENTRE LIMITED",
-    "town_city": "Stoke- On-Trent",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R T Trading Ltd T/A Ludham Convenience Store",
-    "town_city": "Ludham",
-    "county": "Great Yarmouth",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R TANDOORI LIMITED T/A READING TANDOORI",
-    "town_city": "Reading",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Techsol Limited",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R TINCKNELL &amp; SON LTD",
-    "town_city": "WELLS",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Twining &amp; Co Ltd",
-    "town_city": "Andover",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Twining &amp; Co Ltd",
-    "town_city": "Andover",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "R Twining &amp; Co Ltd",
-    "town_city": "Andover",
-    "county": "Hampshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
-  },
-  {
-    "organisation_name": "R V Food &amp; Wines Limited",
-    "town_city": "Luton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R V NEWS &amp; WINE LIMITED t/a JAMIEE NEWS FOOD AND WINE",
-    "town_city": "KENT",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R V NEWS (LUTON) LIMITED",
-    "town_city": "Luton",
-    "county": "Bedfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R W Bellamy &amp; Son",
-    "town_city": "Ross-on-wye",
-    "county": "Herefordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R W Bellamy &amp; Son",
-    "town_city": "Ross-on-Wye",
-    "county": "Herefordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R W HOUSING LTD",
-    "town_city": "Romford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R Walters &amp; Co",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;A (REELS &amp; ARCHITECTURE) STUDIOS LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;A LEE HOLDINGS LTD",
-    "town_city": "EC1N 8LE",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;A Software ( Systems ) Ltd",
-    "town_city": "Chesterfield",
-    "county": "Derbyshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;B EASTON LTD",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;B Trading Oldham Ltd",
-    "town_city": "Oldham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;C Accessories Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;C HAIR &amp; BEAUTY LTD",
-    "town_city": "Ealing",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;D CONVENIENCE STORE (NE) LTD",
-    "town_city": "Durham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;D Physio Ltd",
-    "town_city": "Oakwood",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;D Stores Limited",
-    "town_city": "Harrow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;D Yorkshire Limited TA Domino&#x27;s Pizza",
-    "town_city": "West Malling",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;E Kitchen Care Limited",
-    "town_city": "Southampton",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;F Care Ltd",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;F One Hotel (UK) Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;F Partners Ltd T/A Elland Road Express - Go Local",
-    "town_city": "Leeds",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;F PLUMBING SOLUTIONS LTD",
-    "town_city": "PRESTON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;F Properties QS (UK) Co Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;F Properties QS (UK) Co Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "R&amp;G FLUID POWER GROUP (HYDRAULICS DIVISION) LIMITED",
-    "town_city": "Lincoln",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;M Business Ltd",
-    "town_city": "Nottingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;M Electrical Group Ltd",
-    "town_city": "Eastleigh",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;M FURNISHERS LTD",
-    "town_city": "Dewsbury",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;M TECH LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;P CONVENIENCE STORE LTD",
-    "town_city": "Port Talbot",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;R (GREENFORD) LTD",
-    "town_city": "GREENFORD",
-    "county": "MIDDLESEX",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;R Commercial (UK) Limited",
-    "town_city": "Winscombe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;R Global Ltd",
-    "town_city": "Crewkerne",
-    "county": "Somerset",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;R Global Pvt Limited",
-    "town_city": "Oakham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "R&amp;S Convenience Store Ltd T/A The Local",
-    "town_city": "Walton-On-Thames",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
