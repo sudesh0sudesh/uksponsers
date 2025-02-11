@@ -8421,6 +8421,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A. C. Goatham &amp; Sons",
+    "town_city": "Rochester",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A. Dakri and Co Limited trading as Greenleafe Hotel",
     "town_city": "London",
     "county": "",
@@ -12238,6 +12245,13 @@
   {
     "organisation_name": "AB12 FAST FOOD LTD",
     "town_city": "ABERDEEN",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AB3RECRUITMENT LTD",
+    "town_city": "Luton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -32802,6 +32816,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AK IMMIGRATION SERVICES LTD",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AK Infrasoft LTD",
     "town_city": "Slough",
     "county": "",
@@ -40267,6 +40288,13 @@
     "organisation_name": "ALLANASONS PRIVATE LIMITED",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALLANDALE CARE GROUP LIMITED",
+    "town_city": "Heswall, Wirral",
+    "county": "Merseyside",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -53165,6 +53193,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Anita Larkin T/A White Hill House",
+    "town_city": "Chesham",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ANIVA FOODS LIMITED",
     "town_city": "Middlesex",
     "county": "Wembley",
@@ -58347,6 +58382,13 @@
   {
     "organisation_name": "APT Accountants LLP",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "APT Business Private Limited",
+    "town_city": "South Shields",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -65051,6 +65093,13 @@
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
+    "organisation_name": "ART HOUSE LONDON STUDIO LTD",
+    "town_city": "Thornton Heath",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ART INVESTMENT AND TECH LTD",
     "town_city": "LONDON",
     "county": "",
@@ -69946,55 +69995,6 @@
   {
     "organisation_name": "Asif Allauddin",
     "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asif Foods Limited T/A Albi Restaurant",
-    "town_city": "Wales",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asif Hameed T/A Local General Stores",
-    "town_city": "Swinton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asif Khan Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIF RICE MILLS LTD",
-    "town_city": "Slough",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asifa Spice Limited",
-    "town_city": "Ashington",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIL PARTNERS LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asilia Africa UK Limited",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
