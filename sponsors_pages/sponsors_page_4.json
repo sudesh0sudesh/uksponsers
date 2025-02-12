@@ -1,5 +1,61 @@
 [
   {
+    "organisation_name": "DC Thomson &amp; Co Ltd",
+    "town_city": "Dundee",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DC Voltage Gradient Technology and Supply Ltd",
+    "town_city": "Hindley Green",
+    "county": "Wigan",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DCA Design International",
+    "town_city": "Warwick",
+    "county": "Warwickshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DCAN Construction Ltd.",
+    "town_city": "Southall",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DCapital Ltd",
+    "town_city": "Reading",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DCAS Direct Personnel Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DCC Holdings (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "DCC Holdings (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Global Business Mobility: Graduate Trainee"
+  },
+  {
     "organisation_name": "DCG LOGISTICS UK LTD",
     "town_city": "Chelmsford",
     "county": "",
@@ -381,6 +437,13 @@
     "organisation_name": "DE CONNEXIONS LTD t/a Care Connex",
     "town_city": "Nottingham",
     "county": "Nottinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "De Craft Ltd",
+    "town_city": "Newcastle-under-Lyme",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -31962,6 +32025,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "EcoGlow Heating &amp; Plumbing LTD",
+    "town_city": "Teddington",
+    "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ECOGREEN ENGINEERS LTD",
     "town_city": "London",
     "county": "",
@@ -34050,6 +34120,13 @@
   {
     "organisation_name": "EDMONTON COFFEE LTD",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Edmonton Community Partnership",
+    "town_city": "ST ALBANS",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -36715,7 +36792,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Ekco London Limited",
+    "organisation_name": "EKCO CLOUD (UK) LIMITED",
     "town_city": "London",
     "county": "London",
     "type_rating": "Worker (A rating)",
@@ -60452,6 +60529,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "EXPRESSO DELIVERY LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Expresspace Limited Trading as Sidney Hotel",
     "town_city": "London",
     "county": "",
@@ -63033,6 +63117,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Fairbanks Traditional Fish &amp; Chips Ltd",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Fairbrother Pharmacy Limited",
@@ -69905,97 +69996,6 @@
     "organisation_name": "FiberLean Technologies Limited",
     "town_city": "Par",
     "county": "Cornwall",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibre Assets Ltd, T/A Connect Fibre",
-    "town_city": "London",
-    "county": "Europe",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibre Gas &amp; Building Work Ltd",
-    "town_city": "Rochdale",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibre Marketing Limited",
-    "town_city": "Cheltenham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibre Me Limited",
-    "town_city": "Peterborough",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibre Network Design Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibre Partner Limited",
-    "town_city": "Cannock",
-    "county": "Staffordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibre Technology Limited",
-    "town_city": "Pinxton, Nottingham.",
-    "county": "Nottingham",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
-  },
-  {
-    "organisation_name": "Fibrelite Composites Ltd",
-    "town_city": "Skipton",
-    "county": "North Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibre-Tech Industries (UK) Limited",
-    "town_city": "Melbourn",
-    "county": "Royston",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibretrace Technologies Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Fibretrace Technologies Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fibrisol Service Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Fibrisol Service Limited",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

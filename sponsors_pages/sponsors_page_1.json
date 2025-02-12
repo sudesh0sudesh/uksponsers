@@ -19530,20 +19530,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Acteon Group Limited",
-    "town_city": "Norwich",
-    "county": "Norfolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Acteon Group Limited",
-    "town_city": "Norwich",
-    "county": "Norfolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
     "organisation_name": "Acteon Group Operations (UK) Limited",
     "town_city": "Norwich",
     "county": "Norfolk",
@@ -34755,6 +34741,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AL MAYEDA FOODS LTD",
+    "town_city": "Peterborough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Al Mecca Halal Meats",
     "town_city": "Blackburn",
     "county": "",
@@ -34786,6 +34779,13 @@
     "organisation_name": "Al Meezan Enterprise Limited t/a Subway",
     "town_city": "Luton",
     "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AL MIR GENERAL TRADING UK LTD",
+    "town_city": "Harrow",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -35983,7 +35983,7 @@
     "organisation_name": "Albany Care Group",
     "town_city": "Fareham",
     "county": "Hampshire",
-    "type_rating": "Worker (B rating)",
+    "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
@@ -39212,6 +39212,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
+    "organisation_name": "Alively World Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Alixa Trading Ltd",
@@ -43762,6 +43769,13 @@
     "county": "Cheshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALSAHIL FOODSTUFF LIMITED 15158459",
+    "town_city": "ENGLAND",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "ALSAYYEDA JEWELLERY UK LTD",
@@ -60480,13 +60494,6 @@
     "route": "Creative Worker"
   },
   {
-    "organisation_name": "ARCH EMERGING MARKETS PARTNERS LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ARCH Emerging Markets Partners Limited",
     "town_city": "London",
     "county": "",
@@ -69987,13 +69994,6 @@
   },
   {
     "organisation_name": "Asif Adeel Limited",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asif Allauddin",
     "town_city": "Glasgow",
     "county": "",
     "type_rating": "Worker (A rating)",

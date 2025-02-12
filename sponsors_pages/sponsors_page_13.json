@@ -1,5 +1,320 @@
 [
   {
+    "organisation_name": "VATAX (G.B) LTD",
+    "town_city": "Oldham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VATAX ACCOUNTANTS LTD",
+    "town_city": "BLACKBURN",
+    "county": "LANCASHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vatech Dental Manufacturing Ltd",
+    "town_city": "Sutton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vaticle Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VATIT STREAM UK LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VATit UK Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vatix Limited",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vatorama Ltd",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vattenfall Wind Power Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vattenfall Wind Power Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Vattenfall Wind Power Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Global Business Mobility: Graduate Trainee"
+  },
+  {
+    "organisation_name": "Vauban Technologies Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Vauban Technologies Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vaughan Ergonomics Limited",
+    "town_city": "Halifax",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vault Platform Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vault Platform Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Vaultech Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VAULTINUM UK",
+    "town_city": "Hampton",
+    "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vaultoro Limited",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VAUX SPARES LTD",
+    "town_city": "Odsey",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vauxhall Finance Plc",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vauxhall Finance Plc",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "VAUXHALL FOOD AND WINE LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vauxhall Motors Limited",
+    "town_city": "Coventry",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vauxhall Motors Limited",
+    "town_city": "Coventry",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Vauxhall Motors Limited",
+    "town_city": "Coventry",
+    "county": "West Midlands",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Global Business Mobility: Service Supplier"
+  },
+  {
+    "organisation_name": "Vauxhall Street Pharmacy",
+    "town_city": "Norwich",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vauxian Care Limited",
+    "town_city": "New Milton",
+    "county": "Hampshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vava Cars Systems UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vaviri UK Ltd",
+    "town_city": "Dunfermline",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VaxEquity Ltd",
+    "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vaxshan Limited TA Victoria Food and Wine",
+    "town_city": "Southampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VAYNERMEDIA LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VAYNERMEDIA LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "VAYU AVIATION SERVICES LTD",
+    "town_city": "SLOUGH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vayusun Global Ltd",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VB Brothers Ltd T/A Tessall Express",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VB OF WROXHAM LIMITED",
+    "town_city": "Norwich",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VB SALES LTD",
+    "town_city": "KIBWORTH BEAUCHAMP",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VB VINYHO TRADES LTD",
+    "town_city": "Trowbridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VB Wholesale (UK) Ltd",
+    "town_city": "Greenford",
+    "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VBA RETAIL LTD",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VBH Limited",
+    "town_city": "Droitwich",
+    "county": "Worcestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VBL Hospitality Limited",
+    "town_city": "Holybourne",
+    "county": "Hampshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VBN EXPRESS LTD",
+    "town_city": "Barnsley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "VBS LOGISTICS LTD",
     "town_city": "AYLESBURY",
     "county": "BUCKINGHAMSHIRE",
@@ -576,6 +891,13 @@
   {
     "organisation_name": "Vedha International Limited",
     "town_city": "Brentwood, Essex",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Vedspiration Ltd T/A Moorside Stores",
+    "town_city": "Huddersfield",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -35717,6 +36039,13 @@
     "organisation_name": "Wraps and Wings Limited",
     "town_city": "Wanstead",
     "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Wraptor Ltd",
+    "town_city": "Alcester",
+    "county": "Warwickshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
