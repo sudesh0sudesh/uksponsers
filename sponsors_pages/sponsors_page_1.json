@@ -1512,6 +1512,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "2 Love Coffee Shop LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "2 MATES KEBAB LTD",
     "town_city": "Bagshot",
     "county": "",
@@ -5687,6 +5694,13 @@
     "organisation_name": "A &amp; CO ACCOUNTANTS (NMN) LTD",
     "town_city": "Manchester",
     "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A &amp; D BUILDING (SURREY) LIMITED",
+    "town_city": "CROYDON",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -14507,6 +14521,13 @@
     "organisation_name": "Abilities Development Ltd",
     "town_city": "London",
     "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Abilities Enabled Ltd",
+    "town_city": "Stafford",
+    "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -29554,6 +29575,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ahmed Bros ( Oldham)",
+    "town_city": "Oldham",
+    "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AHMED BROS (HYDE) LTD",
     "town_city": "Hyde",
     "county": "Cheshire",
@@ -29682,6 +29710,13 @@
   {
     "organisation_name": "AHMN LTD",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AHN Partners Ltd",
+    "town_city": "Harrow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -44471,6 +44506,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Altodata Ltd",
+    "town_city": "Sevenoaks",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Altogether Care LLP",
     "town_city": "Weymouth",
     "county": "Dorset",
@@ -52949,7 +52991,7 @@
   },
   {
     "organisation_name": "ANH NAM ESTATE AGENT LTD",
-    "town_city": "Brighton",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69956,47 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Asiana Foods Limited",
-    "town_city": "Nottingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIANA FUSION (SUNDERLAND) LTD",
-    "town_city": "Sunderland",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIANSBURY LIMITED T/A WEMBLEY PHARMACY",
-    "town_city": "WEMBLEY",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIANTREASURE2021(UK) LTD T/A ASIAN BITES",
-    "town_city": "SHEFFIELD",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAORIENTAL STORE LIMITED",
-    "town_city": "Farnborough",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asiatic 2 Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]
