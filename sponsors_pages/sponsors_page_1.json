@@ -819,6 +819,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "14STARS UK LIMITED",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "1508 London Limited",
     "town_city": "London",
     "county": "",
@@ -14042,6 +14049,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Aberdeen Mosque and Islamic Centre",
+    "town_city": "Aberdeen",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
     "organisation_name": "Aberdeen Multicultural Centre SCIO",
     "town_city": "Aberdeen",
     "county": "",
@@ -20919,13 +20933,6 @@
     "organisation_name": "ADA Informatics Limited",
     "town_city": "Dagenham",
     "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ADA LONDON LTD",
-    "town_city": "ILFORD",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -38591,6 +38598,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALI TEXTILES GLOBAL LTD",
+    "town_city": "Southall",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
     "organisation_name": "ALI TRANSPORT SERVICES LIMITED",
     "town_city": "Mitcham",
     "county": "England",
@@ -50687,6 +50701,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Anchor &amp; Scepter Associates Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ANCHOR BOOKHAM LTD",
     "town_city": "LEATHERHEAD",
     "county": "",
@@ -59867,6 +59888,13 @@
     "organisation_name": "ARANDEEP SINGH T/A PRUDHOE DENTAL PRACTICE",
     "town_city": "PRUDHOE",
     "county": "NORTHUMBERLAND",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ARANJA LIMITED",
+    "town_city": "WEST BROMWICH",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69970,33 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN TRADE FAIR LIMITED",
-    "town_city": "Barking",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "ASIAN TRADERS LTD",
-    "town_city": "Hayes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asiana Airlines Inc.",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asiana Airlines Inc.",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
