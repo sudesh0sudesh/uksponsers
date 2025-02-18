@@ -23296,6 +23296,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Adraba B.O. UK Ltd",
+    "town_city": "Milton Keynes",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Adreamz Events Limited",
     "town_city": "Southall",
     "county": "",
@@ -31899,27 +31906,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Aisolve Limited",
-    "town_city": "Luton",
-    "county": "Bedfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aisolve Limited",
-    "town_city": "Luton",
-    "county": "Bedfordshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Aisolve Limited",
-    "town_city": "Luton",
-    "county": "Bedfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Scale-up"
-  },
-  {
     "organisation_name": "Aistetic Limited",
     "town_city": "Oxford",
     "county": "",
@@ -36501,6 +36487,13 @@
     "organisation_name": "Alcester HomeCare Agency",
     "town_city": "Alcester",
     "county": "Warwickshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALCHATTHA EXCELLENCY LIMITED",
+    "town_city": "Southend on Sea",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -45846,21 +45839,21 @@
     "organisation_name": "Amana Trust",
     "town_city": "Romford",
     "county": "Essex",
-    "type_rating": "Worker (A (SME+))",
+    "type_rating": "Worker (A rating)",
     "route": "Tier 2 Ministers of Religion"
   },
   {
     "organisation_name": "Amana Trust",
     "town_city": "Romford",
     "county": "Essex",
-    "type_rating": "Temporary Worker (A (SME+))",
+    "type_rating": "Temporary Worker (A rating)",
     "route": "Religious Worker"
   },
   {
     "organisation_name": "Amana Trust",
     "town_city": "Romford",
     "county": "Essex",
-    "type_rating": "Temporary Worker (A (SME+))",
+    "type_rating": "Temporary Worker (A rating)",
     "route": "Charity Worker"
   },
   {
@@ -64004,6 +63997,13 @@
     "organisation_name": "Armstrong Capital Management Limited",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Armstrong Gardens &amp; Landscapes Ltd",
+    "town_city": "Edinburgh",
+    "county": "Midlothian",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },

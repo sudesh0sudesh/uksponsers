@@ -12432,6 +12432,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Aychefs Consultancy Services Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ayda Deniz Ltd - T/A Nisa Local",
     "town_city": "Essex",
     "county": "",
@@ -33726,6 +33733,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Bev&#x27;s Salon Limited",
+    "town_city": "Redditch",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "BEWAL ROSE LTD T/A DARBAR (DESI CAFE) RESTAURANT",
     "town_city": "GLASGOW",
     "county": "",
@@ -43290,6 +43304,13 @@
   {
     "organisation_name": "Blue Copal",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "blue corn bakery ltd",
+    "town_city": "stockton on tees",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -68600,6 +68621,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CAFE LOUNGE KENT LTD",
+    "town_city": "Meopham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CAFE MACCHIATO (ALDERSHOT) LTD",
     "town_city": "ALDERSHOT",
     "county": "HAMPSHIRE",
@@ -69968,34 +69996,6 @@
     "organisation_name": "Calla Lily Clinical Care Ltd",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "CALLANDS FRYER LTD",
-    "town_city": "Callands",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Callatech Precision Engineers Ltd",
-    "town_city": "WORTHING",
-    "county": "West Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Callaway Care and Support",
-    "town_city": "Wembley",
-    "county": "MIDDLESEX",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Callaway Golf Europe Ltd",
-    "town_city": "Chessington",
-    "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
