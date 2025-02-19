@@ -462,13 +462,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "108 Media Ltd",
-    "town_city": "Richmond",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "1080 Properties Ltd",
     "town_city": "Kent",
     "county": "",
@@ -4763,6 +4756,13 @@
     "organisation_name": "68 Chef&#x27;s Table Ltd",
     "town_city": "Leicester",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "68 Mobile Solution Ltd t/a Mobile Solution",
+    "town_city": "Nottingham",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -21567,27 +21567,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Adaptive E-Learn System - ADES /ADES-HealthCare",
-    "town_city": "Manchester",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Adaptive E-Learn System - ADES /ADES-HealthCare",
-    "town_city": "Manchester",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Adaptive E-Learn System - ADES /ADES-HealthCare",
-    "town_city": "Manchester",
-    "county": "Lancashire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
-  },
-  {
     "organisation_name": "Adaptive Financial Consulting Ltd",
     "town_city": "London",
     "county": "England",
@@ -23966,6 +23945,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Advanced Development &amp; Safety Laboratories Limited",
+    "town_city": "Paignton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Advanced Development &amp; Safety Laboratories Limited",
@@ -50127,6 +50113,20 @@
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
+    "organisation_name": "Anacta Strategies UK Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Anacta Strategies UK Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Anaeko Limited",
     "town_city": "Belfast",
     "county": "",
@@ -59864,6 +59864,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARAMCO VENTURES LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "ARAMCO VENTURES LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ARAMEX (UK) LIMITED",
     "town_city": "Poyle",
     "county": "Berkshire",
@@ -61162,6 +61176,13 @@
     "organisation_name": "Archway Design Services Ltd",
     "town_city": "Minster",
     "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Archway Fitness Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -65122,7 +65143,7 @@
   },
   {
     "organisation_name": "ARSS PROPERTIES LTD",
-    "town_city": "Tilbury",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69977,26 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Tier 2 Ministers of Religion"
-  },
-  {
-    "organisation_name": "Asian Sourcing Link (UK) Limited",
-    "town_city": "Oxford",
-    "county": "Oxfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN SPICE LIMITED T/A ASIAN SPICE",
-    "town_city": "Reading",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN TRADE FAIR LIMITED",
-    "town_city": "Barking",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]
