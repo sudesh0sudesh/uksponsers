@@ -1,5 +1,19 @@
 [
   {
+    "organisation_name": "Asian Social and Humanitarian Association",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Asian Social and Humanitarian Association",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
     "organisation_name": "Asian Sourcing Link (UK) Limited",
     "town_city": "Oxford",
     "county": "Oxfordshire",
@@ -19435,7 +19449,7 @@
     "organisation_name": "Bank of Mongolia",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
@@ -30730,6 +30744,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Beowulf Rewilding LLP",
+    "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "BEP Surface Technologies",
     "town_city": "Bury",
     "county": "",
@@ -33386,6 +33407,13 @@
     "organisation_name": "Beths Grammar School",
     "town_city": "Bexley",
     "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Bethshan Nursing Home Ltd",
+    "town_city": "Whitehaven",
+    "county": "Cumbria",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -47299,6 +47327,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Bolt Global Holding Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Bolt Insight Ltd",
     "town_city": "London",
     "county": "",
@@ -58065,6 +58100,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "BRITSK9 LTD",
+    "town_city": "Brentwood",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Britsteam ltd",
     "town_city": "Coventry",
     "county": "West Midlands",
@@ -63687,8 +63729,8 @@
   },
   {
     "organisation_name": "Burger Express Bolton Ltd",
-    "town_city": "Worsley",
-    "county": "",
+    "town_city": "Farnworth",
+    "county": "Bolton",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69954,48 +69996,6 @@
     "organisation_name": "California&#x27;s Fried Chicken &amp; Pizza Bar, Todmorden Limited",
     "town_city": "Todmorden",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Caligra Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Calington Limited",
-    "town_city": "Welwyn Garden City",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Calista Beauty Ltd",
-    "town_city": "Tunbridge Wells",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Calistaa Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Calita Nutraceuticals Ltd",
-    "town_city": "Rugby",
-    "county": "Warwickshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Caljan Ltd",
-    "town_city": "Milton Keynes",
-    "county": "Buckinghamshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

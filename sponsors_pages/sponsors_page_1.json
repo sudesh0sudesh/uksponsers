@@ -7469,6 +7469,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A STARS TRAVEL LTD",
+    "town_city": "Congleton",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A STEP BEYOND LIMITED",
     "town_city": "Bromley",
     "county": "",
@@ -35026,6 +35033,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AL REMAS ESTABLISHMENT FOR TRADING UK LTD 14802513",
+    "town_city": "LONDON",
+    "county": "ENGLAND",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "AL Restaurant Ltd",
@@ -69984,19 +69998,5 @@
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Charity Worker"
-  },
-  {
-    "organisation_name": "Asian Social and Humanitarian Association",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Religious Worker"
-  },
-  {
-    "organisation_name": "Asian Social and Humanitarian Association",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Tier 2 Ministers of Religion"
   }
 ]
