@@ -19362,6 +19362,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ACRON ENGINEERING SERVICES (UK) LTD",
+    "town_city": "Sheffield",
+    "county": "South Yorkshire",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
     "organisation_name": "Acron Services Ltd",
     "town_city": "Luton",
     "county": "",
@@ -23795,6 +23802,13 @@
   {
     "organisation_name": "Advance Transport Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ADVANCE WATER TREATMENT TECHNOLOGIES LIMITED",
+    "town_city": "Leighton Buzzard",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -28393,7 +28407,7 @@
   },
   {
     "organisation_name": "Agilia Infrastructure Partners Limited",
-    "town_city": "Redcar",
+    "town_city": "Stockton-on-Tees",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -29052,6 +29066,13 @@
   {
     "organisation_name": "AGWA Partners Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Agyad Limited",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -40752,6 +40773,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "ALLGDP LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Allgreen Energy",
@@ -63028,6 +63056,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARK BUILDERS AND CONSTRUCTION LTD",
+    "town_city": "Dartford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ark Care Services Ltd",
     "town_city": "London",
     "county": "",
@@ -69963,40 +69998,5 @@
     "county": "NORTHERN IRELAND",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Oriental Supermarket Ltd",
-    "town_city": "Basingstoke",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian People&#x27;s Disability Alliance Ltd",
-    "town_city": "Harlesden",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Snacks Ltd",
-    "town_city": "Dagenham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Social and Humanitarian Association",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Social and Humanitarian Association",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Charity Worker"
   }
 ]
