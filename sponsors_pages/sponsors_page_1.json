@@ -14756,6 +14756,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Abitol Services Limited",
+    "town_city": "Kent",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ABJAK LTD",
     "town_city": "Liverpool",
     "county": "",
@@ -15528,6 +15535,13 @@
   {
     "organisation_name": "ABSCapCo Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ABSG Ltd T/A The New Sunar Gow",
+    "town_city": "Lutterworth",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -16880,6 +16894,13 @@
     "organisation_name": "Access Insulation &amp; Coatings",
     "town_city": "Middlesbrough",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Access International Security Ltd",
+    "town_city": "Loughton",
+    "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -21743,7 +21764,7 @@
   },
   {
     "organisation_name": "Addcare Ltd",
-    "town_city": "Birmingham",
+    "town_city": "Coventry",
     "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -22290,6 +22311,13 @@
   {
     "organisation_name": "Ades Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ADES LTD",
+    "town_city": "LONDON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -24202,6 +24230,13 @@
     "organisation_name": "Advanced Proteins Unlimited",
     "town_city": "Stoke-on-Trent",
     "county": "Staffordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Advanced Renewable Power Ltd",
+    "town_city": "Washington",
+    "county": "Tyne and Wear",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -43127,6 +43162,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Alpha Schools (Holdings) Limited",
+    "town_city": "High Wycombe",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ALPHA SECURITY INDUSTRIES LIMITED",
     "town_city": "BEFORD",
     "county": "BEDFORDSHIRE",
@@ -50435,6 +50477,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ANANTA  AYURVEDA  LTD",
+    "town_city": "Slough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Anantham Foods Ltd",
     "town_city": "Milton Keynes",
     "county": "Buckinghamshire",
@@ -52360,6 +52409,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ANGELWAY LIMITED",
+    "town_city": "HERTFORDSHIRE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Angelz Dry Cleaners LTD",
     "town_city": "London",
     "county": "",
@@ -53791,13 +53847,6 @@
     "organisation_name": "Annabel Partridge Ltd",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Annadale Private Nursing Home",
-    "town_city": "Belfast",
-    "county": "Antrim",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69947,55 +69996,6 @@
     "organisation_name": "ASIAN FOOD WT LIMITED",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Girls Club Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Grill Limited",
-    "town_city": "BIRMINGHAM",
-    "county": "WEST MIDLANDS",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Grocery and Halal Meat LTD T/A Naga Hut",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Grocery Point Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Harvest Butchers Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN KITCHEN HULL LIMITED",
-    "town_city": "HULL",
-    "county": "East Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN MIX STORE",
-    "town_city": "BELFAST",
-    "county": "NORTHERN IRELAND",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
