@@ -11851,13 +11851,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AATECHNO Ltd",
-    "town_city": "Glasgow",
-    "county": "City of Glasgow",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AATHENAA LIMITED",
     "town_city": "Radstock",
     "county": "Somerset",
@@ -46333,6 +46326,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Amaze Hotels Limited",
+    "town_city": "Ruthin",
+    "county": "Denbighshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AMAZE PRODUCTS LIMITED",
     "town_city": "BOLTON",
     "county": "",
@@ -54670,13 +54670,6 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
-    "organisation_name": "ANT AND BEX LODGINGS LIMITED",
-    "town_city": "WELLINGBROUGH",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Ant Data Limited",
     "town_city": "Liverpool",
     "county": "",
@@ -59052,6 +59045,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AQUAFARM EQUIPMENT (SCOTLAND) LIMITED",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "AQUAFARM EQUIPMENT (SCOTLAND) LIMITED",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aquaforce Special Waste Ltd",
     "town_city": "Wolverhampton",
     "county": "",
@@ -59356,6 +59363,13 @@
     "organisation_name": "AR Boutique Limited",
     "town_city": "Birmingham",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AR BRAND LTD",
+    "town_city": "BRISTOL",
+    "county": "Bristol",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -60553,6 +60567,13 @@
     "organisation_name": "Arcare Residential Care Limited",
     "town_city": "Wolverhampton",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Arcare Woodlands Limited",
+    "town_city": "Southport",
+    "county": "Merseyside",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -67326,6 +67347,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ascend Advanced Therapies Limited",
+    "town_city": "Altrincham",
+    "county": "Cheshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ascend Advanced Therapies Ltd",
     "town_city": "Altrincham",
     "county": "Cheshire",
@@ -69967,34 +69995,6 @@
   {
     "organisation_name": "ASIAN EYE EVENTS LTD",
     "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN FLAVOURS NEWCASTLE LTD t/a Oodles Newcastle",
-    "town_city": "Dumfries",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN FOOD LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN FOOD STORE",
-    "town_city": "HERTS",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN FOOD WT LIMITED",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

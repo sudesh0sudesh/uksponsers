@@ -1,5 +1,47 @@
 [
   {
+    "organisation_name": "Caledan Ltd",
+    "town_city": "Ystrad mynach",
+    "county": "Caerphilly",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Caledonia Basketball Limited",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Caledonia Group Services Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Caledonia Medical Practice",
+    "town_city": "Cumbernauld",
+    "county": "Glasgow",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Caledonia Technologies Ltd",
+    "town_city": "East Kilbride",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Caledonian Care Consultants Ltd",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Caledonian Education Information Centre",
     "town_city": "Edinburgh",
     "county": "",
@@ -408,6 +450,13 @@
   {
     "organisation_name": "Calnex Solutions plc",
     "town_city": "Belfast",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Calo Catering Services LTD",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -25634,6 +25683,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "CHIYATSU LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CHKN STOP LTD",
     "town_city": "Bolton",
     "county": "",
@@ -27834,6 +27890,13 @@
   {
     "organisation_name": "Chua Express Ltd",
     "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Chuanglee Limited",
+    "town_city": "Bugsby Way",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -33661,6 +33724,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Clear Junction Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Scale-up"
   },
   {
     "organisation_name": "CLEAR LINE MAINTENANCE LTD",
@@ -53914,6 +53984,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Craft Wardrobe Ltd",
+    "town_city": "Egham",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CRAFT21 LIMITED",
     "town_city": "Essex",
     "county": "",
@@ -64710,7 +64787,7 @@
   {
     "organisation_name": "DAFLAVOURZ LTD",
     "town_city": "Middlesbrough",
-    "county": "",
+    "county": "North Yorkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69919,83 +69996,6 @@
     "organisation_name": "Dawson International (UK) Ltd.",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dawson Rodgers &amp; Co Ltd",
-    "town_city": "Greater Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dawsongroup plc",
-    "town_city": "Milton Keynes",
-    "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dawsongroup plc",
-    "town_city": "Milton Keynes",
-    "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DAXTON CAPITAL LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Daxtra Technologies Ltd",
-    "town_city": "Musselburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Day 1 Kiln Convenience  Store",
-    "town_city": "Benfleet",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Day 2 Day Health Care UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Day 2 Day",
-    "town_city": "Rotherham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Day 2 Interiors Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Day 8 Experiences Ltd",
-    "town_city": "Putney",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Day And NIghtcare Live in Limited",
-    "town_city": "Oxford",
-    "county": "Oxfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
