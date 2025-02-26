@@ -7455,6 +7455,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A STAR SUPPORT SERVICES LTD",
+    "town_city": "Holywell",
+    "county": "Flintshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A STAR WASTE REMOVALS LIMITED",
     "town_city": "Birmingham",
     "county": "",
@@ -22526,6 +22533,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ADI UK Limited",
+    "town_city": "Bolton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Adi&amp;Sons Limited",
     "town_city": "Coventry",
     "county": "",
@@ -23516,6 +23530,13 @@
     "organisation_name": "Adserve Ltd",
     "town_city": "Worcester",
     "county": "Worcs",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Adsilico Limited",
+    "town_city": "Leeds",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -34933,6 +34954,13 @@
     "organisation_name": "AL NOOR SUPERMARKET LIMITED",
     "town_city": "Dudley",
     "county": "WEST MIDLAND",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Al Noor Superstore Limited",
+    "town_city": "Bolton",
+    "county": "Lancs",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -67277,6 +67305,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ASB Livery Ltd",
+    "town_city": "Bridgwater",
+    "county": "Somerset",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ASB Tech Ltd",
     "town_city": "Milton Keynes",
     "county": "",
@@ -69960,41 +69995,6 @@
   {
     "organisation_name": "Asian Cash &amp; Carry Limited",
     "town_city": "Southampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN CATERING BIRMINGHAM LTD",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN CATERING BIRMINGHAM LTD",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "ASIAN CURRIES LIMITED",
-    "town_city": "ENNISKILLEN",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asian Designer Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIAN EYE EVENTS LTD",
-    "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
