@@ -1,5 +1,362 @@
 [
   {
+    "organisation_name": "Uroojs Hair and Beauty",
+    "town_city": "Bradford",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "UR-PLACE.COM LIMITED",
+    "town_city": "Bolton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Urquhart &amp; Hunt",
+    "town_city": "Bruton",
+    "county": "Somerset",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "URS CHOICE LTD",
+    "town_city": "Hornchurch",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "URSOLUTIONS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Urvee Limited",
+    "town_city": "Bournemouth",
+    "county": "Dorset",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "URVI SHAH &amp; JILNA SHAH T/A CAPE HOUSE DENTAL PRACTICE",
+    "town_city": "MIDDLESEX",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "URWA ZAHOOR LIMITED",
+    "town_city": "Slough",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Urwin (Oxford) Ltd",
+    "town_city": "Oxford",
+    "county": "Oxfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "US &amp; HHM Limited",
+    "town_city": "Bradford",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "US Apparel (UK) Ltd",
+    "town_city": "Blackburn",
+    "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "US BEDWORTH FOOD &amp; WINE PET CITY LTD",
+    "town_city": "BEDWORTH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "US Booking Services Ltd",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "US Food Ltd t/a Smoky Boys",
+    "town_city": "Wakefield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "US Market Trends Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "US Tax &amp; Financial Services Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "US TECH SOLUTIONS LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USA BUILDERS LIMITED",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USAA International Services SARL London Branch",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USAA International Services SARL London Branch",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "USAVE EDINBURGH LIMITED T/A USAVE",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USAVE",
+    "town_city": "Bathgate",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USAY1 LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USB ACCOUNTS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usborne Publishing Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usdaw",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Use Passionfruit Limited",
+    "town_city": "Canterbury",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usedful Limited",
+    "town_city": "Hayes",
+    "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Useful Simple Group Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "UsePixie Software UK Ltd.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "User Vision",
+    "town_city": "Edinburgh",
+    "county": "Scotland",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USERLED.IO LTD",
+    "town_city": "Sevenoaks",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USG-Gledco Limited",
+    "town_city": "Leeds",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usha Martin UK LIMITED",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usha Martin UK LIMITED",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Ushodaya Services Ltd.",
+    "town_city": "Milton Keynes",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USM U. SCHAERER SONS LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USM U. SCHAERER SONS LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "USMAC UK Limited",
+    "town_city": "Milton Keynes",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USMAN ALI JEWELLERY TRADING UK LTD",
+    "town_city": "Southall",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USMAN BEDS BOLTON LTD T/A USMAN BEDS",
+    "town_city": "Bolton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usman Brothers Ltd",
+    "town_city": "Dudley",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usman Business Ltd",
+    "town_city": "Darlaston",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usman Fayyaz Khan T/A Independent Financial Advisor",
+    "town_city": "Slough",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usman Gas Solutions Ltd",
+    "town_city": "Dudley",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usman Ice Cream Ltd T/A Baskin Robbins",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USMAN NEWS AGENT LTD",
+    "town_city": "Cleveland",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USMAN SUPERMARKET LTD",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Usmani Mosque",
+    "town_city": "Leicester",
+    "county": "Leicestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "USMANINAGAR LIMITED TA The Miah Restaurant",
+    "town_city": "B79 7PA",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "USMAN&#x27;S KITCHEN LTD",
+    "town_city": "Colchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Usman&#x27;s Supermarket",
     "town_city": "Sheffield",
     "county": "",
@@ -12435,6 +12792,13 @@
     "organisation_name": "Vision Consulting Accountants Limited",
     "town_city": "Ilford",
     "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "VISION CORE SOLUTIONS LTD",
+    "town_city": "SLOUGH",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -31731,6 +32095,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Wildflower Home Care",
+    "town_city": "Godalming",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Wildfowl &amp; Wetlands Trust",
     "town_city": "Gloucester",
     "county": "Gloucestershire",
@@ -43820,6 +44191,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Y&amp;L Apparel Ltd",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Y&amp;T GLOBAL WELLNESS LIMITED",
     "town_city": "Middlesex",
     "county": "",
@@ -50206,6 +50584,13 @@
   {
     "organisation_name": "Zak Accountancy Ltd",
     "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Zak and Adam Eyecare Ltd",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

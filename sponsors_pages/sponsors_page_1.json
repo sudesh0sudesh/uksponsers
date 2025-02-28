@@ -1309,6 +1309,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "1st Formations Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "1st Fresh Foods Ltd",
     "town_city": "Mitcham",
     "county": "",
@@ -2796,6 +2803,13 @@
     "organisation_name": "3A Care (London) Ltd",
     "town_city": "Watford",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "3A Care (Worcs) Ltd",
+    "town_city": "Stourport on Severn",
+    "county": "Worcestershire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -15744,6 +15758,13 @@
   },
   {
     "organisation_name": "ABSOLUTELY NO NONSENSE ADMIN LTD",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Absolutely No Nonsense Admin Ltd",
     "town_city": "Cardiff",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -40467,6 +40488,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Allans Healthcare Ltd t/a Wynyard Pharmacy",
+    "town_city": "BILLINGHAM",
+    "county": "CLEVELAND",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Allans the Accountants Limited",
     "town_city": "Surbiton",
     "county": "SURREY",
@@ -42926,13 +42954,6 @@
   {
     "organisation_name": "ALPHA CARS 247 LTD",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Alpha Catering Ltd",
-    "town_city": "Margate",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -58492,6 +58513,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "April Six Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "April Well Limited",
     "town_city": "London",
     "county": "",
@@ -58656,6 +58684,13 @@
     "organisation_name": "Apt Care Options Ltd",
     "town_city": "Birmingham",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "apt Design Ltd",
+    "town_city": "Wigston",
+    "county": "Leicestershire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -66584,6 +66619,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Arundell Arms Hotel Company Ltd",
+    "town_city": "Lifton",
+    "county": "Devon",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Arusey Forecourts Ltd",
     "town_city": "Warrington",
     "county": "Cheshire",
@@ -69953,48 +69995,6 @@
   {
     "organisation_name": "Asia Investments UK Private Limited",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia Logistics Services (UK) Ltd",
-    "town_city": "Hayes",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia Oriental Super Market LTD",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia Pacific World Holdings Limited",
-    "town_city": "Southampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Asia Pacific World Holdings Limited",
-    "town_city": "Southampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIA PALACE MOBILE PHONES UK LTD",
-    "town_city": "Southend on Sea",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIA PALACE RENTAL LIMITED",
-    "town_city": "Essex",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
