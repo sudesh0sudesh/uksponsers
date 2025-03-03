@@ -2710,7 +2710,7 @@
   },
   {
     "organisation_name": "365Ab Ltd",
-    "town_city": "Lonodn",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -9488,6 +9488,13 @@
     "organisation_name": "A2 Beauty Limited",
     "town_city": "Milton Keynes",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A2 Engineering Ltd",
+    "town_city": "Smallfield",
+    "county": "Horley",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -18110,6 +18117,13 @@
   },
   {
     "organisation_name": "ACE REMOVALS LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Ace Rent A Van Ltd",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -35378,6 +35392,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALAC LTD trading as Shanghai Oriental Buffet Restaurant",
+    "town_city": "Carlisle",
+    "county": "Cumbria",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ALACHI INDIAN RESTAURANT HULL LTD.",
     "town_city": "Hull",
     "county": "",
@@ -52206,6 +52227,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Angel Snappy Snaps Limited T/a Snappy Snaps",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ANGEL SOLUTIONS LTD",
     "town_city": "Liverpool",
     "county": "",
@@ -59237,6 +59265,13 @@
     "organisation_name": "Aquapark Developments Limited T/A Prima Building Solutions Ltd",
     "town_city": "Sunninghill",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AQUAPHOR UK LTD",
+    "town_city": "Reading",
+    "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -66976,6 +67011,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AS Chamoli Ltd",
+    "town_city": "Essex",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AS CHILTERN HOMECARE LTD",
     "town_city": "Chesham",
     "county": "Buckinghamshire",
@@ -69954,48 +69996,6 @@
     "organisation_name": "Asia Dining Group ltd.",
     "town_city": "sheffield",
     "county": "South Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia Food Store Limited",
-    "town_city": "Croydon",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia Halal Group Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIA HALAL MEAT SUPPLIER LTD",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia House",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia Investments UK Private Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Asia Investments UK Private Limited",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
