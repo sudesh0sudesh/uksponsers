@@ -1575,13 +1575,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "20/30 Labs Limited",
-    "town_city": "Northanpton",
-    "county": "Northamptonshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "200 Degrees Coffee Roasters",
     "town_city": "Nottingham",
     "county": "",
@@ -3488,6 +3481,13 @@
   {
     "organisation_name": "3T Logistics Limited",
     "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "3T TRAINING SERVICES LIMITED",
+    "town_city": "Dorset",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -5967,6 +5967,13 @@
     "organisation_name": "A &amp; M Granite Solutions Ltd",
     "town_city": "Durham",
     "county": "County Durham",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A &amp; M Motors",
+    "town_city": "Nottingham",
+    "county": "Nottinghamshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -24962,13 +24969,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Adyen UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Adyoulike Limited",
     "town_city": "London",
     "county": "",
@@ -38414,13 +38414,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Al-Hasni Welfare Trust",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Charity Worker"
   },
   {
     "organisation_name": "ALHAYAT LANGUAGES CENTRE",
@@ -55951,6 +55944,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AP Drywall Systems Ltd",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AP Financial Limited",
     "town_city": "Ashford",
     "county": "",
@@ -59251,6 +59251,13 @@
     "organisation_name": "AQUAMATCH WATER TREATMENT LIMITED",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Aqua-Media International Limited",
+    "town_city": "Wallington",
+    "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -63647,6 +63654,13 @@
     "organisation_name": "Arke Agency Ltd",
     "town_city": "Brighton",
     "county": "East Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Arke Creative Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69982,20 +69996,6 @@
     "organisation_name": "Asia Benfleet Ltd T/A Asia Bangladesh and Indian Restaurant",
     "town_city": "Benfleet",
     "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASIA CONTINENTAL (OLDHAM) LIMITED T/A WATAN SUPERSTORE",
-    "town_city": "LANCASHIRE",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia Dining Group ltd.",
-    "town_city": "sheffield",
-    "county": "South Yorkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

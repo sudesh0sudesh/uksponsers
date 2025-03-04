@@ -1,5 +1,131 @@
 [
   {
+    "organisation_name": "Kaifa Technology UK Limited",
+    "town_city": "Milton Keynes",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kaihua UK Limited TAs Cumberland Hotel",
+    "town_city": "Eastbourne",
+    "county": "East Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kaihua UK Limited TAs Cumberland Hotel",
+    "town_city": "Eastbourne",
+    "county": "East Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Kaiiro Ltd T/A Iro Sushi Woolwich",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "KAILASH DOUBLE GLAZING LTD",
+    "town_city": "RAINHAM",
+    "county": "ESSEX",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kailash Momo Bar Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "KAILIZ LTD",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kainos Software Ltd",
+    "town_city": "Belfast",
+    "county": "Antrim",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kair Ventilation Limited",
+    "town_city": "Sidcup",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kaira global LTD",
+    "town_city": "slough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "KAIROS CARE SERVICES LIMITED",
+    "town_city": "DONCASTER",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kairos Media Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kairos Women+",
+    "town_city": "Paisley",
+    "county": "Renfrewshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kaise Limited",
+    "town_city": "Oldham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "KAISER ACCOUNTANCY SERVICES LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kaiser Associates International, Inc",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kaiser Associates International, Inc",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "KAISER NOUMAN NATHAN LLP",
+    "town_city": "LONDON",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Kaithai Local Express",
     "town_city": "London",
     "county": "",
@@ -5434,6 +5560,13 @@
   {
     "organisation_name": "KeelWorks Ltd",
     "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Keem Healthcare Ltd",
+    "town_city": "Warwick",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -15547,13 +15680,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "KM DAR LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "KM FAST FOOD LTD",
     "town_city": "London",
     "county": "",
@@ -22470,6 +22596,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Kusum Hotel Devon Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
     "organisation_name": "Kuttan Ltd",
     "town_city": "Stockport",
     "county": "",
@@ -23031,7 +23164,7 @@
   },
   {
     "organisation_name": "KYMIRA Ltd",
-    "town_city": "READING",
+    "town_city": "Reading",
     "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -44506,8 +44639,8 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Lockmetal Limited",
-    "town_city": "Kings Langley",
+    "organisation_name": "LockMetal Limited",
+    "town_city": "Hemel Hempstead",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -46713,13 +46846,6 @@
   {
     "organisation_name": "London Eye Real Estates Uk Ltd",
     "town_city": "Hounslow London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "LONDON EYE TV LIMITED",
-    "town_city": "LONDON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69870,132 +69996,6 @@
     "organisation_name": "Marks and Clerk LLP",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Marks and Clerk LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Marks and Spencer Group Plc",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Marks and Spencer Group Plc",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Marks Barfield Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Marks Baughan Securities UK, LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mark&#x27;s Cotswold Bakery Ltd",
-    "town_city": "Chipping Norton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Marks Gate Health Centre",
-    "town_city": "Romford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Marks Heeley Ltd",
-    "town_city": "Bishops Stortford",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Marks Tey Hotel",
-    "town_city": "Colchester",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Markson Pianos Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Marktlink North UK M&amp;A Limited",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Marktlink North UK M&amp;A Limited",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MarktoMarket Valuations",
-    "town_city": "Edinburgh",
-    "county": "Lothians",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Markup Design Ltd",
-    "town_city": "Bury St Edmunds",
-    "county": "Suffolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mark-Up Tools Limited",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MARKWEBIT LTD",
-    "town_city": "Crawley",
-    "county": "West Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Markyate Grill Ltd",
-    "town_city": "ST. Albans",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MARL PARTNERS LLP",
-    "town_city": "LONDON",
-    "county": "LONDON",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
