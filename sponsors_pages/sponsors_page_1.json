@@ -21973,6 +21973,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Addison Partners Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
     "organisation_name": "Addison Road Medical Practice",
     "town_city": "London",
     "county": "Waltham Forest",
@@ -59094,6 +59101,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AQUA GREEN CLEANING AND FACILITIES LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aqua Interpreting Solutions Ltd",
     "town_city": "Batley",
     "county": "West Yorkshire",
@@ -67774,6 +67788,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ascentis",
+    "town_city": "Lancaster",
+    "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ascertia Limited",
     "town_city": "Guildford",
     "county": "",
@@ -69975,27 +69996,6 @@
     "organisation_name": "Ashworth House Ltd",
     "town_city": "Cannock",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASI TRADERS LIMITED",
-    "town_city": "High Wycombe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia &amp; Imran Limited",
-    "town_city": "Chelmsford, Essex",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asia Benfleet Ltd T/A Asia Bangladesh and Indian Restaurant",
-    "town_city": "Benfleet",
-    "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
