@@ -1596,6 +1596,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "202 AHST GAS SERVICES LTD",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "20-20 Events Management Limited",
     "town_city": "London",
     "county": "",
@@ -6225,6 +6232,13 @@
   {
     "organisation_name": "A A HOMES AND HOUSING (PREMIER) LIMITED",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A A LEISURES LTD",
+    "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -26740,13 +26754,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Afresh Healthcare Limited",
-    "town_city": "Luton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AFRICA ADVOCACY FOUNDATION",
     "town_city": "London",
     "county": "Greater London",
@@ -35852,6 +35859,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alaric Securities (UK) Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Alas Healthcare (Leeds)",
@@ -51884,6 +51898,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Anemos-Analytics Ltd",
+    "town_city": "Motherwell",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Anenta Ldt",
     "town_city": "Putney",
     "county": "London",
@@ -58413,20 +58434,6 @@
     "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Apptio Europe Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Apptio Europe Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "APPTION LABS LIMITED",
@@ -67511,13 +67518,6 @@
     "organisation_name": "Asbestos Audit Ltd",
     "town_city": "Peterlee",
     "county": "County Durham",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASBG GLOBAL LTD",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
