@@ -10773,6 +10773,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Aadhan Square Ltd",
+    "town_city": "Doncaster",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aadhiulakam Ltd",
     "town_city": "Bedford",
     "county": "",
@@ -32033,7 +32040,7 @@
   },
   {
     "organisation_name": "AISHWARYA LIMITED",
-    "town_city": "CROYDON",
+    "town_city": "Chelmsford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -33435,6 +33442,13 @@
     "organisation_name": "Akebar Park Leisure LTD",
     "town_city": "Leyburn",
     "county": "North Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Akela Future Living Ltd",
+    "town_city": "Birmingham",
+    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -36321,6 +36335,13 @@
     "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Albelandy Ltd",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Albelandy Ltd",
@@ -69974,27 +69995,6 @@
   {
     "organisation_name": "ASHWOOD CHILDRENS CARE HOME LTD",
     "town_city": "Burton on Trent",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashwood House Limited",
-    "town_city": "Leyton",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashworth and Parker Limited (Trading as END.)",
-    "town_city": "Tyne and Wear",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashworth House Ltd",
-    "town_city": "Cannock",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

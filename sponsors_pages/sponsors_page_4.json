@@ -1,5 +1,54 @@
 [
   {
+    "organisation_name": "David Gill Galleries Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "david haward associates, chartered architects",
+    "town_city": "st david&#x27;s",
+    "county": "Pembrokeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "David Ian Productions Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "David Ian Productions Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
+    "organisation_name": "David James McKee",
+    "town_city": "Kilkeel",
+    "county": "Co. Down",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "David Jarvis Associates Ltd",
+    "town_city": "Swindon",
+    "county": "Wiltshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "David Kester and Associates Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "David Kohn Architects Limited",
     "town_city": "London",
     "county": "",
@@ -15235,6 +15284,13 @@
     "organisation_name": "DIVAS CONSULTANCY LTD.",
     "town_city": ",London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DiveCo Marine Ltd",
+    "town_city": "Northfleet",
+    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -47607,6 +47663,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Engineering Systems Design (Group) Ltd",
+    "town_city": "Bolton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ENGINEERING TECH LIMITED",
     "town_city": "Manchester",
     "county": "",
@@ -57192,13 +57255,6 @@
   {
     "organisation_name": "EV Cargo UK Limited",
     "town_city": "Burton upon Trent",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EV Charger Centre Ltd",
-    "town_city": "Solihull",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69942,61 +69998,5 @@
     "county": "Tyne and Wear",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FEDCAP EMPLOYMENT LIMITED",
-    "town_city": "Middlesbrough",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fedenss Limited",
-    "town_city": "Bakewell Road,",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Federal Cafe Limited",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Federal-Mogul Ltd",
-    "town_city": "Manchester",
-    "county": "Cheshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Federal-Mogul Ltd",
-    "town_city": "Manchester",
-    "county": "Cheshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Federal-Mogul Ltd",
-    "town_city": "Manchester",
-    "county": "Cheshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
-  },
-  {
-    "organisation_name": "Federated Hermes (UK)  LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Federated Hermes (UK)  LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
