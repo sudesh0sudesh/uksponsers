@@ -4166,8 +4166,8 @@
   },
   {
     "organisation_name": "4S UK CONSULTING LIMITED",
-    "town_city": "High Wycombe",
-    "county": "",
+    "town_city": "Reading",
+    "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -4658,6 +4658,13 @@
     "organisation_name": "5Y Technology Limited",
     "town_city": "Chelmsford",
     "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "6 Bit Education Ltd",
+    "town_city": "Birmingham",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -8767,6 +8774,13 @@
     "organisation_name": "A.L.S Hotels Limited t/a King Solomon Hotel",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A.L.S Trade Ltd",
+    "town_city": "Hertford",
+    "county": "Hertfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -18208,7 +18222,7 @@
   },
   {
     "organisation_name": "ACE THINKER LIMITED",
-    "town_city": "London",
+    "town_city": "Welling",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -19148,13 +19162,6 @@
     "organisation_name": "Acorn Tourism Consulting Ltd",
     "town_city": "Flimwell",
     "county": "East Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Acorns (Southern) Limited",
-    "town_city": "Curdridge",
-    "county": "Hampshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -23488,13 +23495,6 @@
     "organisation_name": "ADRIEL CARE LTD",
     "town_city": "POOLE",
     "county": "DORSET",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Adriel Supported Living Care Ltd",
-    "town_city": "Dorset",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -28135,13 +28135,6 @@
   {
     "organisation_name": "AGES AGO LIMITED",
     "town_city": "Sheffield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "AGF CARE HOMES LTD",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -34874,6 +34867,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AL MAKKAH TRAVEL LIMITED",
+    "town_city": "Crawley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AL MAKNOON TRAVELS LTD",
     "town_city": "LONDON",
     "county": "",
@@ -40391,14 +40391,14 @@
   },
   {
     "organisation_name": "All World Foods Limited",
-    "town_city": "Edgware",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "All World Foods Limited",
-    "town_city": "Edgware",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -44299,6 +44299,13 @@
     "organisation_name": "Altana Wealth Ltd",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALTANO UK LIMITED",
+    "town_city": "Newmarket,",
+    "county": "Suffolk",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -55252,14 +55259,14 @@
   },
   {
     "organisation_name": "Antithesis UK Limited",
-    "town_city": "Cambridge",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Antithesis UK Limited",
-    "town_city": "Cambridge",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -55966,6 +55973,20 @@
   },
   {
     "organisation_name": "AP Audit UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AP AUDIT UK LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "AP AUDIT UK LTD",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -59508,8 +59529,8 @@
   },
   {
     "organisation_name": "Aquios Labs Ltd",
-    "town_city": "Salford",
-    "county": "",
+    "town_city": "Rochdale",
+    "county": "Manchester",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69974,27 +69995,6 @@
   {
     "organisation_name": "Ashwell Home Care Services Limited",
     "town_city": "Malvern",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHWIN CONVENIENCE STORE LIMITED",
-    "town_city": "Rhyl",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashwin Food Services Ltd",
-    "town_city": "Lowestoft, England",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHWOOD CHILDRENS CARE HOME LTD",
-    "town_city": "Burton on Trent",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
