@@ -17675,6 +17675,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Accounts and Tax Consultancy Ltd",
+    "town_city": "Hayes",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Accounts Computers Ltd",
     "town_city": "Sevenoaks",
     "county": "Kent",
@@ -22772,7 +22779,7 @@
   },
   {
     "organisation_name": "Adison Info Limited",
-    "town_city": "Rochford",
+    "town_city": "Ilford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -29750,6 +29757,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ahmed Bros Ltd",
+    "town_city": "Manchester",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AHMED BROTHERS HALAL LTD",
     "town_city": "Smethwick",
     "county": "",
@@ -33220,13 +33234,6 @@
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Akahana Management Ltd T/A Cosmo Edinburgh",
-    "town_city": "Edinburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   },
   {
     "organisation_name": "AKAL NEWS MIDLANDS LTD",
@@ -46880,6 +46887,13 @@
   },
   {
     "organisation_name": "Amber Infrastructure Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Amber Labs",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -63350,6 +63364,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ark architecture + design",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ARK BUILDERS AND CONSTRUCTION LTD",
     "town_city": "Dartford",
     "county": "",
@@ -67319,6 +67340,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Asad Sheraz Khokher T/A Madina Halal Meat",
+    "town_city": "Harrow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ASAF HK GROUP LIMITED",
     "town_city": "Birmingham",
     "county": "",
@@ -69968,34 +69996,6 @@
     "organisation_name": "Ashville College",
     "town_city": "Harrogate",
     "county": "N Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashville Residential Home Ltd",
-    "town_city": "New Tredegar",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashvin Trading Ltd",
-    "town_city": "Holyhead",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashwell Dental Surgery Ltd",
-    "town_city": "Ashwell",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashwell Home Care Services Limited",
-    "town_city": "Malvern",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
