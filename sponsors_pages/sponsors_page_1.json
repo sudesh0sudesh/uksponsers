@@ -833,13 +833,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "15below ltd",
-    "town_city": "Brighton",
-    "county": "East Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "15Below Ltd",
     "town_city": "Brighton",
     "county": "East Sussex",
@@ -1673,6 +1666,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "21D Clinical Limited",
+    "town_city": "Warrington",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "21ST AMENDMENT LTD",
     "town_city": "London",
     "county": "",
@@ -2263,6 +2263,13 @@
   {
     "organisation_name": "3 Angels Complex Care Services Ltd",
     "town_city": "Wolverhampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "3 Associates Capital Management Limited",
+    "town_city": "Amersham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -24013,13 +24020,6 @@
     "organisation_name": "Advanced Avionics Ltd",
     "town_city": "Westerham",
     "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Advanced Bacterial Sciences Limited",
-    "town_city": "Loughton",
-    "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
