@@ -43430,7 +43430,7 @@
   {
     "organisation_name": "ALPHAANALYTICS LIMITED",
     "town_city": "Chelmsford",
-    "county": "",
+    "county": "ESSEX",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -58737,6 +58737,13 @@
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
+    "organisation_name": "APS Space Kidderminster Limited",
+    "town_city": "Kidderminster",
+    "county": "Worcestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "APSAY LTD",
     "town_city": "Newcastle Upon Tyne",
     "county": "",
@@ -69989,13 +69996,6 @@
     "organisation_name": "Ashvic 24/7 Quality Care Services Limited",
     "town_city": "Northampton",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashville College",
-    "town_city": "Harrogate",
-    "county": "N Yorkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

@@ -1,5 +1,89 @@
 [
   {
+    "organisation_name": "Datta &amp; Brothers Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Datta Cash &amp; Carry Ltd",
+    "town_city": "Oldham,",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Datto Europe Limited",
+    "town_city": "Reading",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Datto Europe Limited",
+    "town_city": "Reading",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "DATUM ENGINEERING SERVICES LTD",
+    "town_city": "Ilford",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Datum First Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Datum site Engineering  services LTD",
+    "town_city": "Widnes",
+    "county": "Cheshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DAU CARE LTD T/A LEYS REST HOME",
+    "town_city": "ALVECHURCH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daubney Ltd",
+    "town_city": "LINCOLN",
+    "county": "Lincolnshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daughters of Divine Charity",
+    "town_city": "Middleton",
+    "county": "Greater Manchester",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Daughters of Divine Charity",
+    "town_city": "Middleton",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Daughters of Divine Love Training and Assessment Centre (UK) - DDLTAC (UK)",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Daughters of Divine Love, English Region",
     "town_city": "London",
     "county": "",
@@ -1372,7 +1456,7 @@
     "route": "Tier 2 Ministers of Religion"
   },
   {
-    "organisation_name": "DAYSPRINGS HEALTHCARE LIMITED",
+    "organisation_name": "Daysprings Healthcare Limited",
     "town_city": "Southampton",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -9688,13 +9772,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "DEWAY CARE LIMITED",
-    "town_city": "Watford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "DEWDROPS PROPERTIES LTD",
     "town_city": "NOTTINGHAM",
     "county": "",
@@ -15260,6 +15337,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Disha newcastle limited",
+    "town_city": "NEWCASTLE UPON TYNE",
+    "county": "Tyne and Wear",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Disha Stores",
     "town_city": "Tooting",
     "county": "",
@@ -19875,6 +19959,13 @@
   {
     "organisation_name": "Dorodvand Developments Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dorothys Cardiff Ltd",
+    "town_city": "Cardiff",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -29463,6 +29554,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Eagles Wing Healthcare Soulations Ltd",
+    "town_city": "SAINT BEES",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Eaglesvale Care UK Ltd",
     "town_city": "Hinckley",
     "county": "",
@@ -30275,6 +30373,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "East Berkshire Primary Care",
+    "town_city": "Bracknell",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "East Bierley Cricket Club",
     "town_city": "Bradford",
     "county": "West Yorkshire",
@@ -30364,6 +30469,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "EAST COAST MANAGEMENT LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "East Cowes Surgery",
@@ -42261,6 +42373,13 @@
   {
     "organisation_name": "Elite Thermal Systems Ltd",
     "town_city": "Market Harborough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Elite Thermal Systems Ltd",
+    "town_city": "Market Harbarough",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69876,125 +69995,6 @@
   {
     "organisation_name": "FAZAMI LTD",
     "town_city": "MANCHESTER",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fazatex Limited",
-    "town_city": "Birmingham",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fazeela Javed c/o Abbas Halal Meats",
-    "town_city": "Edinburgh",
-    "county": "Midlothian",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fazin Healthcare Limited",
-    "town_city": "Basildon",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FAZU INVESTMENTS LIMITED",
-    "town_city": "Birkenhead",
-    "county": "ENGLAND",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FB 786 TRADING &amp; CO LTD",
-    "town_city": "Oldham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FB Dental",
-    "town_city": "Liverpool",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FB GANTS HILL LTD",
-    "town_city": "Ilford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FB&amp;C Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FBA COURIERS LTD",
-    "town_city": "Radcliffe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FBA Technical services Ltd",
-    "town_city": "Warwick",
-    "county": "United Kingdom (+44)",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FBA Technical services Ltd",
-    "town_city": "Warwick",
-    "county": "United Kingdom (+44)",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Secondment Worker"
-  },
-  {
-    "organisation_name": "FBA(UK)LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FBAASA LTD",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FBAASA LTD",
-    "town_city": "Manchester",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FBC Care Homes Ltd T/A Cherry Holt Care Home",
-    "town_city": "Retford",
-    "county": "Nottinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FBC WAREHOUSE LIMITED",
-    "town_city": "Chatham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FB-H LIMITED",
-    "town_city": "Hounslow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
