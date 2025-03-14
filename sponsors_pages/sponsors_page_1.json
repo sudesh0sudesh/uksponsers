@@ -3864,6 +3864,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "43 Harbour News Ltd t/a Harbour News",
+    "town_city": "Whitstable",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "4319 FOUNTAIN CARE Ltd",
     "town_city": "Uxbridge",
     "county": "Middlesex",
@@ -28189,6 +28196,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "AGGA Solution Limited",
+    "town_city": "Surbiton",
+    "county": "Greater London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AGGARWAL &amp; CO LIMITED",
     "town_city": "Gillingham",
     "county": "",
@@ -50911,6 +50925,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ANCASTER CONVENIENCE STORE LTD",
+    "town_city": "Grantham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ANCER RECRUITMENT LTD.",
     "town_city": "Manselton",
     "county": "Swansea",
@@ -51819,6 +51840,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
+    "organisation_name": "Anduin Transactions UK LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Andun Engineering Consultants Ltd",
@@ -56539,6 +56567,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Apex Consolidation Entity Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Apex Consolidation Entity Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
     "organisation_name": "Apex Consulting Engineers Limited",
     "town_city": "Sheffield",
     "county": "South Yorkshire",
@@ -60398,6 +60440,13 @@
   {
     "organisation_name": "Arboretum Hotels Ltd",
     "town_city": "Derby",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Arboretum Nursing Home Limited",
+    "town_city": "Walsall",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69947,55 +69996,6 @@
     "organisation_name": "Ashtronix",
     "town_city": "Swindon",
     "county": "Wiltshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHU (SCOT) LTD",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHU DUNDEE LIMITED",
-    "town_city": "Kirkton Of Auchterhouse",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashurst LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashurst LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Ashurst LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
-  },
-  {
-    "organisation_name": "Ashurst Lodge Healthcare Limited",
-    "town_city": "Wallington",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashvic 24/7 Quality Care Services Limited",
-    "town_city": "Northampton",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
