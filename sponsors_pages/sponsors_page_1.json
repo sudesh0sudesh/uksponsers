@@ -5082,6 +5082,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "786 DUNDEE LIMITED",
+    "town_city": "DUNDEE",
+    "county": "Angus",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "786 foods distribution limited",
     "town_city": "walsal Birmingham",
     "county": "",
@@ -8338,7 +8345,7 @@
   },
   {
     "organisation_name": "A&amp;S FOOD AND DRINK LTD",
-    "town_city": "London",
+    "town_city": "worthing",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -28989,6 +28996,13 @@
   {
     "organisation_name": "Agreena Technology Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AgReserves, Ltd.",
+    "town_city": "Cambridgeshire",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -52122,6 +52136,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Angalamman Periasamy Services Limited",
+    "town_city": "Bradford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Angara UK, Ltd",
     "town_city": "London",
     "county": "",
@@ -63056,13 +63077,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Ariftuli Ltd Trading as Tamannas",
-    "town_city": "Ashford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Arigato Sushi and Ramen",
     "town_city": "DUNFERMLINE",
     "county": "UK United Kingdom",
@@ -63402,13 +63416,6 @@
     "organisation_name": "ARIYAN HEALTHCARE LIMITED",
     "town_city": "Leicester",
     "county": "Leicestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ARIZONA GRILL LTD",
-    "town_city": "Bradford",
-    "county": "Bradford",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -66013,6 +66020,13 @@
     "organisation_name": "Artellite Ltd",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Artemis Consultants Limited",
+    "town_city": "Litlington",
+    "county": "Royston",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69982,20 +69996,6 @@
     "organisation_name": "Ashton Healthcare Group Ltd",
     "town_city": "Haywards Heath",
     "county": "West Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashton Lodge Limited",
-    "town_city": "Surrey",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashton Manor Care Home Ltd",
-    "town_city": "Farnham",
-    "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

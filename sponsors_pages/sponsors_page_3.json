@@ -1,5 +1,47 @@
 [
   {
+    "organisation_name": "CAFE&#x27; ZEERA LIMITED",
+    "town_city": "Leighton Buzzard",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe13 Ltd",
+    "town_city": "Bathgate",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafepoint LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFER EROL LONDON LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFETREATZ FELTHAM LTD",
+    "town_city": "Feltham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFETREATZ WOKING LTD",
+    "town_city": "Woking",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CAFFE ATTLAS LTD",
     "town_city": "London",
     "county": "",
@@ -717,6 +759,13 @@
     "organisation_name": "Calder High School",
     "town_city": "Hebden Bridge",
     "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Caldera Heat Batteries Limited",
+    "town_city": "Hants",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -19974,6 +20023,13 @@
     "organisation_name": "ChangeGroup",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Changeology Group Ltd",
+    "town_city": "Glasgow",
+    "county": "Scotland",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -45087,6 +45143,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Compound Digital Technologies Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Compound Semiconductor Applications Catapult Ltd",
     "town_city": "Newport",
     "county": "",
@@ -46210,6 +46273,13 @@
     "organisation_name": "CONE MARSHALL SERVICES (UK) LTD",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CONECTERE CONSULTING LIMITED",
+    "town_city": "ROMFORD",
+    "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -65639,6 +65709,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "D3Collective Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "D3R Ltd",
     "town_city": "Chichester",
     "county": "West Sussex",
@@ -67096,7 +67173,7 @@
   },
   {
     "organisation_name": "Dalkia Energy Services Ltd",
-    "town_city": "Middlesex",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69921,82 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datamine International Ltd",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datamine International Ltd",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Dataminr UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dataminr UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DATAPARE LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datapharm Ltd",
-    "town_city": "Leatherhead",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DataProv Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datar Cancer Genetics UK Private Limited",
-    "town_city": "Guildford",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datar Cancer Genetics UK Private Limited",
-    "town_city": "Guildford",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DataRobot UK LTD",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DataRobot UK LTD",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
