@@ -6986,6 +6986,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A LAKHANI STORE",
+    "town_city": "Bradford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A LINE GEMMS &amp; LOCAL PRIVATE HIRE LIMITED",
     "town_city": "Nelson",
     "county": "",
@@ -7266,7 +7273,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "A PERSONAL MOBILE LTD",
+    "organisation_name": "A Personal Mobile Ltd",
     "town_city": "Nottingham",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -31689,6 +31696,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Airflow Developments Ltd",
+    "town_city": "High Wycombe",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AIRGUARD ENVIROCARE LIMITED",
     "town_city": "Wolverhampton",
     "county": "",
@@ -50022,6 +50036,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AMT Lawyers Limited",
+    "town_city": "Blackburn",
+    "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Amtal Limited",
     "town_city": "Slough",
     "county": "",
@@ -68327,6 +68348,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Asdala Ltd",
+    "town_city": "Weston-super-Mare",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ASDB Ltd",
     "town_city": "Croydon",
     "county": "",
@@ -68378,6 +68406,13 @@
   {
     "organisation_name": "Asean Limited t/a E &amp; O Restaurant",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ASECCA Limited",
+    "town_city": "Morecambe",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69961,41 +69996,6 @@
     "organisation_name": "Ashton Coopers &amp; Co Ltd",
     "town_city": "Ilford",
     "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashton Court Group Limited",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashton Cricket Club",
-    "town_city": "Ashton Under Lyne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Ashton Fire Limited",
-    "town_city": "Bicester",
-    "county": "Oxfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashton Gate Limited T/A Ashton Gate Stadium",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashton Healthcare Group Ltd",
-    "town_city": "Haywards Heath",
-    "county": "West Sussex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

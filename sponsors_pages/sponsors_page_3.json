@@ -1,5 +1,96 @@
 [
   {
+    "organisation_name": "Cafe Piccante Limited",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Plum Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Revive Limited",
+    "town_city": "Milton Keynes",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE RONAQ LIMITED",
+    "town_city": "Edinburgh",
+    "county": "Scotland",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Route Ltd t/a Route Catering",
+    "town_city": "Tottenham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Royal Management Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Royal Management Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Cafe Salford ltd",
+    "town_city": " Redhill",
+    "county": " Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Sia Limited",
+    "town_city": "Broadford",
+    "county": "Inverneshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Spice (Oxford) Ltd",
+    "town_city": "Oxford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE SPICE NEW LTD",
+    "town_city": "Heaton, Newcastle",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE SWEET LTD T/D as CAFE SWEET",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE TAJ WIGTON DELI LIMITED",
+    "town_city": "Maryport",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CAFE&#x27; ZEERA LIMITED",
     "town_city": "Leighton Buzzard",
     "county": "",
@@ -9458,22 +9549,22 @@
   },
   {
     "organisation_name": "Cargill PLC",
-    "town_city": "Weybridge",
-    "county": "Surrey",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Cargill PLC",
-    "town_city": "Weybridge",
-    "county": "Surrey",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Cargill PLC",
-    "town_city": "Weybridge",
-    "county": "Surrey",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Global Business Mobility: Graduate Trainee"
   },
@@ -10901,6 +10992,13 @@
   {
     "organisation_name": "CARS SPOT LIMITED",
     "town_city": "Ilford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cars4you Ltd",
+    "town_city": "Broxburn",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -21304,6 +21402,13 @@
     "organisation_name": "Charlton Brown Architects Limited",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Charlton Hill Surgery J82025",
+    "town_city": "Andover",
+    "county": "Hampshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -53522,6 +53627,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "County Cabs Limited",
+    "town_city": "Woking",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "County Care Berkshire Ltd",
     "town_city": "Windsor",
     "county": "Berkshire",
@@ -54442,6 +54554,13 @@
     "organisation_name": "Coward Pharmacy Limited",
     "town_city": "Barrow In Furness",
     "county": "Cumbria",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cowater UK Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69877,125 +69996,6 @@
     "organisation_name": "Datagraphic Limited",
     "town_city": "RUGBY",
     "county": "Warwickshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datagum Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dataiku Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dataiku Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Datalec Power Installations Limited",
-    "town_city": "Buntingford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datalex Solutions(UK) LTD",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datalineage Consulting Limited",
-    "town_city": "Cardiff",
-    "county": "Mid Glamorgan",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datamaran Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datamatics Infotech Limited",
-    "town_city": "Slough",
-    "county": "Berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datamatics Infotech Limited",
-    "town_city": "Slough",
-    "county": "Berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Datamato Technologies Limited",
-    "town_city": "Greater London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datamato Technologies Limited",
-    "town_city": "Greater London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DataMC UK Ltd",
-    "town_city": "Wakefield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datamellon Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datametica UK Limited",
-    "town_city": "London,",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datametica UK Limited",
-    "town_city": "London,",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Datametric IT Solutions Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATAMINE DIGITAL LIMITED",
-    "town_city": "Preston",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
