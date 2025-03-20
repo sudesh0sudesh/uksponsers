@@ -1,5 +1,173 @@
 [
   {
+    "organisation_name": "CAFE EXPRESSO MK LIMITED",
+    "town_city": "MILTON KEYNES",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Fisherton Ltd T/A Culture Coffee",
+    "town_city": "Salisbury",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Form Ltd T/A The Highlander Inn",
+    "town_city": "Craigellachie",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE GAZETTE LIMITED",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE GRILL ROYTON LTD",
+    "town_city": "Royton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE GRILL ST ALBANS LTD T/A Cafe Grill",
+    "town_city": "Hertfordshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Grove Park",
+    "town_city": "Chiswick, London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe G",
+    "town_city": "Derbyshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe India (North East) Ltd",
+    "town_city": "South Shields",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Jarista Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Locco Ltd",
+    "town_city": "Coventry",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE LOUNGE KENT LTD",
+    "town_city": "Meopham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE MACCHIATO (ALDERSHOT) LTD",
+    "town_city": "ALDERSHOT",
+    "county": "HAMPSHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Maestro Pizzaiolo Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Mauds LTD",
+    "town_city": "BELFAST",
+    "county": "co. antrim",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE MIRAJ LTD",
+    "town_city": "Luton",
+    "county": " Bedfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE MIRO LIMITED",
+    "town_city": "EDINBURGH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Mocha D",
+    "town_city": "Shepperton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE MOROCCO LTD T/A CREAMS CAFE",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE MULTA LTD t/a Black Gold",
+    "town_city": "CHELTENHAM",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Nar Ltd t/a Amber",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE ON THE CORNER NW LTD",
+    "town_city": "Knutsford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe OTO Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe OTO Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
     "organisation_name": "Cafe Piccante Limited",
     "town_city": "Edinburgh",
     "county": "",
@@ -3741,6 +3909,13 @@
     "organisation_name": "Canaryford Ltd",
     "town_city": "Benfleet",
     "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CANBURY INSIGHTS LIMITED",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -8004,6 +8179,13 @@
     "organisation_name": "Care Just 4U Limited",
     "town_city": "Harlow",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Care Legacy Ltd",
+    "town_city": "LANCASTER",
+    "county": "North Yorkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -19197,6 +19379,13 @@
     "organisation_name": "Chahana Limited",
     "town_city": "Grantham",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Chai Chat Limited",
+    "town_city": "West Bromwich",
+    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -37016,6 +37205,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Clockhouse Dental",
+    "town_city": "York",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CLOCKHOUSE FURNITURE LIMITED",
     "town_city": "NORTH BERWICK",
     "county": "EAST LOTHIAN",
@@ -47656,13 +47852,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Consilium Strategic Communications Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Consilium",
     "town_city": "London",
     "county": "",
@@ -51376,6 +51565,13 @@
     "organisation_name": "Cornerstone Evangelical Church",
     "town_city": "Nottingham",
     "county": "Nottinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cornerstone Family Practice",
+    "town_city": "Manchester",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -58716,6 +58912,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CROOKSTON COMMUNITY GROUP (SCIO Registered)",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
     "organisation_name": "Crookston Community Group",
     "town_city": "GLASGOW",
     "county": "LANARKSHIRE",
@@ -64116,6 +64319,13 @@
     "organisation_name": "Cyberlens Ltd",
     "town_city": "Old Harlow",
     "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CYBERLIVER LIMITED",
+    "town_city": "Manchester",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69786,216 +69996,6 @@
     "organisation_name": "Data Solutionz Limited",
     "town_city": "Milton Keynes",
     "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Spartan Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Superstore (MCR) Ltd",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Technology Limited",
-    "town_city": "Rickmansworth",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Theorem Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Data Theorem Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATA TRANS TECHNOLOGIES LIMITED",
-    "town_city": "HOUNSLOW",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Trek Technologies Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATA TRIALS SOLUTIONS LTD",
-    "town_city": "Milton Keynes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Vity Innovations T/A The Data City",
-    "town_city": "Ilkely",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Yield Limited",
-    "town_city": "Olney",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATA2020 LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DataArt Technologies UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Databarracks Ltd",
-    "town_city": "London",
-    "county": "Greater London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Databook Labs UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Databricks UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Databricks UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Databuzz Ltd",
-    "town_city": "Slough",
-    "county": "Berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datachoice Solutions Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATACO INTERNATIONAL UK LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DATACO INTERNATIONAL UK LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datactics",
-    "town_city": "BELFAST",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datadog Ireland Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datadog Ireland Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Dataflight Solutions Ltd",
-    "town_city": "Abingdon",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dataflow Events Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATAFORM LAB LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DataGardener Solutions Limited",
-    "town_city": "Eastleigh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATAGENE LIMITED",
-    "town_city": "Bishop&#x27;s Stortford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datagoat Limited",
-    "town_city": "Guildford",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Datagraphic Limited",
-    "town_city": "RUGBY",
-    "county": "Warwickshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
