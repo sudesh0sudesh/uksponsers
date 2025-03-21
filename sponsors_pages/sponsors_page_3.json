@@ -1,5 +1,68 @@
 [
   {
+    "organisation_name": "CAFE DANIEL LTD (Trading as Abu Daniel Shisha Cafe)",
+    "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe De Nata Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE DE TRIV LTD",
+    "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Deccan Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE DIEST LTD",
+    "town_city": "Surrey",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Diwali Limited T/A Cafe Diwali",
+    "town_city": "Salisbury",
+    "county": "Wiltshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE&#x27; D&#x27;ORO LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe East Oldham Ltd",
+    "town_city": "Oldham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Edinburgh",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CAFE EXPRESSO MK LIMITED",
     "town_city": "MILTON KEYNES",
     "county": "",
@@ -51,6 +114,13 @@
   {
     "organisation_name": "Cafe G",
     "town_city": "Derbyshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE INDIA (NORTH ) LTD",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -4935,6 +5005,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Cap Clean Ltd",
+    "town_city": "Woodford Green",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Cap Coder Limited",
     "town_city": "Chalgrove",
     "county": "",
@@ -8730,7 +8807,7 @@
   },
   {
     "organisation_name": "CARE VISION CMS (UK) LTD",
-    "town_city": "LONDON",
+    "town_city": "BROMLEY",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -20405,13 +20482,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Channel Capital Advisors LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Channel Digital Holdings Limited",
     "town_city": "London",
     "county": "",
@@ -25011,6 +25081,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Chichester Specsavers Hearcare Limited",
+    "town_city": "Chichester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Chichester Visionplus Ltd T/A Specsavers Opticians",
     "town_city": "Chichester",
     "county": "West Sussex",
@@ -27428,6 +27505,13 @@
   {
     "organisation_name": "Choices Home for Children Limited",
     "town_city": "Cheadle",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Choices Homecare (Merseyside) Limited",
+    "town_city": "Barnsley",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69914,89 +69998,5 @@
     "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Data Interconnect Ltd",
-    "town_city": "Watchfield",
-    "county": "Oxon",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Kraken Consultancy Ltd",
-    "town_city": "Oxford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data OPS Limited",
-    "town_city": "Radlett",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Physics (UK) Ltd",
-    "town_city": "Hailsham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Privacy Simplified Ltd",
-    "town_city": "Bedford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Protection People Limited",
-    "town_city": "Leeds",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Saint Limited",
-    "town_city": "Crewe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Science Central UK Ltd.",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Science Central UK Ltd.",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DATA SIP LIMITED",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Socket Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Solutionz Limited",
-    "town_city": "Milton Keynes",
-    "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]

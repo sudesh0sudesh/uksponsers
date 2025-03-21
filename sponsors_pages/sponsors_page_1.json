@@ -4011,6 +4011,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "4Eden",
+    "town_city": "Penrith",
+    "county": "Cumbria",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "4Ever Care UK Ltd",
     "town_city": "Blackburn",
     "county": "",
@@ -65781,13 +65788,6 @@
   {
     "organisation_name": "ARSLAN BARBER LIMITED",
     "town_city": "NOTTINGHAM",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Arslan Fish LTD T/A Sams Fish Bar",
-    "town_city": "Haywards Heath",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
