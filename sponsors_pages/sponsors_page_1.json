@@ -6678,6 +6678,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A G &amp; SONS (UK) LTD",
+    "town_city": "HARROW",
+    "county": "MIDDLESEX",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A G Supply Solutions Ltd",
     "town_city": "London",
     "county": "",
@@ -13552,6 +13559,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Abbyy UK LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ABC Builder (Aiub Building Construction)",
     "town_city": "Oldham",
     "county": "Greater Manchester",
@@ -15771,6 +15785,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Absolute Cad Designs Ltd",
+    "town_city": "Oldbury",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Absolute Care Services Ltd",
     "town_city": "West Wickham",
     "county": "",
@@ -16179,6 +16200,13 @@
   {
     "organisation_name": "AC Security Solutions Ltd",
     "town_city": "Chessington North",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AC Solarcapes UK Ltd",
+    "town_city": "Walthamstow, London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -29146,6 +29174,13 @@
     "county": "Herefordshire",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Seasonal Worker"
+  },
+  {
+    "organisation_name": "Agrimetrics Ltd",
+    "town_city": "Reading",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "AgriSound Limited",
@@ -44814,6 +44849,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AlTi Wealth Management (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Altilium Metals LTD",
     "town_city": "Plymouth",
     "county": "Devon",
@@ -46643,6 +46685,13 @@
   {
     "organisation_name": "Amaxa Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Amaya Care Homes (Capel) Ltd",
+    "town_city": "Newport",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -49756,6 +49805,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Amplified Global",
+    "town_city": "Hove",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Amplifon Limited",
     "town_city": "Manchester",
     "county": "",
@@ -50801,6 +50857,13 @@
   {
     "organisation_name": "ANAM BAKSH LTD",
     "town_city": "BLACKBURN",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Anam Engineering LTD",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -58670,6 +58733,13 @@
     "organisation_name": "Approved Air Limited",
     "town_city": "Rooksbridge",
     "county": "Somerset",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Approved Energy Ltd",
+    "town_city": "Telford, England",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69265,6 +69335,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ashdown Care Homes Limited",
+    "town_city": "Ponteland",
+    "county": "Northumberland",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ashdown House Care Home",
     "town_city": "Daventry",
     "county": "Northamptonshire",
@@ -69918,83 +69995,6 @@
   {
     "organisation_name": "Ashoka Hersham Ltd T/A Cinnamon Indian Restaurant",
     "town_city": "Surrey",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHOKA LONDON LIMITED",
-    "town_city": " London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHOKA LONDON LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHOKA RESTAURANT",
-    "town_city": "GLASGOW",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashoka UK",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashovi &amp; Regsiv UK Ltd",
-    "town_city": "Brighton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashraf and Co Chartered Certified Accountants",
-    "town_city": "Sheffield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashraf Properties Limited",
-    "town_city": "Arbroath",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHRAFI FOODS UK LTD",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashrafi Gul Limited T/A Fresh N Fast",
-    "town_city": "PRESTON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashrana Limited",
-    "town_city": "Colchester",
-    "county": "Essxe",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashray Care Services Ltd TA SureCare Leicester",
-    "town_city": "Leicester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

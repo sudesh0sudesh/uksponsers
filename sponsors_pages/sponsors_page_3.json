@@ -1,5 +1,124 @@
 [
   {
+    "organisation_name": "Caesars At The Minister LTD T/A Caesars",
+    "town_city": "York",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Caesars Trading and Technology Services Limited",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Caesars Trading and Technology Services Limited",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Caesigma Solutions UK Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAESR Group Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAETOP COLLEGE LONDON LTD",
+    "town_city": "Ilford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAF Rail UK Limited",
+    "town_city": "Belfast",
+    "county": "Northern Ireland",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAF Rail UK Limited",
+    "town_city": "Belfast",
+    "county": "Northern Ireland",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Cafe Aroma",
+    "town_city": "Southampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE AYLANTO LIMITED",
+    "town_city": "Rochdale",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE BOATS LIMITED",
+    "town_city": "Gloucester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Brew Hut Limited trading as Cafe Brew Hut",
+    "town_city": "Slough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Central Park",
+    "town_city": "Middlesbrough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Chat Ltd",
+    "town_city": "SWINDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Cafe Chutney&#x27;s",
+    "town_city": "Warwickshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE COCO LTD",
+    "town_city": "OXFORD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CAFE COFFEA LTD",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CAFE DANIEL LTD (Trading as Abu Daniel Shisha Cafe)",
     "town_city": "Leicester",
     "county": "",
@@ -8415,7 +8534,7 @@
   },
   {
     "organisation_name": "Care Perfect Ltd",
-    "town_city": "Stoke-on-Trent",
+    "town_city": "Stoke on Trent",
     "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -9096,6 +9215,13 @@
     "organisation_name": "CARECALL SERVICES LIMITED",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CareCo UK Ltd",
+    "town_city": "Braintree",
+    "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -19278,6 +19404,13 @@
     "route": "Tier 2 Ministers of Religion"
   },
   {
+    "organisation_name": "Chabad Lubavitch UK",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
     "organisation_name": "Chabad NE London and Essex",
     "town_city": "Gants Hill",
     "county": "Essex",
@@ -19615,7 +19748,7 @@
   },
   {
     "organisation_name": "ChainThat Limited",
-    "town_city": "Richmond",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -26117,6 +26250,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CHIMSONS LIMITED",
+    "town_city": "RUISLIP MANOR",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "China Airlines Ltd",
     "town_city": "London",
     "county": "London",
@@ -28091,6 +28231,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Christ Apostolic Church Canaan Land Birmingham",
+    "town_city": "Birmingham",
+    "county": "West Midlands",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
     "organisation_name": "Christ Apostolic Church Canaanland (Love Assembly)",
     "town_city": "Dagenham",
     "county": "Essex",
@@ -29881,6 +30028,13 @@
     "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Churchcentral Trust",
+    "town_city": "Birmingham",
+    "county": "West Midlands",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
   },
   {
     "organisation_name": "Churcher&#x27;s College",
@@ -42267,15 +42421,15 @@
   },
   {
     "organisation_name": "Collicare Logistics Limited",
-    "town_city": "Belvedere",
-    "county": "Kent",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Collicare Logistics Limited",
-    "town_city": "Belvedere",
-    "county": "Kent",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -42451,6 +42605,13 @@
     "organisation_name": "Colmers School and Sixth Form",
     "town_city": "Birmingham",
     "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Colnaghi UK Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -54509,6 +54670,13 @@
     "route": "Creative Worker"
   },
   {
+    "organisation_name": "Coventry Chemicals Limited",
+    "town_city": "Coventry",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Coventry City Council",
     "town_city": "Coventry",
     "county": "West Midlands",
@@ -59711,8 +59879,8 @@
   },
   {
     "organisation_name": "Crown Agents Bank Ltd",
-    "town_city": "Sutton",
-    "county": "Surrey",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69830,173 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DAT 2000 Ltd ( T/A EliteAutocare )",
-    "town_city": "Rainham",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dat Healthcare Ltd",
-    "town_city": "Bristol",
-    "county": "Bristol",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATA ANALYTICS &amp; VISUALISATION LIMITED",
-    "town_city": "Rickmansworth",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data and Marketing Association Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Center Erith Limited",
-    "town_city": "Erith",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Center Erith Limited",
-    "town_city": "Erith",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Data Centre Dynamics Limited",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Centre Dynamics Limited",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Data Clarity Limited",
-    "town_city": "Derby",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Cloud Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Connect Solutions Ltd",
-    "town_city": "Reading",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Conversion Systems Limited",
-    "town_city": "Swavesey",
-    "county": "Cambridgeshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Cubed Limited",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Design Solutions Limited",
-    "town_city": "Iver",
-    "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATA ENERGY MANAGEMENT SERVICES LIMITED",
-    "town_city": "Hertfordshire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Engineering Project Limited",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DATA FIDELITY PVT LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data HQ Ltd",
-    "town_city": "Chelmsford",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Impact Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Impact Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Data Inc UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Intelligance Services Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Intensity Limited",
-    "town_city": "Chelmsford",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Data Intensity Limited",
-    "town_city": "Chelmsford",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
