@@ -1232,6 +1232,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "1ST CHOICE CABS LTD",
+    "town_city": "ILFORD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "1ST CHOICE CONSULTANCY LTD",
     "town_city": "Birmingham",
     "county": "",
@@ -4167,6 +4174,13 @@
   {
     "organisation_name": "4PS Construction Solutions Limited",
     "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "4Q HEALTHCARE LTD",
+    "town_city": "STOCKTON-ON-TEES",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -8114,6 +8128,13 @@
   },
   {
     "organisation_name": "A&amp;J PROPERTY &amp; ANIMATION LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A&amp;J School Limited",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -20125,6 +20146,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ACTIVE CARE ORGANISATION LIMITED",
+    "town_city": "Northampton",
+    "county": "",
+    "type_rating": "Worker (B rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Active Care Plus Ltd",
     "town_city": "Rotherham",
     "county": "",
@@ -29456,7 +29484,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "A-H ROSE LTD",
+    "organisation_name": "A-H Rose Ltd",
     "town_city": "Watford",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -36914,6 +36942,13 @@
     "organisation_name": "Alchemab Therapeutics Limited",
     "town_city": "Cambridge",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alchemas Management Limited",
+    "town_city": "Southampton",
+    "county": "Hampshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -44597,6 +44632,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALTECHNOLOGYCONSULTING",
+    "town_city": "SWINDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alteco Consulting Ltd",
     "town_city": "London",
     "county": "",
@@ -45239,13 +45281,6 @@
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Charity Worker"
-  },
-  {
-    "organisation_name": "Alu-Fix Facades Ltd  - Registered Office",
-    "town_city": "Liverpool",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Alufix labour ltd",
@@ -53529,13 +53564,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Angular Directions Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Angus Burgers Ltd",
     "town_city": "London",
     "county": "",
@@ -60985,6 +61013,13 @@
   },
   {
     "organisation_name": "ARC Ratings",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Arc Simulations Ltd",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -69963,40 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Ashmount Services Ltd",
-    "town_city": "Newtown Linford",
-    "county": "Leicestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHNA KEBAB LIMITED",
-    "town_city": "Leicester,",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashni Global Ltd",
-    "town_city": "Ilford, Essex",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHOKA CUISINE LTD.",
-    "town_city": "Chesterfield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashoka Hersham Ltd T/A Cinnamon Indian Restaurant",
-    "town_city": "Surrey",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]
