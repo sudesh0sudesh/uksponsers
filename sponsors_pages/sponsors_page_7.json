@@ -1,5 +1,131 @@
 [
   {
+    "organisation_name": "Jumio UK Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JUMMA CATERING LTD, T/A JUBORAJ",
+    "town_city": "BRISTOL",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JUMO Europe Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JUMO Europe Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Jump 2 Independence Ltd",
+    "town_city": "Stoke-on-Trent",
+    "county": "Staffordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Jump Health Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Jump Start Centre Limited",
+    "town_city": "Witham",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Jump Trading International Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Jump Trading International Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "JUMPSEC Limited",
+    "town_city": "Acton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Jun Sky Tara Ltd",
+    "town_city": "Camberley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JUN&amp;KEY LTD",
+    "town_city": "Dartford",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JUNA HEALTH LIMITED",
+    "town_city": "London,",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JUNAID TRAVEL LONDON LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Junair Spraybooths Ltd",
+    "town_city": "Heywood",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JUNCTION 11 MOTORS LTD",
+    "town_city": "WOLVERHAMPTON",
+    "county": "WEST MIDLANDS",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Junction B Ltd",
+    "town_city": "Harold Wood",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Junction CDC Ltd",
+    "town_city": "Cambridge, Cambridgeshire",
+    "county": "Cambridgeshire",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
     "organisation_name": "JUNCTION GADGET LTD",
     "town_city": "London",
     "county": "",
@@ -9455,6 +9581,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "KELLTRON CONSULTING SERVICES UK LTD",
+    "town_city": "AYLESBURY",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "KELLTRON CONSULTING SERVICES UK LTD",
@@ -21693,6 +21826,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Komputer Consultancy Services Ltd",
+    "town_city": "Chesham",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "KOMRUN LIMITED",
     "town_city": "Nuneaton",
     "county": "",
@@ -25704,6 +25844,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Kultur Vibes Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
     "organisation_name": "Kulwant Kaur T/as Alvar Karting and Laser Centre",
     "town_city": "Willenhall",
     "county": "",
@@ -26517,8 +26664,8 @@
   },
   {
     "organisation_name": "KWIK MOVE CONSULTANCY LTD",
-    "town_city": "Harrow, England",
-    "county": "",
+    "town_city": "Uxbridge",
+    "county": "London",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -31293,6 +31440,13 @@
     "organisation_name": "Langland Care Limited",
     "town_city": "Swansea",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Langland Dental Practice",
+    "town_city": "Dudley",
+    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -48580,6 +48734,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Locus ME UK Ltd",
+    "town_city": "West Malling",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "LOCUS MILKSHAKE CORNER LTD T/A KASPAS DESSERTS ILFORD",
     "town_city": "Ilford",
     "county": "",
@@ -56275,6 +56436,13 @@
   {
     "organisation_name": "Lucerna Wealth Management",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Luchi Healthcare Limited",
+    "town_city": "Walthamstoe",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69827,174 +69995,6 @@
   {
     "organisation_name": "Mangera Yvars Architects LTD",
     "town_city": "london",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANGIA E BEVI LTD",
-    "town_city": "Luton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mangiare Limited",
-    "town_city": "Newmarket",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mangla Jeweller Limited",
-    "town_city": "Bradford",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mangla motors",
-    "town_city": "Bradford",
-    "county": "West yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mango Fly Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mango House LTD t/a Mango House",
-    "town_city": "Caldicot",
-    "county": "Gwent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mango lounge windsor",
-    "town_city": "windsor",
-    "county": "berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mango Marketing and Events Limited",
-    "town_city": "Wembley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANGO OXFORD ST",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANGO PHARMACY LTD",
-    "town_city": "COWLEY, MIDDLESEX",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mango Solutions Recruitment Group Ltd",
-    "town_city": "Romford",
-    "county": "Greater London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANGO TRUCKING LTD",
-    "town_city": "Dunstable",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mango Vegetarian Limited",
-    "town_city": "Leeds",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MangofoneLimited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mangoo Studios",
-    "town_city": "Leighton Buzzard",
-    "county": "Bedfordshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Mangopay U.K. Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANGOPHARM LTD T/A GREENCROSS PHARMACY",
-    "town_city": "EDMONTON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANGOSTEEN SOUTHSEA LTD",
-    "town_city": "Southsea",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mango-t Ltd",
-    "town_city": "Norwich",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mangrove Global Ltd",
-    "town_city": "Woodford Green",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANGUARD LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANGUDI LIMITED",
-    "town_city": "Brighton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MANHA FOODS LIMITED",
-    "town_city": "Milton Keynes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Manha Spice House Ltd",
-    "town_city": "Redruth",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
