@@ -917,6 +917,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "1771 Technologies Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "178 PARK VIEW LIMITED",
     "town_city": "ORPINGTON",
     "county": "KENT",
@@ -10038,6 +10045,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A4 RETAIL LIMITED T/A Braes Of Kirriemuir",
+    "town_city": "Kirriemuir",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A4 Supermarket Ltd",
     "town_city": "Mitcham",
     "county": "Surrey",
@@ -10073,7 +10087,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "A50 Ltd",
+    "organisation_name": "A5O Ltd",
     "town_city": "Registered Manager",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -48153,6 +48167,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AMEREIDA LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ameresco Limited",
     "town_city": "Guildford",
     "county": "",
@@ -63505,14 +63526,14 @@
   },
   {
     "organisation_name": "Ariens Company Ltd",
-    "town_city": "Great Haseley",
+    "town_city": "Chalgrove",
     "county": "Oxfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Ariens Company Ltd",
-    "town_city": "Great Haseley",
+    "town_city": "Chalgrove",
     "county": "Oxfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -69975,27 +69996,6 @@
     "organisation_name": "ASHIQ PROPERTY LTD",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashirwaad Sweets Ltd",
-    "town_city": "Walsall",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashish Bhutani t/as Omphysio",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashish Godara and Archana Sabhlok Godara",
-    "town_city": "Bath",
-    "county": "Bath and North East Somerset",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

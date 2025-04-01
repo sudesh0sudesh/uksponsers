@@ -1,5 +1,68 @@
 [
   {
+    "organisation_name": "Darnall Supplies Ltd",
+    "town_city": "Sheffield",
+    "county": "South Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Darnley Fisheries",
+    "town_city": "Wakefield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DarntonB3 Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daroco Soho Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daron Family Shopper",
+    "town_city": "Port Talbot",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Darren Evans Ltd",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Darren McMurran &amp; Stewart McMurran",
+    "town_city": "Banbridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Darrenn Group Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Darrens Family Ltd",
+    "town_city": "Wellingborough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Darroch Learg Hotel",
     "town_city": "Ballater",
     "county": "Aberdeenshire",
@@ -6951,6 +7014,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Deltashor Limited",
+    "town_city": "Purfleet",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Delta-T Devices Ltd",
     "town_city": "Burwell",
     "county": "Cambridgeshire",
@@ -12267,6 +12337,13 @@
     "organisation_name": "Dhanshiri &amp; (GB) Ltd T/A Dhanshiri",
     "town_city": "Essex",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DHANYA LOGISTICS LIMITED",
+    "town_city": "Wembley",
+    "county": "Middlesex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -23695,6 +23772,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DR Maritime Assets Ltd",
+    "town_city": "Kilkeel",
+    "county": "Co Down",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dr Matla Medical Aesthetics",
     "town_city": "Newcastle upon Tyne",
     "county": "",
@@ -33448,13 +33532,6 @@
   {
     "organisation_name": "Eastman solicitors and Notary",
     "town_city": "East Ham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EASTMAN WAY MOT CENTRE LIMITED",
-    "town_city": "Edgware",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -44178,7 +44255,7 @@
   },
   {
     "organisation_name": "Elite Tech Ltd",
-    "town_city": "Iver",
+    "town_city": "High Wycombe",
     "county": "Bucks",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -55202,6 +55279,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Esferize UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Esferize UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ESG Book",
     "town_city": "London",
     "county": "",
@@ -62314,6 +62405,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "EXACON CONSTRUCTIONS LIMITED",
+    "town_city": "Chelmsford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Exact CNC (NI) Ltd",
     "town_city": "Newry",
     "county": "Co Down",
@@ -66549,6 +66647,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Fab4 Security Ltd",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Fabacus Services Limited",
     "town_city": "London",
     "county": "",
@@ -69893,110 +69998,5 @@
     "county": "",
     "type_rating": "Worker (UK Expansion Worker: Provisional)",
     "route": "Global Business Mobility: UK Expansion Worker"
-  },
-  {
-    "organisation_name": "FANTOX LTD",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FANYOU ENTERPRISE MANAGEMENT CONSULTING (UK) CO., LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Far East and West Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FAR EAST FACADE (UK) LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FAR EAST FACADE (UK) LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Far East Holdings Ltd T/A KOYN",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Far Fillimore Care Homes Ltd",
-    "town_city": "Burton-on-Trent",
-    "county": "Staffordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fara Healthcare Ltd",
-    "town_city": "Ely",
-    "county": "Cambridgeshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FARA SERVICES LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Farad.ai",
-    "town_city": "Oxford",
-    "county": "United Kingdom",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Faraday Battery",
-    "town_city": " Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Faraday Partners LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Faradion Limited",
-    "town_city": "Sheffield",
-    "county": "Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Farah Chemists Limited",
-    "town_city": "Newcastle upon Tyne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Farah Fashion Boutique",
-    "town_city": "Rochdale",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]

@@ -1,5 +1,110 @@
 [
   {
+    "organisation_name": "FANTOX LTD",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FANYOU ENTERPRISE MANAGEMENT CONSULTING (UK) CO., LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Far East and West Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FAR EAST FACADE (UK) LIMITED",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FAR EAST FACADE (UK) LIMITED",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Far East Holdings Ltd T/A KOYN",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Far Fillimore Care Homes Ltd",
+    "town_city": "Burton-on-Trent",
+    "county": "Staffordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Fara Healthcare Ltd",
+    "town_city": "Ely",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FARA SERVICES LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Farad.ai",
+    "town_city": "Oxford",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faraday Battery",
+    "town_city": " Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faraday Partners LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faradion Limited",
+    "town_city": "Sheffield",
+    "county": "Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Farah Chemists Limited",
+    "town_city": "Newcastle upon Tyne",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Farah Fashion Boutique",
+    "town_city": "Rochdale",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Farah Naz T/a Unique Hair &amp; Beauty",
     "town_city": "Huddersfield",
     "county": "",
@@ -5650,8 +5755,8 @@
   },
   {
     "organisation_name": "Fime Services UK Limited",
-    "town_city": "Basingstoke",
-    "county": "Hampshire",
+    "town_city": "Guildford",
+    "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -10542,13 +10647,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "FLAMES KEBAB TASTY LIMITED",
-    "town_city": "Essex",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Flamin&#x27; Patties Limited",
     "town_city": "Birmingham",
     "county": "West Midlands",
@@ -10853,6 +10951,13 @@
     "organisation_name": "Flavors of India Ltd",
     "town_city": "Hounslow",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Flavour Enterprises Ltd",
+    "town_city": "Wickham",
+    "county": "Hampshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -15939,6 +16044,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Forge Valley Roasters Limited",
+    "town_city": "East Ayton",
+    "county": "North Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Forgeco Ltd",
     "town_city": "Wolverhampton",
     "county": "",
@@ -20182,6 +20294,13 @@
   },
   {
     "organisation_name": "Freedom Fibre Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Freedom Fibre Ltd",
     "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -32739,6 +32858,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "General All Purpose Plastics Ltd",
+    "town_city": "Blackburn",
+    "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "General Assembly Space Limited",
     "town_city": "London",
     "county": "",
@@ -37683,7 +37809,7 @@
   {
     "organisation_name": "Girik Consultancy Ltd",
     "town_city": "High Wycombe",
-    "county": "",
+    "county": "Bucks",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -49497,6 +49623,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Grace of Mercy Prayer Mountain",
+    "town_city": "Dagenham",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Grace of Mercy Prayer Mountain",
+    "town_city": "Dagenham",
+    "county": "London",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
     "organisation_name": "Grace Recycling (MCR) Ltd",
     "town_city": "Bacup",
     "county": "",
@@ -55142,13 +55282,6 @@
     "organisation_name": "Gresham&#x27;s School",
     "town_city": "Holt",
     "county": "Norfolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Gretagrove Ltd",
-    "town_city": "Leicester",
-    "county": "Leicestershire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69104,6 +69237,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Harley Mind Care Psychiatrists Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Harley Street Concierge Ltd",
     "town_city": "Hampshire",
     "county": "",
@@ -69713,6 +69853,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Harper Macleod LLP",
+    "town_city": "GLASGOW",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Harper Medical Limited",
     "town_city": "London",
     "county": "",
@@ -69849,153 +69996,6 @@
     "organisation_name": "Harris Academy Falconwood",
     "town_city": "Welling",
     "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Academy Greenwich",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HARRIS ACADEMY MERTON",
-    "town_city": "MITCHAM",
-    "county": "SURREY",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Academy Ockendon",
-    "town_city": "South Ockendon",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Academy Rainham",
-    "town_city": "Rainham",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Academy South Norwood",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HARRIS CHEMISTS LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris City Academy Crystal Palace",
-    "town_city": "Crystal Palace",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Federation",
-    "town_city": "Croydon",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HARRIS GIRLS ACADEMY EAST DULWICH",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Health Limited T/A Bluebird care",
-    "town_city": "Pontypool",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Pye Power Services Ltd",
-    "town_city": "Llandow",
-    "county": "Vale of Glamorgan",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Harris Pye UK Ltd",
-    "town_city": "Llandow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Security Services",
-    "town_city": "Barking",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Systems Limited",
-    "town_city": "Wokingham",
-    "county": "Berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Systems Limited",
-    "town_city": "Wokingham",
-    "county": "Berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Harris Williams &amp; Co. Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harris Williams &amp; Co. Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Harrison Clark Rickerbys Limited",
-    "town_city": "Worcester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harrison Eidsgaard Ltd",
-    "town_city": "Richmond",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harrison Health Clinics Limited t/a Harrison Family Vets",
-    "town_city": "Harrogate",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harrison Leisure Acquisitions Ltd",
-    "town_city": "Bridlington",
-    "county": "East Yorkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
