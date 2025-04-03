@@ -2212,6 +2212,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "CALLCARE LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Callen Lenz Associates",
     "town_city": "Chilmark",
     "county": "Wiltshire",
@@ -12803,6 +12810,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CASL Unity Street (Bristol) Property Owner Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Casper Mueller Kneer Ltd",
     "town_city": "London",
     "county": "London",
@@ -19278,6 +19292,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Certuss (UK) Limited",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Cerulli Associates Europe Ltd",
     "town_city": "London",
     "county": "",
@@ -19887,6 +19908,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CH Supplies Ltd T/A Yorkshire Community Healthcare",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "CH&amp;KI Healthcare Ltd",
     "town_city": "Alsager",
     "county": "East Cheshire",
@@ -20086,13 +20114,6 @@
     "organisation_name": "Chaganti Limited",
     "town_city": "Peterlee",
     "county": "Durham",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "CHAHAL (LONDON) LTD",
-    "town_city": "Hayes",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -50870,8 +50891,8 @@
   },
   {
     "organisation_name": "COOMBE SOLUTIONS LTD",
-    "town_city": "London",
-    "county": "",
+    "town_city": "Surbiton",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -52900,15 +52921,15 @@
   },
   {
     "organisation_name": "Corporate Translations Inc. (UK) Limited",
-    "town_city": "Nottingham",
-    "county": "Nottingham",
+    "town_city": "Maidenhead",
+    "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Corporate Translations Inc. (UK) Limited",
-    "town_city": "Nottingham",
-    "county": "Nottingham",
+    "town_city": "Maidenhead",
+    "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
@@ -59297,6 +59318,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Crisis24 Limited",
+    "town_city": "Bournemouth",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Crisp Thinking Group Ltd t/a Resolver",
     "town_city": "Leeds",
     "county": "",
@@ -65206,7 +65234,7 @@
   },
   {
     "organisation_name": "CYBERDD LIMITED",
-    "town_city": "DARTFORD",
+    "town_city": "LONDON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69968,34 +69996,6 @@
     "organisation_name": "DARKSIDE DEVELOPMENTS",
     "town_city": "Barnsley",
     "county": "South Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Darktrace Holdings Limited",
-    "town_city": "Cambridge",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DARLAMI FOOD LTD",
-    "town_city": "TORQUAY",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Darlaston Drink Shop Limited",
-    "town_city": "Wednesbury",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Darlaston Smith Ltd",
-    "town_city": "Wednesbury",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

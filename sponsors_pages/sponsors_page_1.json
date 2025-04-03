@@ -6573,6 +6573,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A C UK GROUP LTD",
+    "town_city": "Uxbridge,",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A CAMPBELL LTD",
     "town_city": "SMETHWICK",
     "county": "BIRMINGHAM",
@@ -7352,6 +7359,13 @@
   {
     "organisation_name": "A P SOUVENIRS &amp; GIFTS LIMITED",
     "town_city": "Berkshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A P TRAINING LTD",
+    "town_city": "Wolverhampton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -10530,6 +10544,13 @@
   {
     "organisation_name": "AA PARTNERSHIP LIMITED",
     "town_city": "Epsom",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AA PHONE FIX LTD t/a AA Phone Fix",
+    "town_city": "Musselburgh",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -26971,13 +26992,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AFL Telecommunications Europe Ltd",
-    "town_city": "Swindon",
-    "county": "Wiltshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
     "organisation_name": "AFL Telecommunications UK Limited",
     "town_city": "Milton Keynes",
     "county": "Buckinghamshire",
@@ -30919,6 +30933,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AIM HomeCare",
+    "town_city": "Fareham",
+    "county": "Hampshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AIM MARKETING LTD",
     "town_city": "Birmingham",
     "county": "West Midlands",
@@ -33412,7 +33433,7 @@
   },
   {
     "organisation_name": "AK LINCOLN LTD",
-    "town_city": "Edgware",
+    "town_city": "Rotherham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -46770,6 +46791,13 @@
     "organisation_name": "AMAR CAR WASH LTD",
     "town_city": "LONDON",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Amar Convenience Store Ltd",
+    "town_city": "Huntingdon",
+    "county": "Cambridgeshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69968,34 +69996,6 @@
     "organisation_name": "Ashforhire Professionals Limited",
     "town_city": "Kington (Herefordshire)",
     "county": "Kington",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashgate Care Limited",
-    "town_city": "Chesterfield",
-    "county": "Derbyshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashgill Care Home Limited",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashgrove Capital LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashgrove Care Home Limited",
-    "town_city": "Dudley",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
