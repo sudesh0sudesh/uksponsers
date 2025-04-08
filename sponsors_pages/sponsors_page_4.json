@@ -1,5 +1,82 @@
 [
   {
+    "organisation_name": "Dao Chow Limited T/A Dao Chao",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DAP Midlands Limited T/a Namaste Dine",
+    "town_city": "Stoke on Trent",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DAPHNE FINANCIAL CONSULTING LTD",
+    "town_city": "COVENTRY",
+    "county": "WEST MIDLANDS",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DAPTEE GROUP LIMITED",
+    "town_city": "Rochdale",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dar Al Arkan Global UK Holdings Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dar Al Teeb Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DAR AL ZAAD",
+    "town_city": "WORCESTOR PARK",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dar Al-Handasah Consultants (Shair &amp; Partners) (UK) Ltd.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dar Al-Handasah Consultants (Shair &amp; Partners) (UK) Ltd.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Dar Al-Handasah Consultants (Shair &amp; Partners) (UK) Ltd.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Global Business Mobility: Graduate Trainee"
+  },
+  {
+    "organisation_name": "Dar El Meemar Holding Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "DAR ELECTRICAL CONTRACTORS LTD",
     "town_city": "Manchester",
     "county": "",
@@ -4664,6 +4741,13 @@
   {
     "organisation_name": "Deanmore Limited",
     "town_city": "Wembley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Deans Road Convenience Ltd",
+    "town_city": "Wolverhampton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -9507,6 +9591,13 @@
   },
   {
     "organisation_name": "DERMA REVIVE SKIN CLINIC LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DERMACARE LTD",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -24540,6 +24631,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DR. FRIGZ LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "Dr. Oetker UK Ltd",
@@ -69898,104 +69996,6 @@
     "organisation_name": "FAMILY CHOICE FOOD LTD T/A Curry Hut Cardiff",
     "town_city": "Cathays",
     "county": "Cardiff",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FAMILY CHOICE FUEL (UK) LTD  T/A Family Choice-Premier",
-    "town_city": "Luton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Choice Fuel (Wales) LTD",
-    "town_city": "Wales",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Choice Golden Limited",
-    "town_city": "Swansea",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Choice R&amp;V LTD",
-    "town_city": "Cardiff",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Choice",
-    "town_city": "South Croydon",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Circles Services Ltd",
-    "town_city": "Herefordshire",
-    "county": "Herefordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Connect Limited",
-    "town_city": "Bingley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Dental Care",
-    "town_city": "Chessington",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Dental Practice",
-    "town_city": "London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Dental Practice",
-    "town_city": "Brighton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Empowerment Media CIC",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family Federation for World Peace and Unification",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Tier 2 Ministers of Religion"
-  },
-  {
-    "organisation_name": "FAMILY FINANCIAL CENTRE LTD",
-    "town_city": "Stockport",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Family First Fostering Ltd",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

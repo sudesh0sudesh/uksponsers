@@ -3640,6 +3640,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "3X Sports Limited",
+    "town_city": "Luton",
+    "county": "Bedfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "3X Tech Ltd",
     "town_city": "Potters Bar",
     "county": "Hertfordshire",
@@ -10040,6 +10047,13 @@
   {
     "organisation_name": "A3 GADGET EXCHANGE LIMITED",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A3 GLOBAL TRAVEL LIMITED",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -40789,6 +40803,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALL SEAS CAPITAL PARTNERS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "All Seasons Air Conditioning Services",
     "town_city": "Loughton",
     "county": "Essex",
@@ -46784,6 +46805,13 @@
     "organisation_name": "AMANI&#x27;S",
     "town_city": "York",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Amann Threads UK Limited",
+    "town_city": "Ashton under Lyne",
+    "county": "Lancashire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -52797,13 +52825,6 @@
     "organisation_name": "Angel Care Services UK",
     "town_city": "Manchester",
     "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Angel Care Staffing Ltd",
-    "town_city": "West Bridgford",
-    "county": "Nottinghamshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -62370,6 +62391,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARCM UK Ltd T/A Anand George&#x27;s Indian Kitchen",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Arcmont Asset Management Limited",
     "town_city": "London",
     "county": "",
@@ -69968,34 +69996,6 @@
     "organisation_name": "Ashford Childrens Care ltd",
     "town_city": "Ashford",
     "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashford Coffee ltd  T/A Muffin Break Ashford",
-    "town_city": "ASHFORD KENT",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashford Environmental Services Limited",
-    "town_city": "Ashford",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashford Food and Wine Ltd",
-    "town_city": "Hounslow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashford Kebab Ltd T/as Anatolia Barbecue Restaurant  &amp; Takeaway",
-    "town_city": "Middlesex",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
