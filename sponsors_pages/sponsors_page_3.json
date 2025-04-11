@@ -1,5 +1,54 @@
 [
   {
+    "organisation_name": "C1 SOLUTIONS LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "C10 STORE LIMITED",
+    "town_city": "Aberdeen",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "C15 Media Networks Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "C2 Cyber Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "C24 HEALTHCARE LTD",
+    "town_city": "Oldham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "C2B LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "C2B2 Consulting Ltd",
+    "town_city": "Malvern",
+    "county": "Worcs",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "C2FO Ltd",
     "town_city": "London",
     "county": "",
@@ -9821,6 +9870,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CARE STAFF SERVICES LTD",
+    "town_city": "SLOUGH",
+    "county": "BERKSHIRE",
+    "type_rating": "Worker (A (SME+))",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Care Standard Limited",
     "town_city": "Bradford",
     "county": "",
@@ -12708,6 +12764,13 @@
     "organisation_name": "CARTWRIGHTS CHEMISTS LIMITED",
     "town_city": "Manchester",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "CarUniversal LTD",
+    "town_city": "Barking",
+    "county": "London",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -19341,6 +19404,13 @@
     "route": "Creative Worker"
   },
   {
+    "organisation_name": "Ceon Machinery Control Ltd",
+    "town_city": "COOKSTOWN",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ceox Services Ltd",
     "town_city": "Guildford",
     "county": "",
@@ -23352,6 +23422,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "CHASE LODGE HOSPITAL LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Chase Software Solutions Ltd",
     "town_city": "Surbiton",
     "county": "Surrey",
@@ -24706,6 +24783,13 @@
     "organisation_name": "Chelsea Private Equity Group",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Chelsfield Electrical Ltd",
+    "town_city": "Great Amwell",
+    "county": "Hertfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -41923,13 +42007,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Coderus Limited",
-    "town_city": "Ipswich",
-    "county": "Suffolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Codester Ltd",
     "town_city": "Slough",
     "county": "Berkshire",
@@ -49945,9 +50022,9 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Consultonic PVT Ltd",
-    "town_city": "London",
-    "county": "",
+    "organisation_name": "CONSULTONIC PVT LTD",
+    "town_city": "London,",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -55380,6 +55457,13 @@
     "organisation_name": "County Durham and Darlington NHS Foundation Trust",
     "town_city": "Darlington",
     "county": "County Durham",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "COUNTY FOOD INGREDIENTS LTD",
+    "town_city": " Wilmslow",
+    "county": "Cheshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -65814,20 +65898,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Cyarx Technologies UK Limited",
-    "town_city": "London",
-    "county": "United Kingdom",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Cyarx Technologies UK Limited",
-    "town_city": "London",
-    "county": "United Kingdom",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
     "organisation_name": "CYBAGE SOFTWARE UK LIMITED",
     "town_city": "London",
     "county": "",
@@ -69928,75 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DANIEL QU (UK) LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DANIEL REPAIRS LIMITED",
-    "town_city": "Gravesend",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DANIEL REPAIRS SERVICES LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Daniel Smyth Investments Ltd",
-    "town_city": "Newcastle upon Tyne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Daniel Thwaites PLC",
-    "town_city": "Blackburn",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DANIEL WOLFSON &amp; CO LTD",
-    "town_city": "Harrow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Daniela Schlingmann Literary Scouting Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DANIELI UK HOLDING LIMITED",
-    "town_city": "ROTHERHAM",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DANIELI UK HOLDING LIMITED",
-    "town_city": "ROTHERHAM",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Danielle &amp; Daisy Care Ltd",
-    "town_city": "Cobham",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]

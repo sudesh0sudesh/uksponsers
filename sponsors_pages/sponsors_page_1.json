@@ -6174,6 +6174,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A &amp; N TRIMMINGS LIMITED",
+    "town_city": "SOLIHULL",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A &amp; R Fast Food Ltd",
     "town_city": "Preston",
     "county": "",
@@ -12778,6 +12785,13 @@
     "organisation_name": "Abacus Valves International Limited",
     "town_city": "Kilbirnie",
     "county": "North Ayrshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ABACUS-69 HOLDINGS LIMITED",
+    "town_city": "Leyton",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -22099,6 +22113,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Adaptive Financial Consulting Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Adaptive Financial Consulting Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Adaptix Limited",
     "town_city": "Oxford",
     "county": "",
@@ -25258,13 +25286,6 @@
   {
     "organisation_name": "Adverto Media Ltd",
     "town_city": "Gloucester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ADVERTTU LIMITED",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -32023,6 +32044,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Airds Hotel",
+    "town_city": "Appin",
+    "county": "Argyll and Bute",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Aire Ancient Baths London Ltd",
@@ -44058,6 +44086,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALPHA UK PROPERTIES LIMITED",
+    "town_city": "SOUTH CROYDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alpha Venue &amp; Event People Ltd",
     "town_city": "London",
     "county": "",
@@ -54373,13 +54408,6 @@
     "town_city": "Norwich",
     "county": "Norfolk",
     "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ANISHASPICE LTD T/A Joy spice",
-    "town_city": "Welling",
-    "county": "",
-    "type_rating": "Worker (B rating)",
     "route": "Skilled Worker"
   },
   {
@@ -69968,34 +69996,6 @@
     "organisation_name": "Ashcroft Pharma Limited",
     "town_city": "Bradford",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashcroft SC LTD",
-    "town_city": "Chesterfield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHCROFT SERVICE STATION",
-    "town_city": "Saint Helens",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashdale Care Limited",
-    "town_city": "Pembroke",
-    "county": "Pembrokeshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashdene Management Services Ltd",
-    "town_city": "Crieff",
-    "county": "Perth &amp; Kinross",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
