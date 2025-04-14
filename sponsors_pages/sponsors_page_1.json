@@ -5103,6 +5103,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "73 Strings Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "73 WR Ltd T/A Pizza Hut Delivery",
     "town_city": "Peterborough",
     "county": "Cambridgeshire",
@@ -14332,6 +14339,13 @@
     "organisation_name": "Aberdeen &amp; Northern Eggs Ltd",
     "town_city": "Fraserburgh",
     "county": "Aberdeenshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Aberdeen Association of Social Service",
+    "town_city": "Aberdeen",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -25061,7 +25075,7 @@
   },
   {
     "organisation_name": "Advantage-NRG Ltd",
-    "town_city": "Preston",
+    "town_city": "Chorley",
     "county": "Lancashire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -26628,6 +26642,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AFC- HALAL MEAT LTD",
+    "town_city": "MIDDLESEX",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AFD Food and Drink Limited T/A The Espy",
     "town_city": "Portobello",
     "county": "",
@@ -26895,6 +26916,13 @@
   },
   {
     "organisation_name": "AFFIRM UK LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Affle (UK) Ltd.",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -28698,20 +28726,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aggregate Industries UK Ltd",
-    "town_city": "Markfield",
-    "county": "Leicestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aggregate Industries UK Ltd",
-    "town_city": "Markfield",
-    "county": "Leicestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Aggregate Intelligence Limited",
@@ -33299,6 +33313,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AJV PROPERTY SERVICES (UK) LTD",
+    "town_city": "Slough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ajwa Jewellers Limited",
     "town_city": "Southall",
     "county": "Middlesex",
@@ -36400,6 +36421,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALANS ELIF LIMITED",
+    "town_city": "Liverpool",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alan&#x27;s Professional Dry Cleaner",
     "town_city": "Rochford",
     "county": "Essex",
@@ -36648,6 +36676,13 @@
     "organisation_name": "ALB GARDEN SUPPLIES LTD",
     "town_city": "NOTTINGHAM",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALB SCAFFOLDING LIMITED",
+    "town_city": "Yiewsley",
+    "county": "West Drayton",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -46270,13 +46305,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AM Burger Limited",
-    "town_city": "London,",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AM CAR PARTS LIMITED",
     "town_city": "BARKING",
     "county": "",
@@ -46872,6 +46900,13 @@
     "route": "Creative Worker"
   },
   {
+    "organisation_name": "Amanda Thompson Couture Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Amandarosie Limited",
     "town_city": "Wirral",
     "county": "",
@@ -47148,13 +47183,6 @@
     "organisation_name": "Amarox Limited",
     "town_city": "Harrow",
     "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "AMARRIS HEALTHCARE LTD",
-    "town_city": "Borehamwood",
-    "county": "Hertfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -51121,6 +51149,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Anacapa Wavepower Ltd.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Anacapa Wavepower Ltd.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Anaconda Equipment International",
     "town_city": "Dungannon",
     "county": "Co Tyrone",
@@ -54635,13 +54677,6 @@
     "route": "Religious Worker"
   },
   {
-    "organisation_name": "ANK MANUFACTURING LTD",
-    "town_city": "Nottingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ANK Motor Fuel Ltd",
     "town_city": "Worthing",
     "county": "",
@@ -56561,8 +56596,8 @@
   },
   {
     "organisation_name": "Anything World",
-    "town_city": "Horsham",
-    "county": "West Sussex",
+    "town_city": "london",
+    "county": "london",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -59304,6 +59339,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Approved Power Services Limited",
+    "town_city": "St Helens",
+    "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Apps Business It Solution UK Limited",
     "town_city": "London",
     "county": "",
@@ -61355,7 +61397,7 @@
     "route": "International Sportsperson"
   },
   {
-    "organisation_name": "Arbroath Medical Centre",
+    "organisation_name": "Arbroath Medical Practice LLP",
     "town_city": "Arbroath",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -66976,6 +67018,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Artezzan",
+    "town_city": "chester",
+    "county": "Cheshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Artfacts.net Ltd",
     "town_city": "London",
     "county": "",
@@ -68376,6 +68425,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ASA EXPRESS LIMITED",
+    "town_city": "Solihull",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ASA UK &amp; Ireland Limited",
     "town_city": "Liverpool",
     "county": "",
@@ -68771,6 +68827,20 @@
     "organisation_name": "AscendantFX Capital UK Limited",
     "town_city": "Peterborough",
     "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Ascendion Engineering Solutions Europe Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Ascendion Engineering Solutions Europe Limited",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
@@ -69926,76 +69996,6 @@
     "organisation_name": "Ashby Energy Assessors Limited",
     "town_city": "Grantham",
     "county": "Lincolnshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashby Falcon Ltd t/a The Falcon Hotel",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashby Hastings Cricket Club",
-    "town_city": "Ashby De La Zouch",
-    "county": "Leicestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Ashby Signs Limited",
-    "town_city": "Basingstoke",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHCARE (SUMMERFIELDS) LTD",
-    "town_city": "BURTON ON TRENT",
-    "county": "WEST MIDLANDS",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashco Investments Ltd",
-    "town_city": "Peebles",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashcode Limited",
-    "town_city": "Hertfordshire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashcombe Advisers LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHCOMBE PARK CRICKET CLUB",
-    "town_city": "LEEK",
-    "county": "STAFFS",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Ashcroft Hollow Care Home",
-    "town_city": "Cannock",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashcroft Pharma Limited",
-    "town_city": "Bradford",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
