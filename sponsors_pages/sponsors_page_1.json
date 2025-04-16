@@ -25942,6 +25942,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AELML Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AEM BUSINESS LTD T/A FLUIDS LABS",
     "town_city": "SOMERSET",
     "county": "",
@@ -26479,6 +26486,13 @@
     "county": "Dorset",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Creative Worker"
+  },
+  {
+    "organisation_name": "Aethel Care Homes Ltd",
+    "town_city": "Cheltenham",
+    "county": "East Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Aether Dental Ltd T/A Ambleside Dental Practice",
@@ -41069,6 +41083,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "All Spectrum",
+    "town_city": "Chatham",
+    "county": "England",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
     "organisation_name": "All Sports Whispers Ltd",
     "town_city": "Milton Keynes",
     "county": "",
@@ -44798,6 +44819,13 @@
     "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "alsager dental practice",
+    "town_city": "stoke",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Alsager Multi Academy Trust",
@@ -51402,7 +51430,7 @@
   },
   {
     "organisation_name": "Analytics 8 LTD",
-    "town_city": "Manchester",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -61607,13 +61635,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ARC Living Ltd",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ARC MARINE",
     "town_city": "Torquay",
     "county": "",
@@ -69975,27 +69996,6 @@
     "organisation_name": "Ashbourne Lodge",
     "town_city": "Blackpool",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashbournes Solicitors Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashbright Agency Limited",
-    "town_city": "Brentford",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashbrook Care Home",
-    "town_city": "Coalisland",
-    "county": "Tyrone",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
