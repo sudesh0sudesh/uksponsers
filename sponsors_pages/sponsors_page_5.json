@@ -1,5 +1,117 @@
 [
   {
+    "organisation_name": "Faithstar Llp",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faiza Saqlain Limited",
+    "town_city": "Liverpool",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FAIZA SPICE BAR LIMITED t/a Mezbaan",
+    "town_city": "Kettering",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faizan - e- Rasool Education Centre Limited",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Faizan - e- Rasool Education Centre Limited",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "FAIZAN BLINDS LIMITED",
+    "town_city": "ILFORD",
+    "county": "ESSEX",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faizan e Islam",
+    "town_city": "Coventry",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Faizan e Islam",
+    "town_city": "Coventry",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Faizan e Madina Rochdale",
+    "town_city": "Rochdale",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Faizan e Madina Rochdale",
+    "town_city": "Rochdale",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
+    "organisation_name": "Faizan e Madina Rochdale",
+    "town_city": "Rochdale",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "FAIZAN TRADING LTD",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faizane Madina Mosque Committee Trust",
+    "town_city": "Peterborough",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Faizan-e-Islam Edecational and CulturalTrusCentre",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Faizan-e-Islam Edecational and CulturalTrusCentre",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Faizan-e-Islam Edecational and CulturalTrusCentre",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
     "organisation_name": "Faizan-e-Madina Accrington",
     "town_city": "Accrington",
     "county": "Lancashire",
@@ -6895,13 +7007,6 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
-    "organisation_name": "Fika Community Limited",
-    "town_city": "Milton Keynes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Fike Safety Technology Ltd.",
     "town_city": "Gwent",
     "county": "",
@@ -10825,6 +10930,13 @@
     "organisation_name": "Fishfinger Media Ltd",
     "town_city": "London",
     "county": "State...",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Fishgate Consulting Limited",
+    "town_city": "Kent",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -19054,20 +19166,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "FOSTER + PARTNERS LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FOSTER + PARTNERS LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
     "organisation_name": "Foster + Partners Limited",
     "town_city": "London",
     "county": "",
@@ -21448,6 +21546,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Fred&#x27;s Backyard Barbecue Limited",
+    "town_city": "Edinburgh",
+    "county": "City of Edinburgh",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Fred&#x27;s Discount Store",
     "town_city": "Oxford",
     "county": "",
@@ -22354,6 +22459,13 @@
     "organisation_name": "FRESH &amp; FAVOURITE LIMITED T/A ESSO",
     "town_city": "Brockley",
     "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FRESH &amp; FRESH LONDON LTD",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -46585,6 +46697,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Gofal Cymunedol Ltd",
+    "town_city": "Whitland",
+    "county": "Carmarthenshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Gofal Ystwyth Care",
     "town_city": "Aberystwyth",
     "county": "Ceredigion",
@@ -65891,6 +66010,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "HAK GRILL LTD",
+    "town_city": "CARDIFF",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Hakim Supermarket Ltd",
     "town_city": "Northampton",
     "county": "",
@@ -69869,132 +69995,6 @@
   {
     "organisation_name": "HAR CHARAN MOTORS (MIDLANDS) LIMITED",
     "town_city": "BIRMINGHAM",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Hara Global Capital Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Hara Global Capital Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harada Industries (Europe) Limited",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harada Industries (Europe) Limited",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Harajuku Kitchen Limited",
-    "town_city": "Edinburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Haraldo Ltd",
-    "town_city": "Llanbradach",
-    "county": "Caerphilly",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Haramtravel Ltd",
-    "town_city": "Bradford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Haran Retail Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HARANIK LTD",
-    "town_city": "BIRMINGHAM",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harasoft Technologies Limited",
-    "town_city": "Milton Keynes",
-    "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harbor Global UK LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harbor Housing C.I.C",
-    "town_city": "Bracknell",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Charity Worker"
-  },
-  {
-    "organisation_name": "Harborne Cricket Club",
-    "town_city": "Birmingham",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Harborne Lane Specialist Care Centre Ltd",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harborne Medical",
-    "town_city": "Harborne",
-    "county": "Birmingham",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harborne Specsavers Limited",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harborough Field Surgery",
-    "town_city": "Rushden",
-    "county": "Northants",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Harbottle &amp; Lewis LLP",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
