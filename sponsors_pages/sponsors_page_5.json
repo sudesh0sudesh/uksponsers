@@ -1,5 +1,187 @@
 [
   {
+    "organisation_name": "Faith House Eventide Home",
+    "town_city": "Belfast",
+    "county": "County Antrim",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faith In Me Homecare",
+    "town_city": "Roche",
+    "county": "Cornwall",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FAITH IN NATURE LIMITED",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faith Ministries t/a Acts Church Bradford",
+    "town_city": "Bradford",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "FAITH MINISTRIES UK CHURCHES",
+    "town_city": "SHEFFIELD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "FAITH MIRACLE CHURCH",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "FAITH MIRACLE CHURCH",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Faith Montessori Nursery Ltd",
+    "town_city": "Forest Hill",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faith Pharmacy (Hulme) Ltd",
+    "town_city": "Manchester",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faith Regen Foundation",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faith Regen Foundation",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
+    "organisation_name": "Faith Stones Ltd",
+    "town_city": "Bartley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FAITH TABERNACLE CHURCH KETTERING",
+    "town_city": "Kettering",
+    "county": "Northamptonshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Faith Worldwide Ltd",
+    "town_city": "AYLESBURY",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faith20 Care Ltd",
+    "town_city": "Birkenhead",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faithdean Plc",
+    "town_city": "Chatham",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faithful Care (UK) Limited",
+    "town_city": "Mitcham",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faithful Companions Of Jesus Charitable Incorporated Organisation",
+    "town_city": "Isleworth",
+    "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Faithful Companions Of Jesus Charitable Incorporated Organisation",
+    "town_city": "Isleworth",
+    "county": "Middlesex",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Faithful Friend. Trusty Scout Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Faithfull Limited",
+    "town_city": "Southend-on-Sea",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FaithLife Centre Ministries",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "FaithLife Centre Ministries",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FaithLife Centre Ministries",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "FaithLife Centre Ministries",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
+    "organisation_name": "Faith&#x27;s Walk Healthcare Services Limited",
+    "town_city": "STAINES-UPON-THAMES",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Faithstar Llp",
     "town_city": "Sheffield",
     "county": "",
@@ -10409,6 +10591,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "First Up, S.L.U t/a Master Stonemasons (UK establishment)",
+    "town_city": "Sutton Coldfield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "First Up, S.L.U t/a Master Stonemasons (UK establishment)",
+    "town_city": "Sutton Coldfield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "FIRST WEALTH MANAGEMENT LIMITED",
     "town_city": "London",
     "county": "",
@@ -11615,6 +11811,13 @@
   {
     "organisation_name": "Fiveways Convenience Store",
     "town_city": "Worksop",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FIVEWAYS CONVENIENCE STORE",
+    "town_city": "CHESTERFIELD",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -13405,13 +13608,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Flintham Mackenzie Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Flinthouse Dental Practice Partnership",
     "town_city": "St Leonard&#x27;s On Sea",
     "county": "East Sussex",
@@ -13513,13 +13709,6 @@
     "organisation_name": "Flock.io Ltd",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Flodatix Limited",
-    "town_city": "Basingstoke",
-    "county": "Hampshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -13660,6 +13849,13 @@
     "organisation_name": "Floral Street Fragrances Limited",
     "town_city": "Petworth",
     "county": "West Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Flordius Chiropractic Ltd T/A Saltaire Chiropractic Clinic",
+    "town_city": "Shipley",
+    "county": "West Yorkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -14266,6 +14462,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Fluorochem Ltd",
+    "town_city": "Hadfield",
+    "county": "Derbyshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "FluoRok Limited",
     "town_city": "Oxford",
     "county": "",
@@ -14789,20 +14992,6 @@
     "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FMLY Agency Ltd",
-    "town_city": "Brighton",
-    "county": "East Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FMLY Agency Ltd",
-    "town_city": "Brighton",
-    "county": "East Sussex",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
   },
   {
     "organisation_name": "FMR Investment Management (UK) Ltd",
@@ -16571,6 +16760,13 @@
   {
     "organisation_name": "For You Social Care Limited",
     "town_city": "Batley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "FORA (CITY) RESTAURANT LIMITED",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -21518,6 +21714,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Frederic Roscop Limited",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Fredericia Furniture UK Ltd",
     "town_city": "London",
     "county": "",
@@ -23310,13 +23513,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "FRIENDS AUTOS LIMITED",
-    "town_city": "Worcestershire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "FRIENDS AUTOS LTD",
     "town_city": "EVESHAM",
     "county": "WORCESTERSHIRE",
@@ -23544,6 +23740,13 @@
     "organisation_name": "Frimley Health NHS Foundation Trust",
     "town_city": "Camberley",
     "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Frimley Subway Ltd",
+    "town_city": "Frimley",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -26579,6 +26782,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Future Aspirations Care Group Ltd",
+    "town_city": "Liverpool",
+    "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Future Biogas Limited",
     "town_city": "Guildford",
     "county": "",
@@ -28798,6 +29008,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Gabin Accounting services Ltd",
+    "town_city": "London",
+    "county": "Greater London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Gable Court NH Ltd",
     "town_city": "Hayes",
     "county": "",
@@ -30046,6 +30263,13 @@
   {
     "organisation_name": "Gallium Ventures Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "GALLO&#x27;S PIRI PIRI &amp; GRILL LTD",
+    "town_city": "Winchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -32209,6 +32433,13 @@
   {
     "organisation_name": "GAUDIYA MISSION UK",
     "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Gaur Govinda Trust",
+    "town_city": "London",
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Religious Worker"
@@ -35656,6 +35887,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "GENX SYSTEMS LTD (15419956)",
+    "town_city": "ENGLAND",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
     "organisation_name": "GenXSolutions Ltd",
@@ -39350,6 +39588,13 @@
     "organisation_name": "GIRAFFE360 LIMITED",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Girardot Ltd",
+    "town_city": "London",
+    "county": "London",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -44800,6 +45045,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Gloucester Circket Club",
+    "town_city": "Gloucester",
+    "county": "Gloucestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
     "organisation_name": "GLOUCESTER GRILL LTD TA Gloucester Grill Peri Peri Chicken",
     "town_city": "Gloucester",
     "county": "",
@@ -45864,6 +46116,13 @@
     "route": "Charity Worker"
   },
   {
+    "organisation_name": "Go Dharmic Welfare UK",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Go Doughnuts Upton Park Limited",
     "town_city": "London",
     "county": "",
@@ -45930,6 +46189,13 @@
     "organisation_name": "GO GO FRESH UK LTD",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "GO GO TAXI LTD",
+    "town_city": "Farnborough",
+    "county": "Rushmoor",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -53035,13 +53301,6 @@
     "organisation_name": "GRAPHY TECHNOLOGIES LTD",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "GRAPPER RESTAURANT LTD",
-    "town_city": "Bolton",
-    "county": "Lancashire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -62706,6 +62965,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "GW Consulting Engineers Ltd",
+    "town_city": "Kidderminster",
+    "county": "Worcestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "GW Development (UK) Ltd",
     "town_city": "Bushey",
     "county": "",
@@ -64463,7 +64729,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "H2C Gelati Ltd",
+    "organisation_name": "H2C Gelati Ltd (Amorino)",
     "town_city": "London",
     "county": "Greater London",
     "type_rating": "Worker (A rating)",
@@ -69729,272 +69995,6 @@
   {
     "organisation_name": "Happy Family Care Services Ltd",
     "town_city": "Carshalton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Finish Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Futures Support Specialists ltd",
-    "town_city": "Scarborough",
-    "county": "North Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY HEALTHY LIFE",
-    "town_city": "Hastings",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Home Store Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Hour Productions Ltd",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Hour Productions Ltd",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Happy Kids Dental Practice Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY KIDS LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Kitchen Ltd",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Mortgages Ltd",
-    "town_city": " Faversham",
-    "county": "Kent",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY PAWS LODGE LTD",
-    "town_city": "Broadstairs",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY PLAICE BRIGHTON LTD",
-    "town_city": "Brighton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY RETAIL LIMITED",
-    "town_city": "Wembley",
-    "county": "England,",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Rugby Ltd",
-    "town_city": "Hereford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Science Europe",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Tier 2 Ministers of Religion"
-  },
-  {
-    "organisation_name": "Happy Science Europe",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Religious Worker"
-  },
-  {
-    "organisation_name": "Happy Scot Limited",
-    "town_city": "Cumbernauld",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY SHOPPERS (CHADDERTON) LIMITED",
-    "town_city": "Oldham",
-    "county": "Greater Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Shopper",
-    "town_city": "Leeds",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY SHOPPER",
-    "town_city": "HULL",
-    "county": "East Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY SKY BAKERY LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY TAILS VETS LTD",
-    "town_city": " Bexhill-on-sea",
-    "county": "East Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY TEA LTD",
-    "town_city": "Coventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPY VIBES TRADING LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happy Wolf Pub Company Ltd",
-    "town_city": "Southam",
-    "county": "Warwickshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPYHOME PLUMBING AND ELECTRICAL (UK) LTD",
-    "town_city": "Hayes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAPPYMOTION LIMITED",
-    "town_city": "Liverpool",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HappyOrNot UK Ltd.",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Happyside Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HappySignals UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Haptic Architects Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Haptic Chiropractors Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAQ LOGISTICS LTD",
-    "town_city": "Oldham",
-    "county": "Greater Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Haq Water for Life",
-    "town_city": "Bradford",
-    "county": "West Yorkshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Charity Worker"
-  },
-  {
-    "organisation_name": "Haque Sweets LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAQUES INDIAN",
-    "town_city": "Wiltshire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "HAR CHARAN MOTORS (MIDLANDS) LIMITED",
-    "town_city": "BIRMINGHAM",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

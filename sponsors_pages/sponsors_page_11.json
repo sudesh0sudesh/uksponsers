@@ -1,5 +1,558 @@
 [
   {
+    "organisation_name": "SCANLINE VFX LONDON LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scannell International LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Scannell International LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCANNELL MANAGEMENT UK LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "SCANNELL MANAGEMENT UK LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scanquo Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scantastik Ltd",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scapa Group Limited",
+    "town_city": "Ashton Under Lyne",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Scapa Group Limited",
+    "town_city": "Ashton Under Lyne",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scapa UK Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Scapa UK Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scape Design Associates Limited",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scape UK Management Ltd",
+    "town_city": "Harrogate",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scapers Limited",
+    "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCARAB SWEEPERS LTD",
+    "town_city": "TONBRIDGE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCARAB SWEEPERS LTD",
+    "town_city": "TONBRIDGE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Scarborough College",
+    "town_city": "Scarborough",
+    "county": "North Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scarborough Cricket Club",
+    "town_city": "Scarborough",
+    "county": "North Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Scarborough Medical Group",
+    "town_city": "Scarborough",
+    "county": "North Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scarborough Tandoori Ltd",
+    "town_city": "Scarborough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scargill Movement",
+    "town_city": "Skipton",
+    "county": "North Yorkshire",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Religious Worker"
+  },
+  {
+    "organisation_name": "Scargill Movement",
+    "town_city": "Skipton",
+    "county": "North Yorkshire",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
+  },
+  {
+    "organisation_name": "Scariff Ltd",
+    "town_city": "Belfast",
+    "county": "Northern Ireland",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCARLET GENERAL TRADING COMPANY LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scarlet Global Holdings Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Scarlet Global Holdings Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scarlet O2 Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scarlet Therapeutics",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scarlett Entertainment and Management Ltd",
+    "town_city": "Newton Abbot",
+    "county": "Devon",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCARLETTABBOTT LTD",
+    "town_city": "YORK",
+    "county": "North Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scarmans Limited trading as Aliant Law",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scarpello Bakehouse &amp; Pizzeria",
+    "town_city": "Londonderry",
+    "county": "Londonderry",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scartho Medical Centre",
+    "town_city": "Grimsby",
+    "county": "South Humberside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCASS LTD",
+    "town_city": "London",
+    "county": "Choose County",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCB &amp; Associates Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCB &amp; Associates Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "SCB Creative Design Limited",
+    "town_city": "Hersham",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCB Development Ltd",
+    "town_city": "Bedford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCB Global Ltd",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scea La Magdeleine",
+    "town_city": "Godalming",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Scenario Architecture Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scene &amp; Heard",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scene Connect Ltd.",
+    "town_city": "Edinburgh",
+    "county": "Midlothian",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scene Partners Limited",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scenic Project Ltd",
+    "town_city": "Lowestoft",
+    "county": "Suffolk",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
+    "organisation_name": "SCENT N ESSENCE UK LIMITED",
+    "town_city": "FELTHAM",
+    "county": "MIDDLESEX",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCENTEVENT LIMITED",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCEPTRE PRODUCTS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCG VEHICLE MANAGEMENT LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCGB Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCH Studio LTD",
+    "town_city": "Bolton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schaeffler (UK ) Ltd",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schaeffler (UK ) Ltd",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Schappit Ltd.",
+    "town_city": "Sileby",
+    "county": "Leicestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schawk UK ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schawpark Ltd t/a Tartan Tikka TIkka",
+    "town_city": "Alloa",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schedl Automotive System Service Ltd",
+    "town_city": "Kidlington",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scheff Foods Ltd",
+    "town_city": "Smethwick",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scheibye Trading Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
+    "organisation_name": "Scheibye Trading Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Scheidt &amp; Bachmann UK Ltd",
+    "town_city": "Chessington",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schenck Process UK Limited",
+    "town_city": "Doncaster",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schenck Process UK Limited",
+    "town_city": "Doncaster",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Schengen Visa Agents Ltd",
+    "town_city": "Harrow Wealdstone",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schenk UK Ltd",
+    "town_city": "Widnes",
+    "county": "Cheshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schenker Ltd",
+    "town_city": "London Heathrow Airport",
+    "county": "Hounslow",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schenker Ltd",
+    "town_city": "London Heathrow Airport",
+    "county": "Hounslow",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Schenker Ltd",
+    "town_city": "London Heathrow Airport",
+    "county": "Hounslow",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Global Business Mobility: Graduate Trainee"
+  },
+  {
+    "organisation_name": "Schillings International LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCHINDLER LIMITED",
+    "town_city": "Addlestone",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SCHINDLER LIMITED",
+    "town_city": "Addlestone",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Schindlers Uk Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schjodt LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Schjodt LLP",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schleich UK Ltd",
+    "town_city": "Watford",
+    "county": "Herts",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Schleich UK Ltd",
+    "town_city": "Watford",
+    "county": "Herts",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Global Business Mobility: Graduate Trainee"
+  },
+  {
+    "organisation_name": "Schlumberger Cambridge Research Limited",
+    "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Schlumberger Cambridge Research Limited",
+    "town_city": "Cambridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Schlumberger Oilfield UK Limited",
+    "town_city": "Crawley",
+    "county": "West Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Schlumberger Oilfield UK Limited",
     "town_city": "Crawley",
     "county": "West Sussex",
@@ -3473,8 +4026,8 @@
   },
   {
     "organisation_name": "Seastar Production Limited",
-    "town_city": "St. Albans",
-    "county": "Hertfordshire",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -5810,6 +6363,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "SELLA SUPERMARKET LTD",
+    "town_city": "Hatfield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Selladoor Worldwide Limited",
     "town_city": "Sevenoaks",
     "county": "Kent",
@@ -6057,6 +6617,13 @@
   {
     "organisation_name": "Semfex Solutions Limited",
     "town_city": "Worcester Park",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Semilattice Ltd",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -7782,20 +8349,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Serimax Field Joint Coating Limited",
-    "town_city": "Blackburn",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Serimax Field Joint Coating Limited",
-    "town_city": "Blackburn",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Serimax ltd",
@@ -11842,6 +12395,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Shanghai Me Restaurant Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Shanghai Nights Ltd",
@@ -17556,6 +18116,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "SHREE HARI MARKETING LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Shree Hari News Ltd",
     "town_city": "London",
     "county": "",
@@ -21259,6 +21826,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "SILENT NIGHT MANAGEMENT LTD t/a The Gresham Hotel",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "SILENT VALLEY FERTILIZERS LTD",
     "town_city": "NEWRY",
     "county": "DOWN",
@@ -21513,6 +22087,13 @@
   {
     "organisation_name": "Silsden News Ltd",
     "town_city": "Silsden",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SILSOE PRESTIGE MOTORS LTD",
+    "town_city": "Bedford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -25655,6 +26236,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Sivalis Group Ltd",
+    "town_city": "Steyning",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Sivamshun Retail Limited",
     "town_city": "Bristol",
     "county": "",
@@ -26740,6 +27328,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Skab Security Services Ltd",
+    "town_city": "Barking",
+    "county": "Greater London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Skadden,Arps,Slate,Meagher &amp; Flom (UK) LLP",
     "town_city": "London",
     "county": "",
@@ -26981,6 +27576,13 @@
     "organisation_name": "Skellern Doughty Limited",
     "town_city": "Prestwich",
     "county": "Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Skellow Dental Practice",
+    "town_city": "Doncaster",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -39600,8 +40202,8 @@
   },
   {
     "organisation_name": "Sousa World Gourmet Ltd",
-    "town_city": "Chessington",
-    "county": "",
+    "town_city": "Reigate",
+    "county": "Surrey",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -48125,6 +48727,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Square Health Technology Limited",
+    "town_city": "Windsor",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "SQUARE LEISURE AND ENTERTAINMENT LIMITED",
     "town_city": "Harmondsworth",
     "county": "West Drayton",
@@ -49696,6 +50305,13 @@
     "organisation_name": "SRK BRIDAL LTD",
     "town_city": "Birmingham",
     "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SRK Capital Heights Ltd T/A The Plough Inn",
+    "town_city": "Taunton",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -55300,6 +55916,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Standley Design and Build Ltd",
+    "town_city": "Wimbledon",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Standley Holdings",
     "town_city": "Eastbourne",
     "county": "",
@@ -58219,6 +58842,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Stella de Arte Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Stella Enterprises Limited",
     "town_city": "London",
     "county": "",
@@ -58368,6 +58998,13 @@
   {
     "organisation_name": "Stellar Restaurants Ltd T/A McDonald&#x27;s",
     "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Stellar Search Ltd",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -58627,6 +59264,13 @@
   {
     "organisation_name": "Step Exchange Limited",
     "town_city": "Crookham Village",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Step In Off licence &amp; News",
+    "town_city": "Leicester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -61908,6 +62552,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "STOWAFRIC HAIR LIMITED",
+    "town_city": "STOWMARKET",
+    "county": "SUFFOLK",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Stowe Family Law LLP",
     "town_city": "Leeds",
     "county": "West Yorkshire",
@@ -62660,6 +63311,13 @@
     "organisation_name": "Streakers Dry Cleaners",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "STREAM BAY LTD t/a Shah Indian Cuisine",
+    "town_city": "Burnham-On-Sea",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -66718,7 +67376,7 @@
   },
   {
     "organisation_name": "Sumdog Ltd",
-    "town_city": "EDINBURGH",
+    "town_city": "Edinburgh",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69337,664 +69995,6 @@
   {
     "organisation_name": "SUPER OPTIMUM LTD",
     "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Payments Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER PETROLEUM LIMITED",
-    "town_city": "Dewsbury",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER PHARM LIMITED",
-    "town_city": "MANCHESTER",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER POUND SAVER TRADING LIMITED",
-    "town_city": "Walthamstow",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Power Agency",
-    "town_city": "Edinburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "super prim Drycleaners ltd",
-    "town_city": "bracknell",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Restaurants Limited",
-    "town_city": "Ilford",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER RISE CONSTRUCTION LTD",
-    "town_city": "Morden",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER SAVER EXPRESS",
-    "town_city": "ST HELENS",
-    "county": "MERSEYSIDE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Saver",
-    "town_city": "Bootle",
-    "county": "Liverpool",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER SAVING BARGAINS LTD",
-    "town_city": "Dudley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER SECURITY LTD",
-    "town_city": "Wolverhampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Seller Ltd",
-    "town_city": "Bournemouth",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Seven Private Limited",
-    "town_city": "Dunstable",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Sherries Ltd",
-    "town_city": "Slough",
-    "county": "Berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Smart Service Ltd",
-    "town_city": "Cannock",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Smashing Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Sonic Logistics Ltd",
-    "town_city": "Feltham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER SPARK SERVICES LTD",
-    "town_city": "Maidenhead",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER STAR MANCHESTER LIMITED",
-    "town_city": "Manchester,",
-    "county": "Manchester,",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER STAR RETAIL LIMITED",
-    "town_city": "52 Nottingham Road",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Start Limited",
-    "town_city": "Dartford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Supps LTD",
-    "town_city": "Heston",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Tech Health Ltd",
-    "town_city": "Birmingham",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Technical Services Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super Utensil Limited",
-    "town_city": "Hemel Hempstead",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER VALUE DEALS LTD",
-    "town_city": "Ilford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPER WHOLESALE LTD",
-    "town_city": "Greenford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superasia Limited",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superawesome Trading Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Superawesome Trading Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERB CONST LTD",
-    "town_city": "Harrow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superb Hair and Beauty Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superb Healthcare",
-    "town_city": "Stevenage",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERBAKE LTD.",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supercar Concierge Ltd",
-    "town_city": "Horley",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERCARE 4U LTD trade as  Clifton House",
-    "town_city": "Coulsdon",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supercare Residential Ltd",
-    "town_city": "Gerrards Cross",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERCEDE LTD",
-    "town_city": "CLECKHEATON",
-    "county": "WEST YORKSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supercede Technology Ltd",
-    "town_city": "Telford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supercharge London",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supercharge London",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Supercharger Restaurants Limited",
-    "town_city": "Wembley",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supercity (Scotland) Limited T/A OAKA Supercity",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SuperCo Holdings Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supercraft Limited",
-    "town_city": "Surrey",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superderivatives UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superderivatives UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Superdielectrics Ltd",
-    "town_city": "Saffron Walden",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superdragon TCM UK Ltd",
-    "town_city": "LEEDS",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superdrug Stores plc &amp; Savers",
-    "town_city": "Croydon",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superdrug Stores plc &amp; Savers",
-    "town_city": "Croydon",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Superdry Plc",
-    "town_city": "Cheltenham",
-    "county": "Gloucestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superdry Plc",
-    "town_city": "Cheltenham",
-    "county": "Gloucestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Superfry Potatoes Ltd",
-    "town_city": "North Berwick",
-    "county": "East Lothian",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERGOLD LTD",
-    "town_city": "Southampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supergrows E1 Ltd T/A Supergrows Cosmetics",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERHEALTHCARE",
-    "town_city": "WESTCLIFF ON SEA",
-    "county": "ESSEX",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superhouse (UK) Ltd",
-    "town_city": "Leicester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior Accounting Solutions Limited",
-    "town_city": "Glasgow",
-    "county": "Scotland",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior Care (Midlands) Limited",
-    "town_city": "Sutton Coldfield",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior Care Group Ltd",
-    "town_city": "Milton Keynes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior Garment Care Ltd trading as Village Dry Cleaners",
-    "town_city": "Armersham",
-    "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior Grill Ltd",
-    "town_city": "Welling",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior Horizons Ltd T/A Sanam sweet House &amp; Restaurant",
-    "town_city": "Manchester, England",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior NI Group Holdings Ltd",
-    "town_city": "Larne",
-    "county": "Co Antrim",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERIOR SAFEGUARDING SERVICES LTD",
-    "town_city": "Bradford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior Smiles Knutsford",
-    "town_city": "Knutsford",
-    "county": "Cheshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superior Wild Well Energy Services Limited",
-    "town_city": "Aberdeen",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Superior Wild Well Energy Services Limited",
-    "town_city": "Aberdeen",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERIORZ TECH LTD",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supermart Local",
-    "town_city": "Coventry",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supermassive Games Limited",
-    "town_city": "Guildford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Supermassive Games Limited",
-    "town_city": "Guildford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super-Max Limited",
-    "town_city": "Staines",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supernews and Cards",
-    "town_city": "Leicestershire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supernova Digital Media UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supernova UK Bidco Limited",
-    "town_city": "Rickmansworth",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superrb Limited",
-    "town_city": "Hayling Island",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supersaver Bootle",
-    "town_city": "Bootle",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supersaver Store Ltd",
-    "town_city": "Wembley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SuperSeed Ventures LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Super-Sharp Space Systems Ltd",
-    "town_city": "Cambridge",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supersize Live Ltd",
-    "town_city": "Long Ditton",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SUPERSMART CONVENIENCE LIMITED t/a Supersmart Convenience Store",
-    "town_city": "Dundee",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supersolid Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supersonic Express Limited",
-    "town_city": "Sheffeild",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supersonic General Ltd",
-    "town_city": "Bradford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supersonicz Limited",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superspares QP Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superstruct Entertainment Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Supertrade Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Superunion Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Superunion Limited",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"

@@ -3269,6 +3269,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "3DRP Ltd",
+    "town_city": "Welwyn",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "3D&#x27;S Healthcare Services Ltd",
     "town_city": "Grays",
     "county": "Essex",
@@ -10143,13 +10150,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "A4 FM LTD",
-    "town_city": "Paisley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "A4 Holidays T/A Colliford Tavern and Holiday Site",
     "town_city": "Liskeard",
     "county": "Cornwall",
@@ -10173,6 +10173,13 @@
   {
     "organisation_name": "A4 Trading Limited T/A Flora Indica",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A4FM LTD",
+    "town_city": "Paisley",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -10531,6 +10538,13 @@
     "organisation_name": "AA Limited",
     "town_city": "Basingstoke",
     "county": "Hampshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AA LONDON TRADERS LTD",
+    "town_city": "Swanscombe",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -11329,6 +11343,13 @@
     "organisation_name": "AAHS3 LTD",
     "town_city": "Tipton",
     "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AAI SPORTS LTD",
+    "town_city": "Coventry",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -12829,20 +12850,6 @@
     "county": "Buckinghamshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "AbacusNext International Ltd",
-    "town_city": "Edinburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "AbacusNext International Ltd",
-    "town_city": "Edinburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "ABAD LTD",
@@ -15374,6 +15381,13 @@
   {
     "organisation_name": "ABM Academy Ltd",
     "town_city": "Blackpool",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ABM DIGITAL ACCOUNTANTS LTD",
+    "town_city": "Lonodn",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -18655,6 +18669,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Ace24 Healthcare Ltd",
+    "town_city": "Colchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aced Support Ltd",
     "town_city": "Coventry",
     "county": "",
@@ -20464,6 +20485,13 @@
     "organisation_name": "Active Healthcare Services",
     "town_city": "Livingston",
     "county": "West Lothian",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Active Health",
+    "town_city": "Bath",
+    "county": "Bath and North East Somerset",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -22792,6 +22820,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "ADEO ESTATES PROPERTY CONSULTANTS LIMITED",
+    "town_city": "England",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ADEPT ACCOUNTAX LTD",
     "town_city": "MITCHAM",
     "county": "",
@@ -23751,13 +23786,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ADORABLE CHILDCARE NURSERY LTD",
-    "town_city": "Dagenham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ADORATE LTD",
     "town_city": "LONDON",
     "county": "",
@@ -24452,8 +24480,8 @@
   },
   {
     "organisation_name": "Advanced Automobile Solutions Ltd",
-    "town_city": "Wembley",
-    "county": "Middlesex",
+    "town_city": "Northwich",
+    "county": "Cheshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -31719,13 +31747,6 @@
   {
     "organisation_name": "Air One Aviation Limited",
     "town_city": "Kingston Upon Thames",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Air One Aviation Ltd",
-    "town_city": "Kingston-Upon-Thames",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -53228,13 +53249,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Angel Personnel Solutions Limited",
-    "town_city": "Tyne &amp; Wear",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Angel Plant Hire Ltd",
     "town_city": "London",
     "county": "",
@@ -56772,6 +56786,13 @@
   {
     "organisation_name": "ANZ DIGITAL LIMITED",
     "town_city": "Welwyn Garden City",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Anzan Immegration Lawyers Ltd",
+    "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -61579,6 +61600,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARC &amp; SONS HOLDINGS LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ARC Aerosystems Limited",
     "town_city": "Cranfield",
     "county": "Bedfordshire",
@@ -64183,13 +64211,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ARION SECURITY (UK) LTD",
-    "town_city": "London",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Arisaig Hotel LTD",
     "town_city": "Arisaig",
     "county": "Inverness-shire",
@@ -64319,13 +64340,6 @@
     "organisation_name": "ARISTO TRAVELS",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ARISTOCRAT EXCLUSIVE LADIES AND MENSWEAR LIMITED",
-    "town_city": "Bishop&#x27;s Stortford",
-    "county": "Hertfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -67620,6 +67634,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Artond Ltd",
+    "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Artorius Wealth Ltd",
     "town_city": "Manchester",
     "county": "Greater Manchester",
@@ -69672,7 +69693,7 @@
   },
   {
     "organisation_name": "ASG International Trading LTD",
-    "town_city": "London",
+    "town_city": "Luton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69974,27 +69995,6 @@
   {
     "organisation_name": "Ashalina &amp; Associates Limited",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHANTI GLOBAL LIMITED",
-    "town_city": "NOTTINGHAM",
-    "county": "NOTTINGHAMSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashapura Foods Limited T/A Sunrup",
-    "town_city": "Harrow",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashar Brooks Limited",
-    "town_city": "Ilford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
