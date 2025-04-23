@@ -8687,6 +8687,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A&amp;SH LIMITED T/A Spice House",
+    "town_city": "Buckie",
+    "county": "Scotland",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A&amp;T Caring Services Ltd",
     "town_city": "Bracknell",
     "county": "Berkshire",
@@ -10633,6 +10640,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AA PANTILES SERVICE LTD",
+    "town_city": "Tunbridge Wells",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AA PARTNERSHIP LIMITED",
     "town_city": "Epsom",
     "county": "",
@@ -11098,6 +11112,13 @@
     "organisation_name": "AADARS UK LTD T/A GURKHA KITCHEN",
     "town_city": "LERWICH",
     "county": "SHETLAND",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AADHAM FUTURE LIMITED",
+    "town_city": "Dorking",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -22589,11 +22610,18 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Addvantage Technologies Ltd",
-    "town_city": "Bolton",
+    "organisation_name": "AD-DUHA FOUNDATION",
+    "town_city": "BIRMINGHAM",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AD-DUHA FOUNDATION",
+    "town_city": "BIRMINGHAM",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Charity Worker"
   },
   {
     "organisation_name": "ADE Power Limited",
@@ -27266,7 +27294,7 @@
   },
   {
     "organisation_name": "Afman Ltd",
-    "town_city": "Middleton",
+    "town_city": "Rochdale",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -29290,6 +29318,13 @@
   {
     "organisation_name": "AGM autocentre Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AGM Developments Ltd",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -34252,7 +34287,7 @@
   },
   {
     "organisation_name": "AKHIRAH LTD",
-    "town_city": "Ilford",
+    "town_city": "Loughton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -56364,6 +56399,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ANTONI &amp; RIENZIE LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Antonias Pizza Limited",
     "town_city": "Rowley Regis",
     "county": "West Midlands",
@@ -58611,13 +58653,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Appealing Care Services Limited",
-    "town_city": "Knaresborough",
-    "county": "North Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Appear Here Limited",
     "town_city": "London",
     "county": "",
@@ -59538,6 +59573,13 @@
     "organisation_name": "Appstrato Ltd",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "APPSYNC DESIGNS LTD",
+    "town_city": "Luton",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -63770,13 +63812,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Argus Fire Protection Company Limited",
-    "town_city": "Stourbridge",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Argus Software (UK) Ltd",
     "town_city": "London",
     "county": "",
@@ -65431,13 +65466,6 @@
   {
     "organisation_name": "Armann Trading Ltd",
     "town_city": "Ormskirk",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Armann Transport Ltd",
-    "town_city": "Bilston",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69443,14 +69471,14 @@
     "organisation_name": "Asda Stores Ltd",
     "town_city": "Leeds",
     "county": "West Yorkshire",
-    "type_rating": "Worker (A (Premium))",
+    "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Asda Stores Ltd",
     "town_city": "Leeds",
     "county": "West Yorkshire",
-    "type_rating": "Worker (A (Premium))",
+    "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
@@ -69968,34 +69996,6 @@
     "organisation_name": "ASHA RESTAURANT (NEWARK) LTD",
     "town_city": "Newark",
     "county": "Nottinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHA SOLUTIONS LIMITED",
-    "town_city": "Pinner",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asha Tandoori Indian Take Away",
-    "town_city": "Bangor",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashaaz Ltd",
-    "town_city": "Coventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ashalina &amp; Associates Limited",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
