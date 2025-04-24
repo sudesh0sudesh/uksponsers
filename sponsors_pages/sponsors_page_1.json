@@ -1169,13 +1169,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "1ovmany ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "1partCarbon Ltd",
     "town_city": "Edinburgh",
     "county": "Scotland",
@@ -1227,13 +1220,6 @@
   {
     "organisation_name": "1ST ASSIST LIMITED",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "1ST CALL RECRUITMENT SERVICES LTD",
-    "town_city": "Stockport",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -2901,13 +2887,6 @@
     "organisation_name": "3A Tech Limited T/A Tech Fix",
     "town_city": "Middlesbrough",
     "county": "North Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "3A TELECOM CONSULTANCY LTD",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -13839,6 +13818,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ABC Buildcon Limited",
+    "town_city": "Edgware",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ABC Builder (Aiub Building Construction)",
     "town_city": "Oldham",
     "county": "Greater Manchester",
@@ -14913,13 +14899,6 @@
     "organisation_name": "ABIB PLUMBING AND BUILDING MANAGEMENT LIMITED",
     "town_city": "Barking",
     "county": "Greater London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ABICARE HEALTH SOLUTIONS LTD",
-    "town_city": "Glasgow",
-    "county": "Scotland",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -28352,6 +28331,13 @@
   {
     "organisation_name": "AGATEGOLD LTD T/A RAJ JEWELS",
     "town_city": "WEMBLEY",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Agave Capital Management Limited",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -48496,6 +48482,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AMEA METALS LTD",
+    "town_city": "New Malden",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AMEDEO SERVICES (UK) LIMITED",
     "town_city": "London",
     "county": "",
@@ -67536,6 +67529,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Artisanne Limited",
+    "town_city": "Liverpool",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Artisio Limited",
     "town_city": "London",
     "county": "",
@@ -67945,6 +67945,13 @@
     "organisation_name": "Arun Veterinary Group Ltd.",
     "town_city": "Storrington",
     "county": "West Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Aruna Gamage Ltd",
+    "town_city": "Winscombe",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69989,13 +69996,6 @@
     "organisation_name": "Asha Indian Restaurant LTD",
     "town_city": "Louth",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASHA RESTAURANT (NEWARK) LTD",
-    "town_city": "Newark",
-    "county": "Nottinghamshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
