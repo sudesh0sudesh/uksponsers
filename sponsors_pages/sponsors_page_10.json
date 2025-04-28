@@ -1,5 +1,509 @@
 [
   {
+    "organisation_name": "Prima Emporium LTD",
+    "town_city": "Glasgow",
+    "county": "Scotland",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMA FOODS LTD",
+    "town_city": "BRECHIN",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMA HEALTHCARE LIMITED t/a Ranelagh House",
+    "town_city": "Liverpool",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prima International Ltd",
+    "town_city": "Southall",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prima Medical",
+    "town_city": "Stonehouse",
+    "county": "Glos",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMA PACK LTD",
+    "town_city": "Romford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prima Subsidary Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prima Subsidary Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Prima Vets Limited",
+    "town_city": "Heywood",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primacare Surgeries",
+    "town_city": "Stoke on trent",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primacy Meats Ltd",
+    "town_city": "Bangor",
+    "county": "down",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PrimacyCare Ltd",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primafruit Limited",
+    "town_city": "Worcestershire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primal Cars Uk Ltd",
+    "town_city": "Barking",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primare Limited t/a Bluebird Care Manchester South",
+    "town_city": "Manchester",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Access &amp; Research Ltd",
+    "town_city": "Sudbury",
+    "county": "Suffolk",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMARY CARE CHEMISTS LIMITED",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMARY CARE DIETITIANS LTD",
+    "town_city": "Pudsey,",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Care Doncaster Ltd",
+    "town_city": "Doncaster",
+    "county": "South Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Care Point Limited T/A PCP Dental Recruitment",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Care Sheffield",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMARY CARERS 24/7 (HOMECARE) LIMITED",
+    "town_city": "Preston",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Eye Care Services",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Group (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Health (London) Limited T/A Rosewood Pharmacy",
+    "town_city": "Essex",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Health Solutions Ltd",
+    "town_city": "Tilbury",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Health Team Ltd",
+    "town_city": "Radstock",
+    "county": "Avon",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Homecare LTD",
+    "town_city": "Barham",
+    "county": "Ipswich",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Integrated Community Services Ltd",
+    "town_city": "Nottingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Medical Solutions Limited",
+    "town_city": "Stoke-On-Trent",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Portal Solutions Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primary Talent International Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
+    "organisation_name": "Primary Water Treatment",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMARYBID LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMARYCAREPHYSIO LIMITED",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Primatas Ltd T/A Westkin Associates",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIMCE LOGISTICS &amp;SUPPLIES LTD",
+    "town_city": "HARROW",
+    "county": "MIDDLESEX",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime 786 Foods Ltd T/A Haute Dolci Glasgow",
+    "town_city": "Glasgow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Accountancy Services Ltd",
+    "town_city": "Enfield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Accountants Ltd",
+    "town_city": "HAYES",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime and Passionate Healthcare Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIME AUTOS WYCOMBE LTD",
+    "town_city": "High Wycombe",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIME BEAUTY LOUNGE LTD",
+    "town_city": "Aberdeen",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Bite Limited",
+    "town_city": "Barking",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Building Maintenance Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Calibre Care Group Ltd",
+    "town_city": "Romford",
+    "county": "Greater London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Care (GB) Ltd",
+    "town_city": "Southport",
+    "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Care (UK) Ltd",
+    "town_city": "Southend On Sea",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Care Domiciliary Ltd",
+    "town_city": "Colchester",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Care Services Limited",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIME CARE SUPPORTED LTD",
+    "town_city": "Staines-upon-Thames",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Certification Services UK Limited",
+    "town_city": "Cardiff",
+    "county": "Wales",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Circle Ltd",
+    "town_city": "Bolton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Collateralised Securities (PCS) UK Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Consultant Services Limited",
+    "town_city": "Slough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Consulting (U.K) Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Education and Training Ltd t/a Kings Education",
+    "town_city": "Hove",
+    "county": "East Sussex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Energy Markets Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Enterprises Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Events International Limited",
+    "town_city": "Rochdale",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
+    "organisation_name": "PRIME FOCUS INTERNATIONAL SERVICES UK LTD",
+    "town_city": "LONDON",
+    "county": "LONDON",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "PRIME FOCUS INTERNATIONAL SERVICES UK LTD",
+    "town_city": "LONDON",
+    "county": "LONDON",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
+    "organisation_name": "PRIME FOCUS INTERNATIONAL SERVICES UK LTD",
+    "town_city": "LONDON",
+    "county": "LONDON",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Prime Focus Technologies UK Limited",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Food Boston",
+    "town_city": "ILFORD",
+    "county": "ESSEX",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Food Enterprise Ltd T/A Roast &amp; Co.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Food Norfolk",
+    "town_city": "Ilford",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Food Stowmarket Ltd",
+    "town_city": "Ilford",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Food Suffolk Ltd",
+    "town_city": "Forest Gate",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime General Contractor Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Global Medical Communications Limited",
+    "town_city": "Cheshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Prime Global Medical Communications Limited",
+    "town_city": "Cheshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
     "organisation_name": "Prime Global Ventures Ltd",
     "town_city": "London",
     "county": "",
@@ -687,7 +1191,7 @@
   },
   {
     "organisation_name": "Primrose Healthcare Solutions Limited",
-    "town_city": "London",
+    "town_city": "Romford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -14994,6 +15498,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Quiz Room UK Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Quizchoice Ltd",
     "town_city": "London",
     "county": "",
@@ -17277,7 +17788,7 @@
   },
   {
     "organisation_name": "RAB SECURITY SERVICES LTD",
-    "town_city": "London",
+    "town_city": "Harlow",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -24920,6 +25431,13 @@
     "route": "Tier 2 Ministers of Religion"
   },
   {
+    "organisation_name": "RCCG THRONE OF GRACE, WISBECH",
+    "town_city": "WISBECH",
+    "county": "CAMBRIGDESHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
     "organisation_name": "RCCG THRONE OF GRACE",
     "town_city": "LEIGH-ON-SEA",
     "county": "",
@@ -30310,6 +30828,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Regallite Properties Ltd",
+    "town_city": "Harrow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "REGALMARK LIMITED",
     "town_city": "LONDON",
     "county": "",
@@ -32958,6 +33483,13 @@
   {
     "organisation_name": "Renewed Care Solutions Limited",
     "town_city": "Greenford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "RENEWHUE LTD",
+    "town_city": "Dartford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -43120,6 +43652,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "RNZ EQUEPET UK LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "RO Engineeria Ltd",
     "town_city": "Manchester",
     "county": "",
@@ -43752,14 +44291,14 @@
   {
     "organisation_name": "ROBERTS CARE &amp; TRAINING LIMITED",
     "town_city": "Paisley",
-    "county": "Renfrewshire",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ROBERTS CARE &amp; TRAINING LIMITED",
+    "organisation_name": "ROBERTS CARE AND TRAINING LIMITED",
     "town_city": "Paisley",
-    "county": "",
+    "county": "Renfrewshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -54082,13 +54621,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Rylands Residential Limited",
-    "town_city": "Nottingham",
-    "county": "Nottinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "RYMACARE LIMITED",
     "town_city": "Eastleigh",
     "county": "",
@@ -63210,6 +63742,20 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "SAMBA TV UK LIMITED",
+    "town_city": "Cheltenham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "SAMBA TV UK LIMITED",
+    "town_city": "Cheltenham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Sambal Shiok Laksa Bar",
     "town_city": "London",
     "county": "",
@@ -67963,6 +68509,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "SAS WATER LIMITED",
+    "town_city": "Leek",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "SAS YORKSHIRE ACCOUNTANTS LTD",
     "town_city": "Batley",
     "county": "",
@@ -69443,559 +69996,6 @@
     "organisation_name": "SAWHNEY CONSULTING LIMITED",
     "town_city": "Harrow",
     "county": "MIDDLESEX",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sawkings Architects Ltd",
-    "town_city": "Betchworth",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sawston and Babraham CC",
-    "town_city": "CAMBRIDGE",
-    "county": "Cambridgeshire",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Sawston Village stores ltd",
-    "town_city": "Sawston",
-    "county": "cambridge",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAWTHIRI PVT LTD",
-    "town_city": "Lytham St Annes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sawtooth Software UK Limited",
-    "town_city": "Ashton-Under-Lyne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sawtooth Software UK Limited",
-    "town_city": "Ashton-Under-Lyne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Sawyers Estate Agents Ltd",
-    "town_city": "Stroud",
-    "county": "Gloucestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAXA GLASS LIMITED",
-    "town_city": "EAST GRINSTEAD",
-    "county": "WEST SUSSEX",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAXBY 3 LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAXBY ENTERPRISES LTD",
-    "town_city": "QUEENBOROUGH",
-    "county": "KENT",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saxo Capital Markets UK Ltd",
-    "town_city": "Canary Wharf",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saxo Capital Markets UK Ltd",
-    "town_city": "Canary Wharf",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Saxon Academy of Learning Limited",
-    "town_city": "Ilford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saxon Care Solutions Limited",
-    "town_city": "Chippenham",
-    "county": "Wiltshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saxon Cross Surgery",
-    "town_city": "Stapleford",
-    "county": "Nottingham",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saxon Healthcare LTD",
-    "town_city": "ILFORD, LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saxon Quality Foods Ltd",
-    "town_city": "Scunthorpe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saxton Bampfylde Hever Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Say Cheers MK02 Ltd",
-    "town_city": "Eastbourne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAY COMMUNICATIONS LIMITED",
-    "town_city": "Wimbledon",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Say Digital Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Say Digital Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Say Digital Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
-  },
-  {
-    "organisation_name": "Say Opal Healthcare Ltd",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Say Property Consulting LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saya Enterprises Limited T/A Shayona",
-    "town_city": "Wembley",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saya Retail Ltd",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saya Superstore Ltd",
-    "town_city": "Bedford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYAGYI U BA KHIN MEMORIAL TRUST",
-    "town_city": "Calne",
-    "county": "Wiltshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Religious Worker"
-  },
-  {
-    "organisation_name": "SAYAGYI U BA KHIN MEMORIAL TRUST",
-    "town_city": "Calne",
-    "county": "Wiltshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Tier 2 Ministers of Religion"
-  },
-  {
-    "organisation_name": "Sayani Medical Limited",
-    "town_city": "Hove",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYANIYA MAHENDRARAJ",
-    "town_city": "SOUTHAM",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sayari Labs Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Sayari Labs Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYARTS.COM CIC",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Saybolt United Kingdom Ltd",
-    "town_city": "West Thurrock",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saybolt United Kingdom Ltd",
-    "town_city": "West Thurrock",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Sayed Global Ltd",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYED LOONAT T/A KEEP IN TOUCH NEWS",
-    "town_city": "CASTLEFORD",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYEDA LOGISTICS LTD",
-    "town_city": "Slough",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYEGH ORTHODONTICS LTD",
-    "town_city": "Edinburgh",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYEM AUTOCARE",
-    "town_city": "BOLTON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sayers Butterworth LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYERS ENGINEERING LTD",
-    "town_city": "CASTLEDERG",
-    "county": "TYRONE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sayers Publishing Group Ltd",
-    "town_city": "Crawley",
-    "county": "West Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sayiesorupan Gnanasuriyam T/A Gatehouse Store",
-    "town_city": "Redhill",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYLAAB GROUP YK HEALTH CARE LIMITED",
-    "town_city": "Haslingden",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saymez Cars",
-    "town_city": "Derby",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sayona Bolton Ltd",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYONA LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAYRAM LTD",
-    "town_city": "London, England",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SaySo Medical",
-    "town_city": "London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sayturk Group Limited",
-    "town_city": "Newcastle Upon Tyne",
-    "county": "Tyne &amp; Wear",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sayuri London Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SAZ Enterprise Limited T/A Genzo Greek",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Saz Gas &amp; Heating Services ltd",
-    "town_city": "Luton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sazeda Group Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sazerac UK Limited",
-    "town_city": "Hampton Wick",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Sazy Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Amersham Limited",
-    "town_city": "Amersham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Bar Kensington",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Boxpark Wembley Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB CARE LTD",
-    "town_city": "Essex",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Carpet &amp; Furniture LTD",
-    "town_city": "Scunthorpe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Components Ltd",
-    "town_city": "Halesowen",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Construction (Herts) Ltd",
-    "town_city": "Wixams",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB CONSULTATION SERVICES LTD",
-    "town_city": "London",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Convenience Stores Limited T/a Go Local",
-    "town_city": "Sheffield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Farms Ltd",
-    "town_city": "Haverfordwest",
-    "county": "Pembrokeshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB FOODS TRADING LIMITED T/A F B EXPRESS",
-    "town_city": "Walsall",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB HOSPITALITY I/A APURBA LIMITED",
-    "town_city": "LEICESTER",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Hotel Group",
-    "town_city": "Watford",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Investment Advisers (UK) Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Investment Advisers (UK) Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "SB KHS Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Marketing Plus Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB MRB LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Nehir Limited T/A One Way Supermarket",
-    "town_city": "Bournemouth",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Realty Ltd T/A Smashburger",
-    "town_city": "Camberely",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
