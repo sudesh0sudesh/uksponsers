@@ -8792,6 +8792,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A. L. Sayers (Holbeton) Limited",
+    "town_city": "Plymouth",
+    "county": "Devon",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A. Lewis &amp; Sons Limited T/A Lewis&#x27;s Bakery",
     "town_city": "Birmingham",
     "county": "",
@@ -18397,8 +18404,8 @@
   },
   {
     "organisation_name": "ACDCAT.IO limited",
-    "town_city": "Watford",
-    "county": "Hertfordshire",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -18427,6 +18434,13 @@
     "organisation_name": "Ace Adventure Limited",
     "town_city": "Forres",
     "county": "Moray",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ACE ANALYTICS LIMITED",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -32732,7 +32746,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Aisha Cafe Ltd",
+    "organisation_name": "Aisha Catering Ltd",
     "town_city": "Leeds",
     "county": "West Yorkshire",
     "type_rating": "Worker (A rating)",
@@ -34945,6 +34959,13 @@
   },
   {
     "organisation_name": "AKT II Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AKT UK&amp;I LIMITED",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -41356,13 +41377,6 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
-    "organisation_name": "ALL4ONE CARE SERVICES LIMITED",
-    "town_city": "Rainham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "All4One Services Ltd",
     "town_city": "South Croydon",
     "county": "",
@@ -43275,14 +43289,14 @@
   },
   {
     "organisation_name": "Al-Maryam",
-    "town_city": "Salford",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Al-Maryam",
-    "town_city": "Salford",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Temporary Worker (A rating)",
     "route": "Charity Worker"
@@ -51634,13 +51648,6 @@
   {
     "organisation_name": "Analyttica Datalab Private Limited",
     "town_city": "Reading",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ANAM BAKSH LTD",
-    "town_city": "BLACKBURN",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -60410,6 +60417,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AQUA FRESH PRODUCE LIMITED",
+    "town_city": "Southall",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aqua Fun Ltd",
     "town_city": "London",
     "county": "",
@@ -62664,6 +62678,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Archimydes Pvt Ltd",
+    "town_city": "Alton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Archimydes Pvt Ltd",
+    "town_city": "Alton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ARCHINCAD LTD",
     "town_city": "EDGWARE",
     "county": "",
@@ -62919,6 +62947,13 @@
     "organisation_name": "Arco Ltd",
     "town_city": "Hull",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Arcola Products Limited",
+    "town_city": "Sittingbourne",
+    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69960,41 +69995,6 @@
   {
     "organisation_name": "ASH ABI &amp; AROOSH LTD",
     "town_city": "Knebworth",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ash Accountancy Solutions Ltd",
-    "town_city": "Aberdeen",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASH AND SOPH WINES LIMITED T/A BRYANT ROAD NEWSAGENCY",
-    "town_city": "ROCHESTER , KENT",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ash Bird Ltd",
-    "town_city": "Surrey",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASH CAR HIRE LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASH GLOBAL SERVICES LTD",
-    "town_city": "BLACKBURN",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
