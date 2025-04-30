@@ -1750,6 +1750,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "23 Architecture Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "23 Consult Ltd",
     "town_city": "Liverpool",
     "county": "Merseyside",
@@ -9933,6 +9940,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A2Z Autoworks Ltd t/a Slough Car Garage",
+    "town_city": "Slough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A2Z Bathrooms &amp; Tiles Limited",
     "town_city": "Huddersfield",
     "county": "West Yorkshire",
@@ -10937,6 +10951,13 @@
     "organisation_name": "AAA healthcare",
     "town_city": "Preston",
     "county": "Lancashire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AAA Homecare Limited",
+    "town_city": "Billingham",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -32186,6 +32207,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "AIRDRIE CARDS AND GIFTS LTD T/A Card Depot",
+    "town_city": "Airdrie",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Airdrie Clinic Ltd T/A Maple Clinics Airdrie",
     "town_city": "Airdrie",
     "county": "",
@@ -34043,6 +34071,13 @@
   {
     "organisation_name": "Akari Care Limited",
     "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Akari Trading Limited",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -43477,7 +43512,7 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AL-MUJAMMIL FREAGRANCE LTD",
+    "organisation_name": "AL-MUJAMMIL FRAGRANCE LTD",
     "town_city": "Preston",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -60242,6 +60277,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "APZ FOOD LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AQ Accountants Limited",
     "town_city": "London",
     "county": "",
@@ -63243,6 +63285,13 @@
     "county": "Oxfordshire",
     "type_rating": "Worker (A rating)",
     "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "Arden Photonics Limited",
+    "town_city": "Solihull",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Arden University",
@@ -68614,13 +68663,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "AS Global Care Limited",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AS Greenford Heating and Plumbing (UK) Limited",
     "town_city": "Greenford",
     "county": "",
@@ -69954,48 +69996,6 @@
     "organisation_name": "Asgard Ventures Limited",
     "town_city": "Tolworth",
     "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASGHAR &amp; SONS LIMITED",
-    "town_city": "Bradford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asghar &amp; Sons Supermarkets Ltd T/A  Asia Continental",
-    "town_city": "Blackburn",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASH &amp; EVEN (UK) LTD",
-    "town_city": "Birmingham",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ash &amp; Lacy Building Systems Limited",
-    "town_city": "West Bromwich",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ash &amp; Lacy Solutions Ltd",
-    "town_city": "West Bromwich",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASH ABI &amp; AROOSH LTD",
-    "town_city": "Knebworth",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
