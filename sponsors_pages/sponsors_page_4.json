@@ -1,5 +1,117 @@
 [
   {
+    "organisation_name": "Daily Fresh Dairies",
+    "town_city": "Coventry",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daily Fresh Food 2 Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DAILY LIVING CARE LTD",
+    "town_city": "Coventry",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daily Mail and General Trust Plc",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daily Mail and General Trust Plc",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Daily Needs Food and Wine Limited",
+    "town_city": "Taunton",
+    "county": "Somerset",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DAILY SAVE LIMITED",
+    "town_city": "Woking",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DailyPay (NI) LTD",
+    "town_city": "Belfast",
+    "county": "Antrim",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "DailyPay (NI) LTD",
+    "town_city": "Belfast",
+    "county": "Antrim",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "DAIMA GLOBAL LIMITED",
+    "town_city": "London",
+    "county": "Greater London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daimizuki food limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daimler Truck UK Limited",
+    "town_city": "Milton Keynes",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daimler Truck UK Limited",
+    "town_city": "Milton Keynes",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Daingade Building Automation Ltd.",
+    "town_city": "Ilford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Daira&#x27;s Personnel Ltd.",
+    "town_city": "Coventry",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dairy Crest Limited (trading as Saputo Dairy UK)",
+    "town_city": "Weybridge",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Dairy Crest Limited (trading as Saputo Dairy UK)",
     "town_city": "Weybridge",
     "county": "Surrey",
@@ -87,13 +199,6 @@
     "organisation_name": "Daisychain Homecare Services (Bakewell) Limited",
     "town_city": "Matlock",
     "county": "Derbyshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Daisy-Fieldz Care Services LTD",
-    "town_city": "Manchester",
-    "county": "Greater Manchester",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -16842,13 +16947,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Digital Gurus Recruitment Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Digital Health and Care Wales",
     "town_city": "Cardiff",
     "county": "",
@@ -17428,6 +17526,13 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "DIGITEC Financial Technologies and Services (UK) Ltd",
+    "town_city": "London",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Digitech Solutions and Consulting Limited",
@@ -25333,6 +25438,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Downton Group Ltd",
+    "town_city": "Bracknell",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "DOWNTOWN CAFE LTD",
     "town_city": "Nottingham",
     "county": "",
@@ -25987,6 +26099,13 @@
     "organisation_name": "Dr I Ismail  &amp; Partners",
     "town_city": "Marston Moretaine",
     "county": "Bedford",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Dr J &amp; Colleagues",
+    "town_city": "Lincoln",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -38598,13 +38717,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Ecole Jeannine Manuel UK",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Ecolibrium Inc Ltd",
     "town_city": "London",
     "county": "",
@@ -43732,13 +43844,6 @@
     "organisation_name": "EL Shaddai Homes Limited",
     "town_city": "Walsall",
     "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "El Torero Limited",
-    "town_city": "Newcastle upon Tyne",
-    "county": "Tyne and Wear",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -63280,13 +63385,6 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
-    "organisation_name": "EVEREST GROUP OF CONSTRUCTION UK LTD",
-    "town_city": "Wallington",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "EVEREST HAIR &amp; BEAUTY LIMITED",
     "town_city": "Bournemouth",
     "county": "England",
@@ -63380,6 +63478,13 @@
   {
     "organisation_name": "EVEREST RUNCORN LTD",
     "town_city": "RUNCORN",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "EVEREST SHOPFITTING AND CONSTRUCTION UK LTD",
+    "town_city": "Wallington",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69889,111 +69994,6 @@
   },
   {
     "organisation_name": "Fadaat Media",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fadaat Media",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Faddy Development Limited",
-    "town_city": "Witham",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FADE &amp; RAZOR LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FADED BARBER SHOP LTD",
-    "town_city": "Huddersfield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fadel Partners UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fades &amp; Blades London Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FADEX TRADING LTD",
-    "town_city": "Huddersfield",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Fadez Barber Ltd",
-    "town_city": "Walsall",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FADEZ BARBERZ LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FAE Ventures LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Faegre Drinker Biddle &amp; Reath LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Faegre Drinker Biddle &amp; Reath LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Faerch UK Ltd",
-    "town_city": "Ely",
-    "county": "Cambridgeshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FAF ASSETS LTD",
-    "town_city": "Romford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "FAFA ONE LTD",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
