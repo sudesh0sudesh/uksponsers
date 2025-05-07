@@ -280,16 +280,16 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "1 PhysioUK Limited",
-    "town_city": "Milton Keynes",
-    "county": "",
+    "organisation_name": "1 REPAIR LTD",
+    "town_city": "Clarkston",
+    "county": "Glasgow",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "1 REPAIR LTD",
-    "town_city": "Clarkston",
-    "county": "Glasgow",
+    "organisation_name": "1 Step beyond Support Ltd",
+    "town_city": "Cannock",
+    "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -317,6 +317,13 @@
   {
     "organisation_name": "1 Stop Wash Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "10 DINING STREET LIMITED",
+    "town_city": "Oakham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -847,6 +854,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "1512 Limited T/A AGAssociates",
+    "town_city": "Wallington",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "152 Harley Street Limited",
     "town_city": "London",
     "county": "London",
@@ -1309,16 +1323,16 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "1st Class Care Ltd",
-    "town_city": "Livingston",
-    "county": "",
+    "organisation_name": "1st Class care services 2LTD",
+    "town_city": "Ledbury",
+    "county": "Herefordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "1st Class care services 2LTD",
-    "town_city": "Ledbury",
-    "county": "Herefordshire",
+    "organisation_name": "1st Class Care Solutions Limited",
+    "town_city": "Livingston",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -4133,6 +4147,13 @@
     "organisation_name": "4J Studios Limited",
     "town_city": "East Linton",
     "county": "East Lothian",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "4J&#x27;S Educational Academy Ltd",
+    "town_city": "Peterborough",
+    "county": "Cambridgeshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -10102,7 +10123,7 @@
   },
   {
     "organisation_name": "A3 CARE LTD",
-    "town_city": "Farnborough",
+    "town_city": "Fleet",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -10732,7 +10753,7 @@
   },
   {
     "organisation_name": "AA SECURITY FORCE LTD",
-    "town_city": "Ilford,",
+    "town_city": "Ilford",
     "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -17290,6 +17311,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Accertify (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Accertify (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ACCESS 24/7 HEALTHCARE LIMITED",
     "town_city": "GRAYS",
     "county": "",
@@ -18242,6 +18277,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Acc-Sel Genetics Limited",
+    "town_city": "North Road",
+    "county": "Ellemere Port",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Acctax (Online) Ltd",
     "town_city": "Manchester",
     "county": "",
@@ -19034,8 +19076,8 @@
   },
   {
     "organisation_name": "Achievers Care Solutions Limited",
-    "town_city": "Aveley",
-    "county": "South Ockendon",
+    "town_city": "Dartford",
+    "county": "Kent",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -21427,6 +21469,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AD Implant.com Limited T/A Dental Implant Centre",
+    "town_city": "Reading",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AD Mobiles &amp; Accessories Ltd",
     "town_city": "Manchester",
     "county": "Greater Manchester",
@@ -22403,6 +22452,13 @@
     "organisation_name": "ADD GLOW Limited",
     "town_city": "Ashford",
     "county": "kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ADDA GHAR LTD",
+    "town_city": "London",
+    "county": "England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -24580,13 +24636,6 @@
     "organisation_name": "Advanced Beauty Clinic and Training Ltd.",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Advanced Biofuel Solutions Ltd",
-    "town_city": "Swindon",
-    "county": "UK",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -29682,6 +29731,13 @@
   {
     "organisation_name": "Agriculture Machinery Cleaning Ltd",
     "town_city": "Hull",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AGRICYCLERS LTD",
+    "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -35427,6 +35483,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AL FATAH FOODS LTD",
+    "town_city": "Oldham",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AL FATIHAH MOSQUE AND ISLAMIC CENTRE",
     "town_city": "Croydon",
     "county": "",
@@ -36108,6 +36171,20 @@
   {
     "organisation_name": "Al Saad Traders Limited T/A: AST Security",
     "town_city": "Luton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AL SAAD TRADERS LTD",
+    "town_city": "Luton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AL SABOOR TRAVELS UK LTD",
+    "town_city": "Ilford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -36883,6 +36960,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Ala-Ud-Din Mohammad Rajput ta KINGFISHER DENTAL SURGEY",
+    "town_city": "Redditch",
+    "county": "Worcestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alaya Enterprises Limited T/a German Doner Kebab",
     "town_city": "Scarborough",
     "county": "",
@@ -36949,6 +37033,13 @@
     "organisation_name": "ALB SCAFFOLDING LIMITED",
     "town_city": "Yiewsley",
     "county": "West Drayton",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alba Beds Limited",
+    "town_city": "Barking",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -37938,27 +38029,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Alderley plc",
-    "town_city": "Wotton-under-Edge",
-    "county": "Glos",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Alderley plc",
-    "town_city": "Wotton-under-Edge",
-    "county": "Glos",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Alderley plc",
-    "town_city": "Wotton-under-Edge",
-    "county": "Glos",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Global Business Mobility: Graduate Trainee"
   },
   {
     "organisation_name": "Aldermans Pharmacy (London) Ltd.",
@@ -39865,9 +39935,23 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Alice Naylor-Leyland Ltd",
+    "town_city": "Lynch Wood",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alicelyn Health Care Limited",
     "town_city": "Sheffield",
     "county": "South Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALICIS LONDON LIMITED",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -56931,6 +57015,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Anything is Possible",
+    "town_city": "brighton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ANYTHING PLUS EVERYTHING LTD t/a Anything and Every Thing",
     "town_city": "Edinburgh",
     "county": "",
@@ -59144,7 +59235,7 @@
   },
   {
     "organisation_name": "Apple Tree Gifts Ltd",
-    "town_city": "Cambridge",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -65793,6 +65884,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ARMOUR SECURITY GROUP (UK) LTD",
+    "town_city": "LONDON",
+    "county": "ESSEX",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Armscare Limited",
     "town_city": "Swaffham",
     "county": "Norfolk",
@@ -66519,20 +66617,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Arrival UK Limited",
-    "town_city": "Banbury",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Arrival UK Limited",
-    "town_city": "Banbury",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "Arrk Limited",
@@ -69912,90 +69996,6 @@
     "organisation_name": "ASFIN SOFTWARE &amp; CONSULTANCY LTD",
     "town_city": "London",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asfordby Chippy Ltd T/As Asfordby Chippy",
-    "town_city": "Melton Mowbray",
-    "county": "Leicestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASG (UK) TRADING CO. LTD",
-    "town_city": "Leatherhead",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASG ENTERPRISES LIMITED",
-    "town_city": "Hounslow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASG Integrated Systems Ltd",
-    "town_city": "Southport",
-    "county": "Merseyside",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASG International Trading LTD",
-    "town_city": "Luton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASG NW LTD t/a Tusk",
-    "town_city": "Strabane",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASG Power Systems Limited",
-    "town_city": "Newcastle Upon Tyne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASG Power Systems Limited",
-    "town_city": "Newcastle Upon Tyne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASG UK PVT LIMITED",
-    "town_city": "Salford",
-    "county": "Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asgard Controlled Environments Ltd",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asgard Estates Ltd",
-    "town_city": "Cambridge",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asgard Group Limited",
-    "town_city": "Sheffield",
-    "county": "South Yorkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

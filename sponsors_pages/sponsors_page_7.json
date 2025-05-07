@@ -1,5 +1,579 @@
 [
   {
+    "organisation_name": "JKO HOLDINGS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JKP Manchester Limited",
+    "town_city": "Blackburn",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JKR PHARMA LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JK&#x27;S FOOD &amp; WINE LTD",
+    "town_city": "West Sussex",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JKS Indian Restaurants Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JKS PUBS LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JKS Restaurants Holdings Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JKS STORES LTD",
+    "town_city": "SUNDERLAND",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JKS TRANSPORT LTD",
+    "town_city": "Oxford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JKV STORES LTD T/A LONGLEAZE STORES",
+    "town_city": "Swindon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JL CONVENIENCE SHOP LTD",
+    "town_city": "Essex",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JL IT Consulting Limited",
+    "town_city": "Slough",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLA Limited",
+    "town_city": "Ripponden",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLA Limited",
+    "town_city": "Ripponden",
+    "county": "West Yorkshire",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "International Agreement"
+  },
+  {
+    "organisation_name": "JLA Limited",
+    "town_city": "Ripponden",
+    "county": "West Yorkshire",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Global Business Mobility: Service Supplier"
+  },
+  {
+    "organisation_name": "JLC Distribution Ltd",
+    "town_city": "Clevedon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLE",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "JLG Industries (United Kingdom) Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLG Industries (United Kingdom) Limited",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "JLG Legal Limited",
+    "town_city": "Manchester",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLG Legal Limited",
+    "town_city": "Manchester",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "JLIRAL LTD",
+    "town_city": "Boston",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLKare and Support Limited",
+    "town_city": "Smethwick",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLM Global Foods Ltd",
+    "town_city": "Darlington",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLP Cosmetics Ltd",
+    "town_city": "Market Rasen",
+    "county": "East Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLP MEAT TRADING LTD",
+    "town_city": "London",
+    "county": "Greater London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLR Construction &amp; Engineering Limited",
+    "town_city": "Neath",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLR ENGINE LIMITED",
+    "town_city": "Feltham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLR PARK LTD",
+    "town_city": "Swindon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLTC Ltd.",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JLVO French Real Estate Consulting Limited",
+    "town_city": "Hove",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM &amp; SONS INVESTMENTS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM &amp; W Turnbull",
+    "town_city": "St Andrews",
+    "county": "Fife",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM (UK) Ltd",
+    "town_city": "LOUGHBOROUGH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM Carehomes Ltd.",
+    "town_city": "Westcliff-on-Sea, Essex",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM CLARK LTD",
+    "town_city": "Rettendon",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM CONSULTING LIMITED",
+    "town_city": "Barking",
+    "county": "Greater London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM Convenience Store Limited",
+    "town_city": "Luton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM Finn &amp; Co Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM Fusion Ltd",
+    "town_city": "Dartford",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM LONDON LIMITED",
+    "town_city": "WATFORD",
+    "county": "HERTFORDSHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM REFRIGERATION LIMITED",
+    "town_city": "BOLTON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM Wholesale Limited",
+    "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM.GSK LTD",
+    "town_city": "Wigan",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM3 Investment Limited",
+    "town_city": "Bromley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JM4 Foods Limited t/a London Burgers",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMA ENGINEERING LTD",
+    "town_city": "Croydon",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMAN Group Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMAN Group Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "JMARCHITECTS LTD",
+    "town_city": "EDINBURGH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Jmazra Ltd T/A Johnnos Pizza",
+    "town_city": "Reading",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMB Design &amp; Construction Ltd",
+    "town_city": "London",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMC Aviation Ltd",
+    "town_city": "Exeter",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMC Care Ltd",
+    "town_city": "Croydon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMC Care Solutions Limited",
+    "town_city": "Northampton",
+    "county": "Northamptonshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMC PACKAGING LTD",
+    "town_city": "CRAIGAVON",
+    "county": "ARMAGH",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Jmc Physiocures",
+    "town_city": "Glasgow",
+    "county": "South Lanarkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMCO WHOLESALE LTD T/A JMCO FOODS",
+    "town_city": "BIRMINGHAM",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD (London) Ltd T/A Fratelli Deli",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD Bristol Limited trading as Ashley Convenience Store",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD BRISTOL PROPERTIES LIMITED",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD Enterprises UK LTD",
+    "town_city": "Southall",
+    "county": "Middlesex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD FASTFOOD SERVICES LIMITED T/A Grillshack Havant",
+    "town_city": "Havant",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD Hospitality Limited",
+    "town_city": "Sheffield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD International Services Limited",
+    "town_city": "Law",
+    "county": "Lanarkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD Railtech Limited",
+    "town_city": "York",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMD Railtech Limited",
+    "town_city": "York",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "JMD Restaurants (Cardiff) Limited",
+    "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMDI LTD",
+    "town_city": "Ferryhill",
+    "county": "DURHAM",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JME Strategy Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMG CARGO &amp; TRAVEL LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMG STORE LTD T/A CROWN MEAD STORES",
+    "town_city": "THATCHAM",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMI Salons Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMI Salons Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "JMJ Associates Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMJ Associates Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "JMJ Associates",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMJ IMPORTS &amp; EXPORTS LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMJ RECRUITMENT LTD",
+    "town_city": "Dudley",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JMJ Surrey Ltd T/A ESSO Shepperton",
+    "town_city": "Shepperton, Surrey",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JML Contracts Ltd",
+    "town_city": "Aberuthven",
+    "county": "Perth &amp; Kinross",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "JML",
+    "town_city": "Chiswick",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "JMN Richardson Ltd",
     "town_city": "Shipley",
     "county": "West Sussex",
@@ -2240,6 +2814,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Jones&#x27; Physio &amp; Wellness Clinic Limited",
+    "town_city": "Biggleswade",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Jones The Butcher Trading Ltd",
     "town_city": "London",
     "county": "",
@@ -2402,8 +2983,15 @@
   },
   {
     "organisation_name": "Jorde Ltd",
-    "town_city": "Newcastle Upon Tyne",
-    "county": "Tyne and Wear",
+    "town_city": "Stirlingshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Jordhan Industries Ltd",
+    "town_city": "Wolverhampton",
+    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -2978,6 +3566,13 @@
     "organisation_name": "Joy Taste Ltd",
     "town_city": "Dalkeith",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Joy Tender Loving Care Services &#x27;Your Helping Hand Nurses&#x27;",
+    "town_city": "Lincoln",
+    "county": "Lincolnshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -5743,13 +6338,6 @@
     "organisation_name": "JUST DRINKS (NW) LTD",
     "town_city": "ACCRINGTON",
     "county": "LANCASHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Just Drinks London Ltd",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -14938,6 +15526,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Keltone Limited",
+    "town_city": "Northampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Keltruck Ltd",
     "town_city": "West Bromwich",
     "county": "West Midlands",
@@ -18004,6 +18599,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "KH CURRY LIMITED",
+    "town_city": "Leamington Spa",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "KH DESIGN AND CONSTRUCTIONS LIMITED",
     "town_city": "Wembley",
     "county": "",
@@ -18431,13 +19033,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Khankah Sirajia Limited",
-    "town_city": "Ashtead",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "KHANNA BROTHERS LTD t/a Castle Vale Post Office",
     "town_city": "BIRMINGHAM",
     "county": "",
@@ -18616,6 +19211,13 @@
     "organisation_name": "Khatar Foods Ltd T/A Arif Grocers",
     "town_city": "Rochdale",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Khatkar Limited t/as Soho Tavern",
+    "town_city": "Birmingham",
+    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -19852,13 +20454,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Kilic Pizza Ltd T/A Classic Pizza",
-    "town_city": "Tyne and Wear",
-    "county": "Sunderland",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Kilimanjaro Live Limited",
     "town_city": "London",
     "county": "",
@@ -20476,8 +21071,8 @@
   },
   {
     "organisation_name": "KINDERED HEARTS LIMITED",
-    "town_city": "SOUTHEND-ON-SEA",
-    "county": "",
+    "town_city": "STOKE ON TRENT",
+    "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -22025,6 +22620,13 @@
     "organisation_name": "Kingsnorth road post office",
     "town_city": "Ashford",
     "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kingsnorth Solicitors Limited",
+    "town_city": "Bolton",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -23641,6 +24243,13 @@
   {
     "organisation_name": "Kiyanpay ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Kiyansh Gourmet Limited T/A Saffron Summer",
+    "town_city": "Chessington",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -25769,6 +26378,13 @@
   {
     "organisation_name": "Knowledge Nest Ltd",
     "town_city": "Ilford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Knowledge Schools Trust",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -34265,13 +34881,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "LAC Northampton Limited t/a Loving Angels Care North Northamptonshire",
-    "town_city": "Northampton",
-    "county": "Northamptonshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "LAC Northampton Ltd",
     "town_city": "Northampton",
     "county": "",
@@ -37920,7 +38529,7 @@
   },
   {
     "organisation_name": "Las Lounge Ltd",
-    "town_city": "Croydon",
+    "town_city": "South Croydon",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -38701,6 +39310,13 @@
     "county": "Gloucesterchire",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "LAUNDARY CARE LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "LAUNDRA LIMITED",
@@ -50330,6 +50946,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Liquid Light",
+    "town_city": "Brighton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Liquid Telecommunications Limited",
     "town_city": "London",
     "county": "",
@@ -50662,13 +51285,6 @@
     "organisation_name": "Listers Leisure Ltd",
     "town_city": "Ilkley",
     "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "LIT INFOTECH LTD",
-    "town_city": "Bedford",
-    "county": "Bedfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -54902,6 +55518,13 @@
   },
   {
     "organisation_name": "Logifuture Tech Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Logifuture Tech Ltd",
     "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -60123,6 +60746,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "LOTUS INFOTECH LTD",
+    "town_city": "LUTON",
+    "county": "BEDFORDSHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Lotus Kitchen Ltd t/a Daddy&#x27;s Kitchen",
     "town_city": "Portsmouth",
     "county": "",
@@ -62596,7 +63226,7 @@
   {
     "organisation_name": "Lucky Dale Cars Ltd",
     "town_city": "Croydon",
-    "county": "Croydon",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -63344,8 +63974,8 @@
   },
   {
     "organisation_name": "Luminco UK Limited",
-    "town_city": "Sheffield",
-    "county": "",
+    "town_city": "Brentwood",
+    "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -63432,20 +64062,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "LumiraDx UK",
-    "town_city": "Stirling",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "LumiraDx UK",
-    "town_city": "Stirling",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
     "organisation_name": "LUMITEL LIMITED",
@@ -69380,622 +69996,6 @@
     "organisation_name": "Mackays Hotel Partnership",
     "town_city": "Wick",
     "county": "Caithness",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MACKENZIE &amp; EBERT LTD.",
-    "town_city": "Chichester",
-    "county": "West Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MACKENZIE MARITIME (UK) LIMITED",
-    "town_city": "London",
-    "county": "England",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: UK Expansion Worker"
-  },
-  {
-    "organisation_name": "Mackenzie Stuart Limited",
-    "town_city": "Leeds",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mackenzie&#x27;s Pharmacies Limited",
-    "town_city": "Hull",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mackie and Brechin LTD",
-    "town_city": "Kirkliston",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mackin Consultancy (UK) Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mackintosh Limited",
-    "town_city": "Lancashire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Mackintosh Limited",
-    "town_city": "Lancashire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mackrell Solicitors",
-    "town_city": "London",
-    "county": "ENGLAND",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MACKS LOGISTICS LTD",
-    "town_city": "Wolverhampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mackwell Electronics",
-    "town_city": "Walsall",
-    "county": "West Midlands",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MacLean Carmichael Limited",
-    "town_city": "Southend-on-Sea",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maclellans(Think On) Ltd T/A The Old Mill Inn",
-    "town_city": "Pitlochry",
-    "county": "Perthshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macleod &amp; McNeil Ltd",
-    "town_city": "East Sussex",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macleod Estates Ltd",
-    "town_city": "Perth",
-    "county": "Perth &amp; Kinross",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MacLeod Estate",
-    "town_city": "Dunvegan",
-    "county": "Isle of Skye",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macleod Pipework Engineering Limited",
-    "town_city": "Sheffield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MacMace Ltd",
-    "town_city": "Preston",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macmillan Cancer Support",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macmillan Cancer Support",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Charity Worker"
-  },
-  {
-    "organisation_name": "Macmillan Publishers International Limited",
-    "town_city": "Basingstoke",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macmillan Publishers International Limited",
-    "town_city": "Basingstoke",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "MACNABB WASTE (BELFAST) LTD",
-    "town_city": "BELFAST",
-    "county": "ANTRIM",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macomics Limited",
-    "town_city": "Cambridge",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maconda Limited T/a Maconda Solutions",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maconomics Ltd t/a Maconomix",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macphie Ltd",
-    "town_city": "Stonehaven",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macquarie Aircraft Leasing Services (UK) Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macquarie Group Services Australia Pty Ltd (UK Branch)",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macquarie Group Services Australia Pty Ltd (UK Branch)",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Macrae Group UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Macrae Group UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MACRAE HIGHLAND LTD",
-    "town_city": "Pitlochry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macrete Ireland Limited",
-    "town_city": "Toomebridge",
-    "county": "County Antrim",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MAC-RK PRECISION ENGINEERING LIMITED",
-    "town_city": "SOUTHALL",
-    "county": "MIDDLSEX",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macro Advisory Partners LLP",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macro Group Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macro Hive Limited",
-    "town_city": "London",
-    "county": "London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macro Infotech Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macrobert Arts Centre Limited",
-    "town_city": "Stirling",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Macrobond Financial Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macrobond Financial Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "MACROCOSMOS LTD",
-    "town_city": "London",
-    "county": "Greater London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macron Sportswear UK Ltd",
-    "town_city": "Cardiff",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macrosynergy Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MACROWILL PLASTIC ENGINEERING (UK) LTD",
-    "town_city": "Cheshire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Macs Adventure Ltd",
-    "town_city": "Glasgow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MACS EU Ltd",
-    "town_city": "Uxbridge",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MacScott Bond Limited",
-    "town_city": "Loanhead",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mactech Consultants Limited",
-    "town_city": "Harrow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mactech Energy Group Ltd",
-    "town_city": "Whitley Bay",
-    "county": "Tyne and Wear",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mactech Energy Group Ltd",
-    "town_city": "Whitley Bay",
-    "county": "Tyne and Wear",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MACVAD UK LIMITED",
-    "town_city": "Hertfordshire",
-    "county": "United Kingdon",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MACWAY LIMITED",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MAD CONTRACTORS",
-    "town_city": "BRADFORD",
-    "county": "WEST YORKSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mad Cow Films",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Mad Dogs Polo Team",
-    "town_city": "Shurlock Row",
-    "county": "Reading",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Mad Lab Fitness LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Mad Witch Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Madam Films Ltd",
-    "town_city": "London",
-    "county": "UK",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Madam Patti Limited",
-    "town_city": "Swansea",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Madams Farm Ltd",
-    "town_city": "Midhurst",
-    "county": "West Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Madani Food Farnworth LTD",
-    "town_city": "Bolton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Madani Food Products Ltd",
-    "town_city": "Walsall",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Madani Halal Meat And Groceries Ltd",
-    "town_city": "Dudley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Madani Memorials Limited",
-    "town_city": "Dewsbury",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Madani Memorials S.Yorks Limited",
-    "town_city": "Sheffield",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maddaford Care Services Ltd trading as Lakeside Residential home",
-    "town_city": "Okehampton",
-    "county": "Devon",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Madden Bros Ltd",
-    "town_city": "Newtownabbey",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maddiston Traders Ltd t/a Maddiston Mini Market",
-    "town_city": "Falkirk",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MADDOCKS TRADING AS RUBYS FOOD AND WINE",
-    "town_city": "MANSFIELD",
-    "county": "NOTTINGHAMSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maddox Gallery Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maddox Gallery Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maddox Research Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Maddsuperstore Limited",
-    "town_city": "Basingstoke",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made Brave Ltd",
-    "town_city": "Glasgow",
-    "county": "Please select",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made by Chapter Ltd.",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made by Many Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MADE BY NATURE LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made by On Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MADE IN GREECE LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made in Katana UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "MADE IN LONDON MEDIA LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made In Stirling CIC",
-    "town_city": "STIRLING",
-    "county": "Stirlingshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made Media Ltd",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made Open Communications Ltd",
-    "town_city": "Truro",
-    "county": "Cornwall",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made Tech Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Made Thought Design Limited",
-    "town_city": "London",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
