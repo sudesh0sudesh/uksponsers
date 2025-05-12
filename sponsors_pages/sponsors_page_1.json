@@ -1534,8 +1534,8 @@
   },
   {
     "organisation_name": "2 CARERS LTD",
-    "town_city": "STOKE-ON-TRENT",
-    "county": "",
+    "town_city": "Stafford",
+    "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -3782,6 +3782,13 @@
   {
     "organisation_name": "4 Seasons Grocery Ltd",
     "town_city": "Cardiff",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "4 Seasons Inn Limited",
+    "town_city": "Manchester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -12803,6 +12810,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Abacus Ark",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Abacus Cambridge Partners Ltd",
     "town_city": "London",
     "county": "",
@@ -21189,13 +21203,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Acumen Commercial Insights Ltd",
-    "town_city": "Thames Ditton",
-    "county": "Surrey",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Acumen Construction Group Ltd",
     "town_city": "London",
     "county": "",
@@ -22151,6 +22158,13 @@
     "organisation_name": "Adams Estates Ltd",
     "town_city": "Reading",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ADAMS FARMING LIMITED",
+    "town_city": "STRANGFORD",
+    "county": "DOWN",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -26509,6 +26523,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AES OXF ST LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AES Smart Metering",
     "town_city": "London",
     "county": "",
@@ -28064,7 +28085,7 @@
   },
   {
     "organisation_name": "AFYA CARE LTD",
-    "town_city": "Gloucester",
+    "town_city": "Bristol",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -33334,6 +33355,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AJ19 Limited",
+    "town_city": "Dartford",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AJA Architects LLP",
     "town_city": "Coventry",
     "county": "West Midlands",
@@ -38003,6 +38031,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Aldeburgh Vets Ltd",
+    "town_city": "Hacheston",
+    "county": "Suffolk",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ALDELIA LTD",
     "town_city": "London",
     "county": "",
@@ -38899,13 +38934,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Alex&#x27;s Place - Paediatric Physiotherapy Service Ltd",
-    "town_city": "Stafford",
-    "county": "Staffordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ALEX&#x27;S PLAICE LIMITED",
     "town_city": "Wootton",
     "county": "Bedford",
@@ -39077,6 +39105,20 @@
     "organisation_name": "Al-Farooq Education &amp; Community Centre",
     "town_city": "Glasgow",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alfasigma UK Limited",
+    "town_city": "Cambridge",
+    "county": "Cambridgeshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Alfasigma UK Limited",
+    "town_city": "Cambridge",
+    "county": "Cambridgeshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -60011,6 +60053,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "APRICOT IT LIMITED",
+    "town_city": "Surbiton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Apricum Group Ltd",
     "town_city": "London",
     "county": "",
@@ -61176,6 +61225,13 @@
     "organisation_name": "AR Fitness Ltd",
     "town_city": "Orpington",
     "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AR FM LTD",
+    "town_city": "Birmingham",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -64346,6 +64402,20 @@
   {
     "organisation_name": "ARIA INTELLIGENCE LTD",
     "town_city": "london",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Aria Intelligent Solutions Limited",
+    "town_city": "Oldham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Aria Intelligent Solutions Limited",
+    "town_city": "Oldham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69925,76 +69995,6 @@
   {
     "organisation_name": "Aseel C.E. Ltd",
     "town_city": "Bolton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASEES PVT LIMITED T/A Herbies Pizza",
-    "town_city": "Bristol",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASEL Integrated Security Solutions Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aseller A Limited",
-    "town_city": "Burton-On-Trent",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asendia UK Ltd",
-    "town_city": "Hounslow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asendia UK Ltd",
-    "town_city": "Hounslow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Aseptika Limited",
-    "town_city": "St Ives",
-    "county": "Cambridgeshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aser Media Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aser Trading Ltd",
-    "town_city": "Reading",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASESA Solutions Ltd",
-    "town_city": "Holborn",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asesoftware Limited",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
