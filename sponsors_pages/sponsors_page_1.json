@@ -14749,13 +14749,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Abesta Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Abex Capital Limited",
     "town_city": "LONDON",
     "county": "",
@@ -21415,6 +21408,13 @@
   {
     "organisation_name": "ACZONE CONSULTANTS LTD",
     "town_city": "Croydon",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AD Architects",
+    "town_city": "Hertford",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -38360,6 +38360,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALEES TROPICAL RAGS LTD",
+    "town_city": "Smethwick",
+    "county": "West Midlands",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aleezay Hair &amp; Cosmatics Ltd",
     "town_city": "London",
     "county": "",
@@ -49805,6 +49812,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Amina&#x27;s Collection Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AMIN&#x27;S CONSULTANCY LTD T/A T/A Amin &amp; Co",
     "town_city": "Glasgow",
     "county": "",
@@ -50619,6 +50633,20 @@
   {
     "organisation_name": "Ampergia Limited",
     "town_city": "Milton Keynes",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Amperity UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Amperity UK Limited",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -58597,6 +58625,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Apna Punjab Sweet Centre Ltd",
+    "town_city": "Leicester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "APNA STORES TUNSTALL LTD",
     "town_city": "Stoke-On-Trent",
     "county": "",
@@ -64022,13 +64057,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Arg Maxela UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ARG11 Limited T/A Ambala Restaurant",
     "town_city": "Glasgow",
     "county": "",
@@ -65984,6 +66012,13 @@
   {
     "organisation_name": "Armlon Software Solutions Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ARMODIAS LTD",
+    "town_city": "Northampton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69963,40 +69998,5 @@
     "county": "Greater Manchester",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASE34 LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asean Limited t/a E &amp; O Restaurant",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASECCA Limited",
-    "town_city": "Morecambe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aseda Care Ltd",
-    "town_city": "Milton Keynes",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Aseel C.E. Ltd",
-    "town_city": "Bolton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]
