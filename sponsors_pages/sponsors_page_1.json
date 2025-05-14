@@ -742,13 +742,6 @@
     "route": "Creative Worker"
   },
   {
-    "organisation_name": "12797803",
-    "town_city": "Welwyn Garden City",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "12B Solicitors Limited",
     "town_city": "London",
     "county": "England",
@@ -1699,20 +1692,6 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "21 Soho Square Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "21 Soho Square Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
   },
   {
     "organisation_name": "214 Limited T/A Chai Naasto",
@@ -20741,6 +20720,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Active Social Care Limited",
+    "town_city": "Huddersfield",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ACTIVE SPORTS TOURISM LTD",
     "town_city": "London",
     "county": "",
@@ -32669,6 +32655,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Airship Interactive Ltd",
+    "town_city": "Macclesfield",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Air-Site Ltd",
     "town_city": "Poole",
     "county": "",
@@ -38521,6 +38514,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALEX CAR ELECTRIC AND MECHANICAL LTD",
+    "town_city": "Bristol",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Alex Colquhoun Ltd",
     "town_city": "Montrose",
     "county": "Angus",
@@ -39788,6 +39788,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALI HALAL MEAT &amp; FISH LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Ali Halal Meats Limited",
     "town_city": "Northwood",
     "county": "",
@@ -40568,6 +40575,13 @@
     "organisation_name": "Alively World Ltd",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALIVIAR FINANCIAL LTD",
+    "town_city": "Welwyn Garden City",
+    "county": "Hertfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -58912,6 +58926,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Apos Solutions Limited",
+    "town_city": "Harrow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Apostolic Church, Newcastle",
     "town_city": "Newcastle",
     "county": "Tyne and Wear",
@@ -67557,6 +67578,13 @@
     "route": "Global Business Mobility: Graduate Trainee"
   },
   {
+    "organisation_name": "Artelium Limited",
+    "town_city": "Hassocks",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Artelium Wine Estate LLP",
     "town_city": "Streat",
     "county": "East Sussex",
@@ -68329,6 +68357,13 @@
   {
     "organisation_name": "Aruloan Ltd",
     "town_city": "Swansea",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ARULOLI LTD",
+    "town_city": "Carshalton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69963,40 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASDF LTD t/a Papa Johns",
-    "town_city": "Clacton On Sea",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASDI EQUIPMENT RENTAL AND TRADING LTD (15444604)",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (UK Expansion Worker: Provisional)",
-    "route": "Global Business Mobility: UK Expansion Worker"
-  },
-  {
-    "organisation_name": "ASE Management Services Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASE PLC",
-    "town_city": "Manchester",
-    "county": "Greater Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASE PLC",
-    "town_city": "Manchester",
-    "county": "Greater Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
