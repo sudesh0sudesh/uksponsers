@@ -2359,6 +2359,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "3 EM Limited",
+    "town_city": "Luton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "3 F International Limited",
     "town_city": "Haywards Heath",
     "county": "",
@@ -17801,6 +17808,13 @@
     "route": "Global Business Mobility: UK Expansion Worker"
   },
   {
+    "organisation_name": "ACCOMAR GLOBAL LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Accommodation Links Ltd",
     "town_city": "Stockport",
     "county": "",
@@ -23271,6 +23285,13 @@
     "organisation_name": "Adi&amp;Sons Limited",
     "town_city": "Coventry",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Adia Thermal Ltd.",
+    "town_city": "London",
+    "county": "Westminster",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -33173,6 +33194,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AJ Glam Studio Ltd",
+    "town_city": "Smallbridge",
+    "county": "Greater Manchester",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AJ GOODY&#x27;S LTD T/A Goody&#x27;s Chicken",
     "town_city": "Nottingham",
     "county": "",
@@ -38761,6 +38789,13 @@
   {
     "organisation_name": "Alexander Technologies Europe Limited",
     "town_city": "Peterlee",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alexander Wallace Healthcare LTD",
+    "town_city": "MARGATE",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -52857,6 +52892,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Andora Group LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Andosa Ltd T/A Calabrisella Cathays",
     "town_city": "Cardiff",
     "county": "",
@@ -62125,13 +62167,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Arc Bio Communications Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "ARC CAPITAL MANAGEMENT LTD",
     "town_city": "London",
     "county": "",
@@ -67613,6 +67648,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Artemis Energy Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Artemis General Trading Limited",
     "town_city": "Nottingham",
     "county": "",
@@ -69954,48 +69996,6 @@
     "organisation_name": "ASD Unique Services LLP",
     "town_city": "Battle",
     "county": "East Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD Warehousing &amp; Distribution LTD",
-    "town_city": "Leicester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asda Express Limited",
-    "town_city": "Blackburn",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asda Stores Ltd",
-    "town_city": "Leeds",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Asda Stores Ltd",
-    "town_city": "Leeds",
-    "county": "West Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Asdala Ltd",
-    "town_city": "Weston-super-Mare",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASDB Ltd",
-    "town_city": "Croydon",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
