@@ -1,5 +1,145 @@
 [
   {
+    "organisation_name": "D&amp;D Porter LTD",
+    "town_city": "Woking",
+    "county": "Surrey",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;G Block Management Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;G Care Services Ltd",
+    "town_city": "Liverpool",
+    "county": "Merseyside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;G Dreams Ltd",
+    "town_city": "Newark",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;G Lettings Ltd",
+    "town_city": "Barking",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;G Property and Investment Ltd",
+    "town_city": "Slough",
+    "county": "Berkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;G Restaurant Limited",
+    "town_city": "Tonbridge",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;G Retail Ltd",
+    "town_city": "Leeds",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;G SP Z.O.O Limited",
+    "town_city": "Rugby",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;H BROTHERS LTD TRADING AS ICKLEFORD STORE",
+    "town_city": "HITCHIN",
+    "county": "HERTFORDSHIRE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;H Fashions Ltd",
+    "town_city": "Ilford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;I FOODS LTD",
+    "town_city": "SLOUGH",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;J CARE SERVICES-RESIDENTIAL LTD",
+    "town_city": "Belvedere",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;JUK LTD",
+    "town_city": "Gerrards Cross",
+    "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;L SUPPORT LTD",
+    "town_city": "NOTTINGHAM",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;M SERVICE PROVIDER LTD",
+    "town_city": "Rotherham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;MG Ltd T/A Aroma",
+    "town_city": "Gravesend",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;N Convenience Store Limited T/A Premier Willow Road Store",
+    "town_city": "Castleford",
+    "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;S MIDLANDS TRANSPORT LTD",
+    "town_city": "Wolverhampton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "D&amp;S PROPERTY RENOVATION SERVICES LIMITED",
+    "town_city": "Greenford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "D,CENT CUTZ LTD",
     "town_city": "SOUTHAMPTON",
     "county": "",
@@ -4020,13 +4160,6 @@
   {
     "organisation_name": "DASHWOOD INTERNATIONAL LIMITED",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Dasilad Limited",
-    "town_city": "Droylsden",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -8309,6 +8442,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "DECONSTRUCTED LIMITED",
+    "town_city": "Cleckheaton",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Decor (Bristol) Limited",
     "town_city": "Bristol",
     "county": "",
@@ -10179,6 +10319,13 @@
   },
   {
     "organisation_name": "Delphi Services Limited",
+    "town_city": "Swindon",
+    "county": "Wiltshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Delphi Services Ltd",
     "town_city": "Swindon",
     "county": "Wiltshire",
     "type_rating": "Worker (A rating)",
@@ -17690,14 +17837,14 @@
   },
   {
     "organisation_name": "Digicert UK Limited",
-    "town_city": "Reading",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
   {
     "organisation_name": "Digicert UK Limited",
-    "town_city": "Reading",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
@@ -18247,6 +18394,20 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Digital Mobile Innovations Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Digital Mobile Innovations Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Digital Moneybox Limited",
@@ -22647,20 +22808,6 @@
   {
     "organisation_name": "DMC CONSULTING SERVICES LTD",
     "town_city": "kent",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "DMC DIGITAL LIMITED",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "DMC DIGITAL LIMITED",
-    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -32410,6 +32557,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Durata UK Ltd",
+    "town_city": "Middlesbrough",
+    "county": "Teesside",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Duratem Supported Living Ltd",
     "town_city": "Dagenham",
     "county": "",
@@ -38304,6 +38458,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "EAV SMART HOMES LIMITED",
+    "town_city": "Watford",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "EAVES LANE CONVENIENCE STORE",
     "town_city": "CHORLEY",
     "county": "LANCASHIRE",
@@ -38676,6 +38837,13 @@
   },
   {
     "organisation_name": "Ebro Construction Group LIMITED",
+    "town_city": "St Albans",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Ebro Construction Group Limited",
     "town_city": "St Albans",
     "county": "",
     "type_rating": "Worker (A rating)",
@@ -39503,6 +39671,13 @@
   {
     "organisation_name": "Eco Energy Rating Ltd",
     "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ECO EV CHARGERS LIMITED",
+    "town_city": "Birmingham",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -48212,6 +48387,13 @@
     "organisation_name": "Elite Tech Ltd",
     "town_city": "High Wycombe",
     "county": "Bucks",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Elite Technical Consulting Ltd T/A CyberForte",
+    "town_city": "Reading",
+    "county": "Berkshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -58465,8 +58647,8 @@
   },
   {
     "organisation_name": "ERE LTD",
-    "town_city": "Surbiton",
-    "county": "United Kingdom",
+    "town_city": "Dorchester",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -60476,6 +60658,13 @@
     "organisation_name": "ESSEX HEATING &amp; VENTILATION LTD",
     "town_city": "Epping",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Essex Kebabish Chadwell Heath Ltd",
+    "town_city": "Ronford",
+    "county": "Essex",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -66934,6 +67123,20 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Excelerate Energy Europe Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Excelerate Energy Europe Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Excelerated Procurement Solutions Ltd",
     "town_city": "London",
     "county": "",
@@ -67006,6 +67209,13 @@
   {
     "organisation_name": "EXCELLENCE DINER LTD T/A EASTERN REVIVE",
     "town_city": "England",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "EXCELLENCE FOOD LIMITED t/a Bhaji Fresh",
+    "town_city": "Luton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69788,215 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "EZCORP UK Limited",
-    "town_city": "Salford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Eze Assets Management Ltd",
-    "town_city": "Norwich",
-    "county": "Norfolk",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Eze Castle Integration - United Kingdom Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Eze Castle Integration - United Kingdom Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Ezee Communicationz Limited",
-    "town_city": "London",
-    "county": "Middlesex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ezee Mobiles Ltd",
-    "town_city": "Liverpool",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "e-Zest Solutions Limited",
-    "town_city": " London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZEY CARE LTD",
-    "town_city": "Sutton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ezgi Catering Ltd t/a Rive Palace Cafe",
-    "town_city": "Hoddesdon",
-    "county": "Hertfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZI Travels &amp; Money Transfer Ltd",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZIPAY TECHNOLOGIES LIMITED (15767778)",
-    "town_city": "ENGLAND",
-    "county": "",
-    "type_rating": "Worker (UK Expansion Worker: Provisional)",
-    "route": "Global Business Mobility: UK Expansion Worker"
-  },
-  {
-    "organisation_name": "Ezoic UK Ltd",
-    "town_city": "Newcastle upon Tyne",
-    "county": "Tyne And Wear",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ezoic UK Ltd",
-    "town_city": "Newcastle upon Tyne",
-    "county": "Tyne And Wear",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "EZONE REPAIRS NUNEATON LIMITED",
-    "town_city": "NUNEATON",
-    "county": "WARWICKSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZONECORNWALL LIMITED",
-    "town_city": "Camborne",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZPOST (UK) LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ezra &amp; Gil LTD",
-    "town_city": "Manchester",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ezra Kitchen Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZSourcehub Limited",
-    "town_city": "Isleworth",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZSVS (UK) Co Limited",
-    "town_city": "Berkshire",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZY CARS LIMITED",
-    "town_city": "NORTHAMPTON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZY TRAVEL AND TOURS LTD",
-    "town_city": "Oldham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ezytech Limited",
-    "town_city": "Crewe",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZYVET UK LTD",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ezze Healthcare LTD",
-    "town_city": "East Tilbury",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZZHA LTD",
-    "town_city": "Dunstable",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "EZZY CARS LTD",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "F &amp; A CONVENIENCE STORES LTD",
-    "town_city": "WORCESTER",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "F &amp; F CAKES LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "F &amp; F DISTRIBUTION LTD",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]

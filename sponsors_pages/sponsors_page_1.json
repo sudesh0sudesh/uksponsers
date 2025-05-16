@@ -1981,6 +1981,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "25-28 Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "25TH COURIERS LTD",
     "town_city": "SWANLEY",
     "county": "",
@@ -4489,6 +4496,13 @@
   {
     "organisation_name": "5 Star North East Ltd",
     "town_city": "Newcastle Upon Tyne",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "5 Star Plastics Ltd",
+    "town_city": "Camberley",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -8949,6 +8963,13 @@
     "organisation_name": "A.G.E. Nursing Homes Limited",
     "town_city": "Ilford",
     "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "A.G.G. (Coventry) Limited",
+    "town_city": "Coventry",
+    "county": "West Midlands",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -14253,7 +14274,7 @@
   },
   {
     "organisation_name": "ABEEHA&#x27;S FASHION &amp; BEAUTY LTD",
-    "town_city": " BRADFORD",
+    "town_city": "BOLTON",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -16292,6 +16313,13 @@
     "organisation_name": "Absolutely No Nonsense Admin Ltd",
     "town_city": "Cardiff",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ABSORB SOFTWARE UK LTD",
+    "town_city": "Huntingdon",
+    "county": "Cambridgeshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -22333,6 +22361,13 @@
     "organisation_name": "ADAPTOGENIC LAB LTD",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Adaptos Ltd/ TA Sonder",
+    "town_city": "Warwick",
+    "county": "Warwickshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -34118,6 +34153,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AKA Services Solutions Ltd",
+    "town_city": "Hemel Hempstead",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AKA, Chartered Accountants",
     "town_city": "BIRMINGHAM",
     "county": "West Midlands",
@@ -44968,6 +45010,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "ALPINE HEALTH CARE LIMITED",
+    "town_city": "Bridlington",
+    "county": "East Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ALPINE HEALTH LIMITED",
     "town_city": "Milton Keynes, England,",
     "county": "",
@@ -51807,6 +51856,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Anahad Kirtan Society",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Anahita Rehabilitation Centre LLP",
     "town_city": "London",
     "county": "",
@@ -53123,6 +53179,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ANDREW WITHEROW FENCING",
+    "town_city": "STRABANE",
+    "county": "TYRONE",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ANDREW WOMMACK MINISTRIES - EUROPE",
     "town_city": "Walsall",
     "county": "West Midlands",
@@ -53788,6 +53851,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ANGEL TRADERS NE LTD",
+    "town_city": "Gateshead",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Angel Trains Limited",
     "town_city": "London",
     "county": "",
@@ -53854,6 +53924,13 @@
     "organisation_name": "Angelcare UK Limited",
     "town_city": "Halifax",
     "county": "West Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ANGELENA FISHING LIMITED",
+    "town_city": "BRIXHAM",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -61804,7 +61881,7 @@
   },
   {
     "organisation_name": "Aram International Food Centre Ltd",
-    "town_city": "London",
+    "town_city": "Northampton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -62071,6 +62148,13 @@
   {
     "organisation_name": "ARBOURTHORNE LIMITED",
     "town_city": "SOUTH YORKSHIRE",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Arbrack Farming Co",
+    "town_city": "Newton Stewart",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69914,89 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Ascott Hospitality Management UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascott Hospitality Management UK Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASD Build Ltd.",
-    "town_city": "Pontypridd",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD Build",
-    "town_city": "Cardiff",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD Care Limited",
-    "town_city": "Spalding",
-    "county": "Lincolnshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD CONTRACTING LIMITED",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD DEVELOPMENTS LTD",
-    "town_city": "Slough",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD ELECTRICAL LTD",
-    "town_city": "Preston",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD RETAIL LTD",
-    "town_city": "Torquay",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD Support Ltd",
-    "town_city": "Loughborough",
-    "county": "Leicestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD Transport Birmingham Ltd",
-    "town_city": "Wednesbury",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASD Unique Services LLP",
-    "town_city": "Battle",
-    "county": "East Sussex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   }
 ]
