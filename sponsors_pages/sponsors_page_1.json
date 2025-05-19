@@ -5845,6 +5845,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "A &amp; A Halal Meat",
+    "town_city": "keighley",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "A &amp; A Himallari Ltd",
     "town_city": "London",
     "county": "",
@@ -14282,6 +14289,13 @@
   {
     "organisation_name": "Abeer Raja Abdul Raheem Al-Adhami T/A Abi Dental",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ABEERA INVESTMENT LIMITED",
+    "town_city": "Preston",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -27314,6 +27328,13 @@
     "route": "Charity Worker"
   },
   {
+    "organisation_name": "AFGROMAN33 LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AFH Accountants &amp; Co (MRC) Ltd",
     "town_city": "Manchester",
     "county": "",
@@ -29402,6 +29423,13 @@
   {
     "organisation_name": "AGILITY PR SOLUTIONS LIMITED",
     "town_city": "Watford",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Agility3 Limited",
+    "town_city": "Hitchin",
     "county": "Hertfordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -41566,6 +41594,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ALL STARS CHILD CARE SERVICES LTD",
+    "town_city": "Liversedge",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "All Starz kitchen Limited",
     "town_city": "London",
     "county": "",
@@ -43725,6 +43760,13 @@
     "organisation_name": "ALMNS Limited",
     "town_city": "Nottingham",
     "county": "Nottinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Almo Financials Limited",
+    "town_city": "Huddersfield",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -46319,13 +46361,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Aluglass Ltd",
-    "town_city": "Wickford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Alula Insurtech Ltd",
     "town_city": "London",
     "county": "",
@@ -48022,6 +48057,13 @@
   {
     "organisation_name": "AMB Foods Limited",
     "town_city": "Suffolk",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AMB SUPERMARKET LTD",
+    "town_city": "Southampton",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -60893,13 +60935,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Aqua Operations Ltd",
-    "town_city": "Bradford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AQUA PHARMACY LTD",
     "town_city": "IPSWICH",
     "county": "SUFFOLK",
@@ -66340,7 +66375,7 @@
   },
   {
     "organisation_name": "ARNAV CONSTRUCTION LTD",
-    "town_city": "Croydon",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69963,40 +69998,5 @@
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Lodge Ltd",
-    "town_city": "Southport",
-    "county": "Merseyside",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Rehabilitation Limited",
-    "town_city": "london",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Residential Homes Ltd",
-    "town_city": "ASCOT",
-    "county": "Berkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Underwriting Holdings Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Underwriting Holdings Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
   }
 ]
