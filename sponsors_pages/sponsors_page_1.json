@@ -4977,6 +4977,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "6SOFT LTD",
+    "town_city": "Barking",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "7 Acorns Day Nursery",
     "town_city": "Sevenoaks",
     "county": "",
@@ -21063,6 +21070,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "ACTUAL TIME OF ARRIVAL LTD",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Actuaria Initia Limited",
     "town_city": "Beckenham",
     "county": "",
@@ -24214,8 +24228,8 @@
   },
   {
     "organisation_name": "Adroit Accountants Limited",
-    "town_city": "IPSWICH",
-    "county": "SUFFOLK",
+    "town_city": "Ipswich",
+    "county": "Suffolk",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -61229,6 +61243,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Aquevo Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Aquidata Excel  Ltd",
     "town_city": "Blackburn",
     "county": "Aberdeen",
@@ -62111,6 +62132,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Arbat Capital Advisory Services Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Arbion Limited",
     "town_city": "London",
     "county": "",
@@ -62849,6 +62877,13 @@
     "organisation_name": "Archaeolog Brython Archaeology CYF",
     "town_city": "Bangor",
     "county": "Gwynedd",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Archaeological Management Solutions Ltd (AMS)",
+    "town_city": "York,",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -68880,13 +68915,6 @@
     "route": "Tier 2 Ministers of Religion"
   },
   {
-    "organisation_name": "Aryah Holdings Limited",
-    "town_city": "Bradford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Aryaka Networks UK Limited",
     "town_city": "Hayes",
     "county": "London",
@@ -69967,34 +69995,6 @@
   {
     "organisation_name": "Ascot Accountancy Limited",
     "town_city": "Greenford",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Berks Ltd",
-    "town_city": "South Ascot",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Care Agency Ltd",
-    "town_city": "County Durham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Care Ltd",
-    "town_city": "Horsham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Cars",
-    "town_city": "Ascot",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
