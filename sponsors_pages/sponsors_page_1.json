@@ -16458,7 +16458,7 @@
   },
   {
     "organisation_name": "Abundant Graze Ltd",
-    "town_city": "Northampton",
+    "town_city": "Bicester",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -36379,6 +36379,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "AL SAHARA LIMITED",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "AL SAHIB USED CARS EXHIBITION UK LIMITED",
     "town_city": "Windsor",
     "county": "",
@@ -38825,6 +38832,13 @@
     "organisation_name": "Alexander James Contracts Ltd",
     "town_city": "Little Chalfont",
     "county": "Buckinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ALEXANDER MALTBY LTD",
+    "town_city": "LONDON",
+    "county": "london",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -46163,13 +46177,6 @@
     "county": "Hampshire",
     "type_rating": "Worker (A rating)",
     "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Alton House Care Home",
-    "town_city": "Hayling Island",
-    "county": "Hampshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
   },
   {
     "organisation_name": "Alton Specsavers Limited",
@@ -61335,8 +61342,8 @@
   },
   {
     "organisation_name": "Aquios Labs Ltd",
-    "town_city": "Rochdale",
-    "county": "Manchester",
+    "town_city": "Milton Keynes",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -61420,6 +61427,13 @@
   {
     "organisation_name": "AR Cars Services Ltd",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "AR Civils Ltd",
+    "town_city": "Southall",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -63777,6 +63791,13 @@
     "route": "Global Business Mobility: Senior or Specialist Worker"
   },
   {
+    "organisation_name": "Arden Associates (IFA) LLP",
+    "town_city": "Droitwich",
+    "county": "Worcestershire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Arden International Motorsport Limited",
     "town_city": "Banbury",
     "county": "Oxfordshire",
@@ -64725,6 +64746,13 @@
     "organisation_name": "Arian&amp;Co Limited",
     "town_city": "Dreghorn",
     "county": "Irvine",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "ARIAN.S.C LIMITED",
+    "town_city": "Leicester",
+    "county": "United Kingdom",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -66697,7 +66725,7 @@
   },
   {
     "organisation_name": "AROOJ BUSINESS CONSULTANCY LIMITED",
-    "town_city": "LONDON",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69968,34 +69996,6 @@
     "organisation_name": "Ascom",
     "town_city": "Lichfield",
     "county": "Staffordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascom",
-    "town_city": "Lichfield",
-    "county": "Staffordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Ascon Care Services Limited",
-    "town_city": "Dunstable",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot (London) New Homes Ltd T/A Morgan Randall",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascot Accountancy Limited",
-    "town_city": "Greenford",
-    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
