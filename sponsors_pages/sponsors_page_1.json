@@ -11718,13 +11718,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Aaqa Foods Ltd",
-    "town_city": "Hounslow",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "AAQA&#x27;S LTD",
     "town_city": "Ilford",
     "county": "",
@@ -38654,6 +38647,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Alex Building Services (UK) Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "ALEX CAR ELECTRIC AND MECHANICAL LTD",
     "town_city": "Bristol",
     "county": "",
@@ -39139,6 +39139,20 @@
   {
     "organisation_name": "ALFA DENTAL LIMITED T/A SEAHAVEN DENTAL PRACTIC",
     "town_city": "EAST SUSSEX",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Alfa Energy Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "Alfa Energy Limited",
+    "town_city": "London",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -44788,7 +44802,7 @@
   {
     "organisation_name": "Alpha Zone Ltd",
     "town_city": "Manchester",
-    "county": "",
+    "county": "Greater Manchester, England",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -54698,13 +54712,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "ANGLO SUPPORT AND HOUSING LTD",
-    "town_city": "Bristol",
-    "county": "Somerset",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Anglo Technical Recruitment Ltd",
     "town_city": "London",
     "county": "",
@@ -57839,6 +57846,13 @@
     "county": "Aberdeenshire",
     "type_rating": "Worker (A rating)",
     "route": "Global Business Mobility: Senior or Specialist Worker"
+  },
+  {
+    "organisation_name": "APACHE PIZZA (BANBRIDGE) LIMITED",
+    "town_city": "Banbridge",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
   },
   {
     "organisation_name": "APACHE PIZZA (LISBURN) 786 LTD",
@@ -63437,6 +63451,13 @@
     "organisation_name": "Archway Learning Trust",
     "town_city": "Nottingham",
     "county": "Nottinghamshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Archway Medical Centre",
+    "town_city": "London",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -69975,27 +69996,6 @@
     "organisation_name": "ASCO UK Ltd",
     "town_city": "Aberdeen",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "ASCO UK Ltd",
-    "town_city": "Aberdeen",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "ASCOM Consulting Limited",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Ascom",
-    "town_city": "Lichfield",
-    "county": "Staffordshire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }

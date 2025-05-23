@@ -1,5 +1,320 @@
 [
   {
+    "organisation_name": "Salto Systems Ltd",
+    "town_city": "Southam",
+    "county": "Warwickshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Saltrock Surfwear Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SALTS SMOKE HOUSE LIMITED",
+    "town_city": "LONDON",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salty Polo Ltd",
+    "town_city": "Woodstock",
+    "county": "Oxfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "International Sportsperson"
+  },
+  {
+    "organisation_name": "SALTYCO LTD",
+    "town_city": "BRISTOL",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salubre ltd t/a Bluebird CAre Stockport",
+    "town_city": "Stockport",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Saluda Medical",
+    "town_city": "Harrogate",
+    "county": "North Yorkshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salus Care Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salus Hotel Limited",
+    "town_city": "London",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salus Medical Services Limited",
+    "town_city": "ALDERSHOT",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salus Technical Limited",
+    "town_city": "Aberdeen",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salute Global FO Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salutem LD Topco Limited",
+    "town_city": "Windsor",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salutem Senior Living Limited",
+    "town_city": "Windsor",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salvation For The nations International Churches",
+    "town_city": "Welwyn Garden City",
+    "county": "Hertfordshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Salvation is Salvation Ltd t/a The Ragged Priest",
+    "town_city": "Westcliff-on-Sea",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salvation Ministries (Home of Success)",
+    "town_city": "ROMFORD",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Tier 2 Ministers of Religion"
+  },
+  {
+    "organisation_name": "Salvatori UK Limited",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salvero Healthcare Limited",
+    "town_city": "Ripley",
+    "county": "Derbyshire",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salvete Care Home",
+    "town_city": "Bedford",
+    "county": "England",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Salyx Care Limited",
+    "town_city": "Ware",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM &amp; CO (BLACKPOOL) LTD",
+    "town_city": "Blackpool",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM &amp; CO ACCOUNTANTS MCR LTD",
+    "town_city": "Manchester",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam 99p Limited",
+    "town_city": "Ilford",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam Accountants Ltd",
+    "town_city": "North Harrow",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam and Franco Manchester Limited",
+    "town_city": "Salford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM AND RAJ TRADING LIMITED",
+    "town_city": "Southall",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM AUTOMOBILES LIMITED",
+    "town_city": "OLDBURY",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam Car Sales Ltd",
+    "town_city": "Portsmouth",
+    "county": "United Kingdom",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam Computer Solutions Limited",
+    "town_city": "Edinburgh",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam Construction Services UK Limited",
+    "town_city": "Warwickshire",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM CONVENIENCE STORE LIMITED",
+    "town_city": "Newport",
+    "county": "South Wales",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam Cox Limited",
+    "town_city": "Tenterden",
+    "county": "Kent",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM ENTERPRISE LTD",
+    "town_city": "Harringay",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM EXECUTIVE HIRE LIMITED",
+    "town_city": "Ilford",
+    "county": "Essex",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM EXOTICS LIMITED",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam Fogg Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
+    "organisation_name": "Sam Fogg Ltd",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM HO SIN LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM INFOTECH LTD",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM LABS LTD",
+    "town_city": "Chiswick",
+    "county": "London",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM LINEN HIRE LTD",
+    "town_city": "WEMBLEY",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAM MAGNET UK LIMITED",
+    "town_city": " Luton,",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam Midlands ltd TA Crown Banqueting",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Sam Midlands ltd TA Crown Banqueting",
+    "town_city": "Birmingham",
+    "county": "",
+    "type_rating": "Temporary Worker (A rating)",
+    "route": "Creative Worker"
+  },
+  {
     "organisation_name": "SAM PARTNERSHIP",
     "town_city": "ACKWORTH",
     "county": "",
@@ -289,6 +604,13 @@
   {
     "organisation_name": "Samaya AI UK Limited",
     "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SAMAYESHA TRADING LTD",
+    "town_city": "Carnoustie",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -3388,13 +3710,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Santex Apparels Ltd",
-    "town_city": "Coventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "Santhirasegaram Sarves T/A Net Try Food City",
     "town_city": "Burnt Oak",
     "county": "Edgware",
@@ -5628,6 +5943,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Satkohis Empire Ltd",
+    "town_city": "Morden",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
     "organisation_name": "Satnam (UK) Ltd T/A Veer Dhara One",
     "town_city": "St Albans",
     "county": "",
@@ -7156,13 +7478,6 @@
   {
     "organisation_name": "SB MRB LTD",
     "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "SB Nehir Limited T/A One Way Supermarket",
-    "town_city": "Bournemouth",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -16299,6 +16614,13 @@
     "organisation_name": "Sergison Bates Architects",
     "town_city": "London",
     "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SERI LTD",
+    "town_city": "Pontypridd",
+    "county": "Wales",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -30415,6 +30737,13 @@
     "route": "Skilled Worker"
   },
   {
+    "organisation_name": "Silver Regulatory Associates LLC",
+    "town_city": "London",
+    "county": "",
+    "type_rating": "Worker (UK Expansion Worker: Provisional)",
+    "route": "Global Business Mobility: UK Expansion Worker"
+  },
+  {
     "organisation_name": "Silver Screen Stores Ltd",
     "town_city": "Calne",
     "county": "Wiltshire",
@@ -34979,20 +35308,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "SJM Concerts Ltd",
-    "town_city": "Manchester",
-    "county": "Greater Manchester",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "SJM Concerts Ltd",
-    "town_city": "Manchester",
-    "county": "Greater Manchester",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "SJMG LTD",
     "town_city": "London",
     "county": "",
@@ -38087,13 +38402,6 @@
     "route": "Skilled Worker"
   },
   {
-    "organisation_name": "Sliceology Ltd",
-    "town_city": "Northampton",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
     "organisation_name": "SLICES WELLINGTON LTD",
     "town_city": "Telford",
     "county": "",
@@ -40211,6 +40519,13 @@
     "organisation_name": "SMARTCHOICE IT SOLUTION LTD",
     "town_city": "LONDON",
     "county": "HACKNEY",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "Smartcities Ltd",
+    "town_city": "Luton",
+    "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   },
@@ -44060,6 +44375,13 @@
   {
     "organisation_name": "Sodhi &amp; Patil Construction Ltd",
     "town_city": "Bedford",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SODHI REAL ESTATE LTD",
+    "town_city": "ESSEX",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -52992,6 +53314,13 @@
   {
     "organisation_name": "Speedy Iron Limited",
     "town_city": "High Wycombe",
+    "county": "",
+    "type_rating": "Worker (A rating)",
+    "route": "Skilled Worker"
+  },
+  {
+    "organisation_name": "SPEEDY JOBS LTD",
+    "town_city": "England",
     "county": "",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
@@ -69667,335 +69996,6 @@
     "organisation_name": "STOKEN HEALTHCARE LTD",
     "town_city": "Warrington",
     "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stoke-on-Trent and North Staffordshire Theatre Trust Limited",
-    "town_city": "Newcastle-under-Lyme",
-    "county": "Staffordshire",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Stoke-on-Trent City Council",
-    "town_city": "Stoke-on-Trent",
-    "county": "Staffordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stokesley Sports Club",
-    "town_city": "Stokesley",
-    "county": "North Yorkshire",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Stokoe Partnership Solicitors",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "STOKVIS TAPES Limited",
-    "town_city": "Tring",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stolle EMS Group Limited",
-    "town_city": "Accrington",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Stolle EMS Group Limited",
-    "town_city": "Accrington",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stolle Europe Ltd",
-    "town_city": "Carlisle",
-    "county": "Cumbria",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stolle Europe Ltd",
-    "town_city": "Carlisle",
-    "county": "Cumbria",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Stolon Studio Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stolthaven Dagenham Limited",
-    "town_city": "Dagenham",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stolt-Nielsen M.S. Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stolt-Nielsen M.S. Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Stomp Productions Ltd",
-    "town_city": "Hove",
-    "county": "East Sussex",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Stonbury Ltd",
-    "town_city": "Bedford",
-    "county": "Bedfordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone &amp; Wood Brewing Co UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Stone &amp; Wood Brewing Co UK Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Affairs Ltd",
-    "town_city": "Birmingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Bakery Ltd.",
-    "town_city": "Crossmaglen",
-    "county": "Newry",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "STONE BATHWEAR UK LIMITED",
-    "town_city": "LONDON",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Boat Restaurant",
-    "town_city": "Newcastle",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Choice Properties Ltd",
-    "town_city": "Ilford",
-    "county": "Greater London",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Harbor Services (UK) Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Harbor Services (UK) Ltd",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Global Business Mobility: Senior or Specialist Worker"
-  },
-  {
-    "organisation_name": "Stone House Care and Medical Limited",
-    "town_city": "Kidderminster",
-    "county": "Worcestershire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone House Home Limited",
-    "town_city": "Aylesbury",
-    "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone House Hotel Blackpool Ltd",
-    "town_city": "Blackpool",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Junction Limited",
-    "town_city": "Stafford",
-    "county": "Staffordshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Key (Blackburn) Ltd",
-    "town_city": "Blackburn",
-    "county": "Lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Leisure &amp; Hotels Limited",
-    "town_city": "Bournemouth",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Masters Ltd  TA Granite house",
-    "town_city": "preston",
-    "county": "lancashire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Nest",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Nest",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Temporary Worker (A rating)",
-    "route": "Creative Worker"
-  },
-  {
-    "organisation_name": "Stone Paving Direct Limited",
-    "town_city": "Milton Keynes",
-    "county": "Buckinghamshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Ram Limited",
-    "town_city": "TOWCESTER",
-    "county": "Northamptonshire",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Security Ltd",
-    "town_city": "Faversham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Solutions Stonemasons Ltd",
-    "town_city": "Magherafelt",
-    "county": "Derry",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Soup Learns",
-    "town_city": "Nottingham",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "STONE SP CRICKET CLUB",
-    "town_city": "STONE",
-    "county": "STAFFORDSHIRE",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Stone Spar Stores Ltd",
-    "town_city": "Manchester",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone Surface Limited",
-    "town_city": "Barking",
-    "county": "Essex",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stone World UK Ltd.",
-    "town_city": "Daventry",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "STONEAGE BUILDING CONTRACTORS LIMITED",
-    "town_city": "BIRMINGHAM",
-    "county": "WEST MIDLANDS",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "STONEBRIDGE BOXING CLUB LTD",
-    "town_city": "Wembley",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "International Sportsperson"
-  },
-  {
-    "organisation_name": "Stonebridge Legal Solutions Limited",
-    "town_city": "London",
-    "county": "",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stonebridge Nursing Home",
-    "town_city": "Redditch",
-    "county": "Worcs",
-    "type_rating": "Worker (A rating)",
-    "route": "Skilled Worker"
-  },
-  {
-    "organisation_name": "Stonebridge Trimmings &amp; Packaging UK Ltd",
-    "town_city": "Leicester",
-    "county": "Leicestershire",
     "type_rating": "Worker (A rating)",
     "route": "Skilled Worker"
   }
